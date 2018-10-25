@@ -1,0 +1,3761 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+
+#: 
+msgid "License verification"
+msgstr "Verificare licență"
+
+#: 
+msgid "Calendar"
+msgstr "Calendar"
+
+#: 
+msgid "Appointments"
+msgstr "Rezervări"
+
+#: 
+msgid "Staff Members"
+msgstr "Departamente"
+
+#: 
+msgid "Services"
+msgstr "Servicii"
+
+#: 
+msgid "SMS Notifications"
+msgstr "Notificări SMS"
+
+#: 
+msgid "Email Notifications"
+msgstr "Notificări eMail"
+
+#: 
+msgid "Customers"
+msgstr "Clienți"
+
+#: 
+msgid "Payments"
+msgstr "Plăți"
+
+#: 
+msgid "Appearance"
+msgstr "Aspect"
+
+#: 
+msgid "Settings"
+msgstr "Setări"
+
+#: 
+msgid "Custom Fields"
+msgstr "Suplimentar"
+
+#: 
+msgid "Profile"
+msgstr "Profil"
+
+#: 
+msgid "Messages"
+msgstr "Mesaje"
+
+#: 
+msgid "Today"
+msgstr "Astăzi"
+
+#: 
+msgid "Next month"
+msgstr "Luna viitoare"
+
+#: 
+msgid "Previous month"
+msgstr "Luna anterioară"
+
+#: 
+msgid "Settings saved."
+msgstr "Setări salvate."
+
+#: 
+msgid "Your custom CSS was saved. Please refresh the page to see your changes."
+msgstr "CSS-ul dvs. a fost salvat. Vă rugăm reîncărcați pagina pentru a vedea modificările."
+
+#: 
+msgid "Visible when the chosen time slot has been already booked"
+msgstr "Vizibil chiar dacă intervalul de timp a fost rezervat deja"
+
+#: 
+msgid "Date"
+msgstr "Data"
+
+#: 
+msgid "Time"
+msgstr "Ora"
+
+#: 
+msgid "Price"
+msgstr "Preț"
+
+#: 
+msgid "Edit"
+msgstr "Editare"
+
+#: 
+msgid "Remove"
+msgstr "Șterge"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "Visible to non-logged in customers only"
+msgstr "Vizibil și pentru utilizatori ne-înregistrați"
+
+#: 
+msgid "total quantity of appointments in cart"
+msgstr "cantitate totală (rezervări) în coș"
+
+#: 
+msgid "booking number"
+msgstr "număr rezervare"
+
+#: 
+msgid "name of category"
+msgstr "categoria"
+
+#: 
+msgid "login form"
+msgstr "formular intrare"
+
+#: 
+msgid "number of persons"
+msgstr "număr de persoane"
+
+#: 
+msgid "date of service"
+msgstr "data serviciului"
+
+#: 
+msgid "info of service"
+msgstr "informații despre serviciu"
+
+#: 
+msgid "name of service"
+msgstr "nume serviciu"
+
+#: 
+msgid "price of service"
+msgstr "prețul serviciului"
+
+#: 
+msgid "time of service"
+msgstr "ora serviciului"
+
+#: 
+msgid "info of staff"
+msgstr "info departament"
+
+#: 
+msgid "name of staff"
+msgstr "nume departament"
+
+#: 
+msgid "total price of booking"
+msgstr "preț total rezervări"
+
+#: 
+msgid "Edit custom CSS"
+msgstr "Editare CSS particularizat"
+
+#: 
+msgid "Set up your custom CSS styles"
+msgstr "Setare stil particular CSS"
+
+#: 
+msgid "Save"
+msgstr "Salvare"
+
+#: 
+msgid "Cancel"
+msgstr "Anulare"
+
+#: 
+msgid "Show form progress tracker"
+msgstr "Afișare bară de progres"
+
+#: 
+msgid "Click on the underlined text to edit."
+msgstr "Pentru editare faceți clic pe textul subliniat."
+
+#: 
+msgid "Make selecting employee required"
+msgstr "Selectarea angajatului obligatorie"
+
+#: 
+msgid "Show service price next to employee name"
+msgstr "Arată prețul prestării serviciului lângă numele angajatului"
+
+#: 
+msgid "Show service duration next to service name"
+msgstr "Arată durata prestării serviciului lângă numele angajatului"
+
+#: 
+msgid "Show calendar"
+msgstr "Afișare calendar"
+
+#: 
+msgid "Show blocked timeslots"
+msgstr "Arată intervalele blocate"
+
+#: 
+msgid "Show each day in one column"
+msgstr "Fiecare zi într-o coloană"
+
+#: 
+msgid "Make phone field required"
+msgstr "Câmpul TELEFON va fi obligatoriu"
+
+#: 
+msgid "Show Login button"
+msgstr "Afișați butonul de conectare"
+
+#: 
+msgid "Do not forget to update your email and SMS codes for customer names"
+msgstr "Nu uitați să actualizați emailul și codurile SMS ale clienților"
+
+#: 
+msgid "Use first and last name instead of full name"
+msgstr "Utilizați prenumele și numele separat în loc de nume-și-prenume într-un singur câmp"
+
+#: 
+msgid "The booking form on this step may have different set or states of its elements. It depends on various conditions such as installed/activated add-ons, settings configuration or choices made on previous steps. Select option and click on the underlined text to edit."
+msgstr "La acest pas, formularul de rezervare poate avea mai multe setări ce depind de diferite condiții cum ar fi: module instalate/activate, setări generale ori setări făcute în pașii anteriori. Pentru editare faceți clic pe textul subliniat."
+
+#: 
+msgid "Form view in case of single booking"
+msgstr "Formular vizibil în cazul unei rezervări simple"
+
+#: 
+msgid "Form view in case of multiple booking"
+msgstr "Formular vizibil în cazul unei rezervări multiple"
+
+#: 
+msgid "Tomorrow"
+msgstr "Mâine"
+
+#: 
+msgid "Yesterday"
+msgstr "Ieri"
+
+#: 
+msgid "Last 7 Days"
+msgstr "Ultimele 7 zile"
+
+#: 
+msgid "Last 30 Days"
+msgstr "Ultimele 30 zile"
+
+#: 
+msgid "This Month"
+msgstr "Luna curentă"
+
+#: 
+msgid "Next Month"
+msgstr "Luna viitoare"
+
+#: 
+msgid "Custom Range"
+msgstr "Selectare interval"
+
+#: 
+msgid "Apply"
+msgstr "Aplică"
+
+#: 
+msgid "To"
+msgstr "Către"
+
+#: 
+msgid "From"
+msgstr "De la"
+
+#: 
+msgid "Are you sure?"
+msgstr "Sigur?"
+
+#: 
+msgid "No appointments for selected period."
+msgstr "Nu este nici o rezervare în perioada selectată."
+
+#: 
+msgid "Processing..."
+msgstr "Procesare..."
+
+#: 
+msgid "%s of %s"
+msgstr "%s din %s"
+
+#: 
+msgid "Export to CSV"
+msgstr "Export în CSV"
+
+#: 
+msgid "Delimiter"
+msgstr "Delimitator"
+
+#: 
+msgid "Comma (,)"
+msgstr "Virgulă (,)"
+
+#: 
+msgid "Semicolon (;)"
+msgstr "Punct și virgulă (;)"
+
+#: 
+msgid "No."
+msgstr "Nr."
+
+#: 
+msgid "Booking Time"
+msgstr "Oră rezervare"
+
+#: 
+msgid "Customer Name"
+msgstr "Nume client"
+
+#: 
+msgid "Customer Phone"
+msgstr "Telefon client"
+
+#: 
+msgid "Customer Email"
+msgstr "Email client"
+
+#: 
+msgid "Duration"
+msgstr "Durata"
+
+#: 
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgid "Payment"
+msgstr "Plata"
+
+#: 
+msgid "Print"
+msgstr "Tipărire"
+
+#: 
+msgid "Appointment Date"
+msgstr "Data Rezervării"
+
+#: 
+msgid "New appointment"
+msgstr "Rezervare nouă"
+
+#: 
+msgid "Customer"
+msgstr "Client"
+
+#: 
+msgid "Edit appointment"
+msgstr "Editare rezervare"
+
+#: 
+msgid "Week"
+msgstr "Săptămână"
+
+#: 
+msgid "Day"
+msgstr "Zi"
+
+#: 
+msgid "Month"
+msgstr "Lună"
+
+#: 
+msgid "All Day"
+msgstr "Toată ziua"
+
+#: 
+msgid "Delete"
+msgstr "Șterge"
+
+#: 
+msgid "No staff selected"
+msgstr "Nu este selectat nici un departament"
+
+#: 
+msgid "Recurring appointments"
+msgstr "Rezervări recursive"
+
+#: 
+msgid "On waiting list"
+msgstr "Pe lista de așteptare"
+
+#: 
+msgid "Start time must not be empty"
+msgstr "Ora de început nu poate lipsi"
+
+#: 
+msgid "End time must not be empty"
+msgstr "Ora finală nu poate lipsi"
+
+#: 
+msgid "End time must not be equal to start time"
+msgstr "Ora finală nu poate fi aceeași cu ora de început"
+
+#: 
+msgid "The number of customers should not be more than %d"
+msgstr "Numărul de clienți nu ar trebui să fie mai mare de %d"
+
+#: 
+msgid "Could not save appointment in database."
+msgstr "Nu se poate salva rezervarea în baza de date."
+
+#: 
+msgid "Untitled"
+msgstr "Fără titlu"
+
+#: 
+msgid "Provider"
+msgstr "Furnizor"
+
+#: 
+msgid "Service"
+msgstr "Serviciu"
+
+#: 
+msgid "-- Select a service --"
+msgstr "-- Selectare serviciu --"
+
+#: 
+msgid "Please select a service"
+msgstr "Vă rog selectați un serviciu"
+
+#: 
+msgid "Location"
+msgstr "Locație"
+
+#: 
+msgid "Period"
+msgstr "Perioada"
+
+#: 
+msgid "to"
+msgstr "până la"
+
+#: 
+msgid "Selected period doesn't match service duration"
+msgstr "Perioada selectată nu se potrivește cu durata prestării serviciului"
+
+#: 
+msgid "The selected period is occupied by another appointment"
+msgstr "Perioada selectată este deja ocupată de altă rezervare"
+
+#: 
+msgid "Selected / maximum"
+msgstr "Selectat / maxim"
+
+#: 
+msgid "Minimum capacity"
+msgstr "Capacitate minimă"
+
+#: 
+msgid "Edit booking details"
+msgstr "Editare detalii rezervare"
+
+#: 
+msgid "Remove customer"
+msgstr "Ștergere client"
+
+#: 
+msgid "-- Search customers --"
+msgstr "-- Căutare client --"
+
+#: 
+msgid "New customer"
+msgstr "Client nou"
+
+#: 
+msgid "Send notifications"
+msgstr "Trimite notificări"
+
+#: 
+msgid "If email or SMS notifications are enabled and you want customers or staff member to be notified about this appointment after saving, select appropriate option before clicking Save. With \"If status changed\" the notifications are sent to those customers whose status has just been changed. With \"To all customers\" the notifications are sent to everyone in the list."
+msgstr "Dacă notificările prin eMail ori SMS sunt activate și doriți ca membri departamentului și clienții să fie înștiințați cu privire la rezervare după salvare, setați opțiunile respective înainte de a apăsa butonul salvare. Cu opțiunea „Dacă se modifcă status-ul” vor fi trimise notificări doar acelor clienți a căror status s-a modificat. Cu opțiunea „Către toți clienții” vor fi trimise notificări tututror clienților din listă."
+
+#: 
+msgid "If email or SMS notifications are enabled and you want customers or yourself to be notified about this appointment after saving, select appropriate option before clicking Save. With \"If status changed\" the notifications are sent to those customers whose status has just been changed. With \"To all customers\" the notifications are sent to everyone in the list."
+msgstr "Dacă notificările prin eMail ori SMS sunt activate și doriți ca dumneavoastră ori clienții să fie înștiințați cu privire la rezervare după salvare, setați opțiunile respective înainte de a apăsa butonul salvare. Cu opțiunea „Dacă se modifcă status-ul” vor fi trimise notificări doar acelor clienți a căror status s-a modificat. Cu opțiunea „Către toți clienții” vor fi trimise notificări tututror clienților din listă."
+
+#: 
+msgid "Don't send"
+msgstr "Nu trimite"
+
+#: 
+msgid "If status changed"
+msgstr "Dacă se modifică status-ul"
+
+#: 
+msgid "To all customers"
+msgstr "Către toți clienții"
+
+#: 
+msgid "Internal note"
+msgstr "Adnotare internă"
+
+#: 
+msgid "Number of persons"
+msgstr "Număr de persoane"
+
+#: 
+msgid "Extras"
+msgstr "Extras"
+
+#: 
+msgid "Cancellation reason (optional)"
+msgstr "Motiv de anulare (opțional)"
+
+#: 
+msgid "All"
+msgstr "Toate"
+
+#: 
+msgid "All staff"
+msgstr "Toate departamentele"
+
+#: 
+msgid "Welcome to Bookly!"
+msgstr "Bun venit la Bookly!"
+
+#: 
+msgid "Thank you for purchasing our product."
+msgstr "Mulțumim pentru achiziția produsului nostru."
+
+#: 
+msgid "Bookly offers a simple solution for making appointments. With our plugin you will be able to easily manage your availability time and handle the flow of your clients."
+msgstr "Bookly oferă o soluție simplă de realizare a rezervărilor online. Cu acest modul veți putea gestiona ușor disponibilitatea clienților și fluxul de lucru din departamentele dvs."
+
+#: 
+msgid "To start using Bookly, you need to follow these steps which are the minimum requirements to get it running!"
+msgstr "Pentru a începe să utilizați Bookly aveți nevoie să parcurgeți câțiva pași, să setați cerințele minime, pentru ca modului să ruleze corespunzător!"
+
+#: 
+msgid "Add staff members."
+msgstr "Adaugă departamente."
+
+#: 
+msgid "Add services and assign them to staff members."
+msgstr "Adăugare servicii și asignarea lor la departamente."
+
+#: 
+msgid "Add Staff Members"
+msgstr "Adaugă Departamente"
+
+#: 
+msgid "Add Services"
+msgstr "Adaugă Servicii"
+
+#: 
+msgid "All services"
+msgstr "Toate serviciile"
+
+#: 
+msgid "Code"
+msgstr "Cod"
+
+#: 
+msgid "All Services"
+msgstr "Toate serviciile"
+
+#: 
+msgid "Reorder"
+msgstr "Reordonare"
+
+#: 
+msgid "No customers found."
+msgstr "Nu s-a găsit nici un client."
+
+#: 
+msgid "Edit customer"
+msgstr "Editare client"
+
+#: 
+msgid "Create customer"
+msgstr "Creare client"
+
+#: 
+msgid "Quick search customer"
+msgstr "Căutare rapidă client"
+
+#: 
+msgid "User"
+msgstr "Utilizator"
+
+#: 
+msgid "Notes"
+msgstr "Notă"
+
+#: 
+msgid "Last appointment"
+msgstr "Rezervare recentă"
+
+#: 
+msgid "Total appointments"
+msgstr "Total rezervări"
+
+#: 
+msgid "Date of birth"
+msgstr "Data nașterii"
+
+#: 
+msgid "New Customer"
+msgstr "Client Nou"
+
+#: 
+msgid "First name"
+msgstr "Prenume"
+
+#: 
+msgid "Required"
+msgstr "Necesar"
+
+#: 
+msgid "Last name"
+msgstr "Nume"
+
+#: 
+msgid "Name"
+msgstr "NumeȘiPrenume"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Import"
+msgstr "Import"
+
+#: 
+msgid "Note"
+msgstr "Notă"
+
+#: 
+msgid "Select file"
+msgstr "Selectați fișierul"
+
+#: 
+msgid "Delete customers"
+msgstr "Ștergere clienți"
+
+#: 
+msgid "You are about to delete customers which may have WordPress accounts associated to them. Do you want to delete those accounts too (if there are any)?"
+msgstr "Sunteți pe cale să ștergeți clienți ce ar putea avea asociat un cont WordPress. Doriți să ștergeți inclusiv acest cont (dacă există)?"
+
+#: 
+msgid "Remember my choice"
+msgstr "Reține alegerea făcută"
+
+#: 
+msgid "No, delete just customers"
+msgstr "Nu. Șterge doar clienții"
+
+#: 
+msgid "Yes"
+msgstr "Da"
+
+#: 
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d zi"
+msgstr[1] "%d zile"
+msgstr[2] "%d zile"
+
+#: 
+msgid "Thank you for choosing Bookly as your booking solution."
+msgstr "Vă mulțumim pentru faptul că ați ales Bookly ca soluție pentru rezervare online."
+
+#: 
+msgid "Please verify your license by providing a valid purchase code. Upon providing the purchase code you will get access to software updates, including feature improvements and important security fixes."
+msgstr "Vă rog verificați licența furnizând un cod valid primit la cumpărare. După validarea codului veți obține acces la actualizări ce includ atât îmbunățiri cât și corecții ale unor elemente de siguranță."
+
+#: 
+msgid "If you do not provide a valid purchase code within {days}, access to your bookings will be disabled."
+msgstr "Dacă nu furnizați un cod de achiziție în {days} zile, accesul la rezervările dumneavoastră va fi dezactivat."
+
+#: 
+msgid "I have already made the purchase"
+msgstr "Am făcut deja achiziția"
+
+#: 
+msgid "I want to make a purchase now"
+msgstr "Vreau să cumpăr acum"
+
+#: 
+msgid "I will provide license info later"
+msgstr "Voi furniza licența de achiziție mai târziu"
+
+#: 
+msgid "Access to your bookings has been disabled."
+msgstr "Accesul la rezervările dumneavoastră online a fost dezactivat."
+
+#: 
+msgid "To enable access to your bookings, please verify your license by providing a valid purchase code."
+msgstr "Pentru a activa accesul dumneavoastră la rezevăril online, vă rog activați licența furnizând un cod valabil de achiziție."
+
+#: 
+msgid "License verification required"
+msgstr "Este necesară validarea licenței"
+
+#: 
+msgid "Bookly - License verification required"
+msgstr "Bookly - este necesară validarea licenței"
+
+#: 
+msgid "If you do not provide a valid purchase code within {days}, access to your bookings will be disabled. <a href=\"{url}\">Details</a>"
+msgstr "Dacă nu furnizați un cod de achiziție valid în {days}, accesul dvs. la rezervările online va fi dezctivat. <a href=\"{url}\">Detalii</a>"
+
+#: 
+msgid "To enable access to your bookings, please verify your license by providing a valid purchase code. <a href=\"{url}\">Details</a>"
+msgstr "Pentru a activa accesul la rezervările dvs. online, vă rugăm validați licența furnizând un cond de achiziție valid. <a href=\"{url}\">Detalii</a>"
+
+#: 
+msgid "Please contact your website administrator in order to verify the license."
+msgstr "Vă rog contactați administratorul site-ului pentru a valida licența."
+
+#: 
+msgid "If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Dacă nu validați licența în {days}, accesul dvs. la rezervările online va fi dezactivat."
+
+#: 
+msgid "Proceed to Bookly without license verification"
+msgstr "Utilizează Bookly fără verificarea licenței"
+
+#: 
+msgid "To enable access to your bookings, please contact your website administrator in order to verify the license."
+msgstr "Pentru a avea acces la rezervările dumneavoastră, vă rog contactați administratorul site-ului și validați licența."
+
+#: 
+msgid "Cannot find your purchase code? See this <a href=\"%s\" target=\"_blank\">page</a>."
+msgstr "Nu găsiți codul de achiziție? Urmăriți detalii pe această <a href=\"%s\" target=\"_blank\">pagină</a>."
+
+#: 
+msgid "Purchase Code"
+msgstr "Cod de achiziție"
+
+#: 
+msgid "Proceed to Bookly without activating Add-ons"
+msgstr "Continuați cu Bookly fără activarea de module"
+
+#: 
+msgid "License verification succeeded"
+msgstr "Validare cu succes a licenței"
+
+#: 
+msgid "Your license has been verified successfully."
+msgstr "Licența dumneavoastră a fost validată cu succes."
+
+#: 
+msgid "You have access to software updates, including feature improvements and important security fixes."
+msgstr "Acum aveți acces la actualizări, inclusiv îmbunătățiri sau corecții de securitate."
+
+#: 
+msgid "Proceed"
+msgstr "Executați"
+
+#: 
+msgid "Sent successfully."
+msgstr "Expediat cu succes."
+
+#: 
+msgid "Subject"
+msgstr "Subiect"
+
+#: 
+msgid "Message"
+msgstr "Mesaj"
+
+#: 
+msgid "Send copy to administrators"
+msgstr "Trimite o copie administratorului"
+
+#: 
+msgid "Sending time"
+msgstr "Ora expediției"
+
+#: 
+msgid "Set the time you want the notification to be sent."
+msgstr "Setați ora la care doriți să fie expediată notificarea."
+
+#: 
+msgid "%s before"
+msgstr "înainte cu %s"
+
+#: 
+msgid "date of appointment"
+msgstr "data rezervării"
+
+#: 
+msgid "time of appointment"
+msgstr "ora rezervării"
+
+#: 
+msgid "end date of appointment"
+msgstr "data finală a rezervării"
+
+#: 
+msgid "end time of appointment"
+msgstr "ora finală a rezervării"
+
+#: 
+msgid "URL of approve appointment link (to use inside <a> tag)"
+msgstr "URL pentru aprobarea rezervării (link utilizat in interiorul tagului <a> )"
+
+#: 
+msgid "cancel appointment link"
+msgstr "link anulare rezervare"
+
+#: 
+msgid "URL of cancel appointment link (to use inside <a> tag)"
+msgstr "URL pentru anularea rezervării (link utilizat in interiorul tagului <a> )"
+
+#: 
+msgid "reason you mentioned while deleting appointment"
+msgstr "motiv menționat la ștergerea rezervării"
+
+#: 
+msgid "email of client"
+msgstr "eMail client"
+
+#: 
+msgid "full name of client"
+msgstr "Numele complet al clientului"
+
+#: 
+msgid "first name of client"
+msgstr "Prenumele clientului"
+
+#: 
+msgid "last name of client"
+msgstr "Numele de familie al clientului"
+
+#: 
+msgid "phone of client"
+msgstr "telefon client"
+
+#: 
+msgid "name of company"
+msgstr "nume organizație"
+
+#: 
+msgid "company logo"
+msgstr "logo organizație"
+
+#: 
+msgid "address of company"
+msgstr "adresa organizației"
+
+#: 
+msgid "company phone"
+msgstr "telefon organizație"
+
+#: 
+msgid "company web-site address"
+msgstr "adresa web a organizației"
+
+#: 
+msgid "URL for adding event to client's Google Calendar (to use inside <a> tag)"
+msgstr "URL-ul pentru adăugarea evenimentului pe Calegarul Google al clientului (utilizat în interiorul tag-ului <a> )"
+
+#: 
+msgid "payment type"
+msgstr "tip plată"
+
+#: 
+msgid "duration of service"
+msgstr "durata serviciului"
+
+#: 
+msgid "email of staff"
+msgstr "email departament"
+
+#: 
+msgid "phone of staff"
+msgstr "telefon departament"
+
+#: 
+msgid "photo of staff"
+msgstr "foto departament"
+
+#: 
+msgid "total price of booking (sum of all cart items after applying coupon)"
+msgstr "preț total al rezervărilor (suma elementelor din coș după aplicarea cuponului)"
+
+#: 
+msgid "cart information"
+msgstr "informații coș cumpărături"
+
+#: 
+msgid "cart information with cancel"
+msgstr "informații coș cumpărături cu anulare"
+
+#: 
+msgid "customer new username"
+msgstr "nume client nou"
+
+#: 
+msgid "customer new password"
+msgstr "parolă client nou"
+
+#: 
+msgid "site address"
+msgstr "adresă site"
+
+#: 
+msgid "date of next day"
+msgstr "data zilei următoare"
+
+#: 
+msgid "staff agenda for next day"
+msgstr "agenda departamentului pentru ziua următoare"
+
+#: 
+msgid "Test Email Notifications"
+msgstr "Testare Notificări Email"
+
+#: 
+msgid "To email"
+msgstr "La email"
+
+#: 
+msgid "Sender name"
+msgstr "Nume expeditor"
+
+#: 
+msgid "Sender email"
+msgstr "Email expeditor"
+
+#: 
+msgid "Reply directly to customers"
+msgstr "Răspunde direct clientului"
+
+#: 
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: 
+msgid "Enabled"
+msgstr "Activat"
+
+#: 
+msgid "Send emails as"
+msgstr "Trimite emailuri în format"
+
+#: 
+msgid "HTML"
+msgstr "HTML"
+
+#: 
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgid "Notification templates"
+msgstr "Șabloane notificări"
+
+#: 
+msgid "All templates"
+msgstr "Toate șabloanele"
+
+#: 
+msgid "Send"
+msgstr "Trimite"
+
+#: 
+msgid "Close"
+msgstr "Închide"
+
+#: 
+msgid "HTML allows formatting, colors, fonts, positioning, etc. With Text you must use Text mode of rich-text editors below. On some servers only text emails are sent successfully."
+msgstr "HTML permite formatarea: culori, fonturi, poziționare, etc. Pentru modul Text trebuie să utilizați editorul de mai jos. Pe unele servere doar mesajele text sunt trimise cu succes."
+
+#: 
+msgid "If this option is enabled then the email address of the customer is used as a sender email address for notifications sent to staff members and administrators."
+msgstr "Dacă această opțiune este activată atunci adresa de eMail a clientului va fi utilizată pentru notificarea departamentelor și a administratorului."
+
+#: 
+msgid "Single"
+msgstr "Singur"
+
+#: 
+msgid "Codes"
+msgstr "Coduri"
+
+#: 
+msgid "Combined"
+msgstr "Combinat"
+
+#: 
+msgid "To send scheduled notifications please refer to <a href=\"%1$s\">Bookly Multisite</a> add-on <a href=\"%2$s\">message</a>."
+msgstr "Pentru a trimite notificări programate vă rugăm să vă documentați asupra mesajului la <a href=\"%1$s\">Bookly Multisite</a> add-on <a href=\"%2$s\"></a>."
+
+#: 
+msgid "To send scheduled notifications please execute the following command hourly with your cron:"
+msgstr "Pentru a trimite notificări programate vă rugăm executați în fiecare oră comanda cu planificatorul cron:"
+
+#: 
+msgid "Last Month"
+msgstr "Luna anterioară"
+
+#: 
+msgid "No payments for selected period and criteria."
+msgstr "Nici o plată nu corespunde criteriilor ori perioadei selectate."
+
+#: 
+msgid "Details"
+msgstr "Detalii"
+
+#: 
+msgid "See details for more items"
+msgstr "Vezi detaliile pentru mai multe opțiuni"
+
+#: 
+msgid "Type"
+msgstr "Tip"
+
+#: 
+msgid "Deposit"
+msgstr "Depozit"
+
+#: 
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: 
+msgid "Discount"
+msgstr "Discount"
+
+#: 
+msgid "Paid"
+msgstr "Plătit"
+
+#: 
+msgid "Due"
+msgstr "Datorie"
+
+#: 
+msgid "Complete payment"
+msgstr "Plată completă"
+
+#: 
+msgid "Amount"
+msgstr "Cantitate"
+
+#: 
+msgid "Min capacity should not be greater than max capacity."
+msgstr "Capacitatea minimă nu ar trebui să fie mai mare decât capacitatea maximă."
+
+#: 
+msgid "Specified order"
+msgstr "Ordinea specificată"
+
+#: 
+msgid "Least occupied that day"
+msgstr "Cel mai puțin ocupat în acea zi"
+
+#: 
+msgid "Most occupied that day"
+msgstr "Cel mai ocupat în acea zi"
+
+#: 
+msgid "Least expensive"
+msgstr "Cel mai ieftin"
+
+#: 
+msgid "Most expensive"
+msgstr "Cel mai scump"
+
+#: 
+msgid "%d service"
+msgid_plural "%d services"
+msgstr[0] "%d serviciu"
+msgstr[1] "%d servicii"
+msgstr[2] "%d servicii"
+
+#: 
+msgid "Simple"
+msgstr "Mostră"
+
+#: 
+msgid "Title"
+msgstr "Titlu"
+
+#: 
+msgid "Color"
+msgstr "Culori"
+
+#: 
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+#: 
+msgid "To make service invisible to your customers set the visibility to \"Private\"."
+msgstr "Pentru a face serviciul invizibil pentru client setați vizibilitatea pe „Privat”."
+
+#: 
+msgid "Public"
+msgstr "Public"
+
+#: 
+msgid "Private"
+msgstr "Privat"
+
+#: 
+msgid "Padding time (before and after)"
+msgstr "Timp intermediar (înainte și după)"
+
+#: 
+msgid "Set padding time before and/or after an appointment. For example, if you require 15 minutes to prepare for the next appointment then you should set \"padding before\" to 15 min. If there is an appointment from 8:00 to 9:00 then the next available time slot will be 9:15 rather than 9:00."
+msgstr "Setare timp intermediar înainte și/sau după timpul efectiv al prestării serviciului. De exemplu, dacă aveți nevoie de 15 minute pentru a vă pregăti pentru următoarea programare atunci setați \"timp înainte\" la 15 min. Dacă este deja o rezervare de la 8:00 la 9:00 atunci următoare oră disiponibilă va fi 9:15 în loc de ora 9:00."
+
+#: 
+msgid "OFF"
+msgstr "ÎNCHIS"
+
+#: 
+msgid "Providers preference for ANY"
+msgstr "Preferințe furnizor în cazul „ORICARE”"
+
+#: 
+msgid "Allows you to define the rule of staff members auto assignment when ANY option is selected"
+msgstr "Puteți defini reguli predefinite pentru membri departamentului atunci când este activată opțiunea „ORICARE”"
+
+#: 
+msgid "Providers"
+msgstr "Furnizori"
+
+#: 
+msgid "Category"
+msgstr "Categorie"
+
+#: 
+msgid "Uncategorized"
+msgstr "Fără categorie"
+
+#: 
+msgid "Info"
+msgstr "Info"
+
+#: 
+msgid "This text can be inserted into notifications with %s code."
+msgstr "Aceste text va fi inserat în notificări la folosirea codului %s ."
+
+#: 
+msgid "New Category"
+msgstr "Categorie Nouă"
+
+#: 
+msgid "Add Service"
+msgstr "Adaugă Serviciu"
+
+#: 
+msgid "No services found. Please add services."
+msgstr "Nu s-a găsit nici un serviciu. Vă rog adăugați un serviciu."
+
+#: 
+msgid "Update service setting"
+msgstr "Actualizare setări serviciu"
+
+#: 
+msgid "You are about to change a service setting which is also configured separately for each staff member. Do you want to update it in staff settings too?"
+msgstr "Sunteți pe cale să faceți modificări ale unui serviciu ce este de asemenea configurat separat pentru fiecare departament. Doriți ca această actualizare să fie salvată și în setările departamentului?"
+
+#: 
+msgid "No, update just here in services"
+msgstr "Nu, actualizează doar aici în servicii"
+
+#: 
+msgid "To use the cart, disable integration with WooCommerce <a href=\"%s\">here</a>."
+msgstr "Pentru a utiliza coșul de cumpărături decuplați integrarea cu WooCommerce <a href=\"%s\">aici</a>."
+
+#: 
+msgid "WooCommerce cart is not set up. Follow the <a href=\"%s\">link</a> to correct this problem."
+msgstr "Coșul de cumpărături WooCommerce nu este setat. Urmați <a href=\"%s\">link-ul</a> pentru a corecta problema."
+
+#: 
+msgid "Repeat every year"
+msgstr "Se repetă în fiecare an"
+
+#: 
+msgid "We are not working on this day"
+msgstr "În această zi nu se lucrează"
+
+#: 
+msgid "Select product"
+msgstr "Selectare produs"
+
+#: 
+msgid "Appointment with one participant"
+msgstr "Rezervare pentru un participant"
+
+#: 
+msgid "Appointment with many participants"
+msgstr "Rezervare pentru mai mulți participanți"
+
+#: 
+msgid "Enter a value"
+msgstr "Introduceți o valoare"
+
+#: 
+msgid "capacity of service"
+msgstr "capacitatea serviciului"
+
+#: 
+msgid "number of persons already in the list"
+msgstr "număr de persoane aflate deja în listă"
+
+#: 
+msgid "status of payment"
+msgstr "status al plății"
+
+#: 
+msgid "status of appointment"
+msgstr "status al rezervării"
+
+#: 
+msgid "Cart"
+msgstr "Coș de cumpărături"
+
+#: 
+msgid "If cart is enabled then your clients will be able to book several appointments at once. Please note that WooCommerce integration must be disabled."
+msgstr "Dacă coșul este activat atunci clienții vor putea achiziționa mai multe rezervări simultan. Aveți grijă că integrarea WooCommerce trebuie să fie dezactivată."
+
+#: 
+msgid "Columns"
+msgstr "Coloane"
+
+#: 
+msgid "In order to improve your Bookly experience, we have started collecting anonymous plugin usage stats. If you don't want to provide this information, you can change permissions in Bookly settings."
+msgstr "Pentru a îmbunătăți experiența Bookly am început să colectăm statistici și date anonime cu privire la utilizarea modulului. Dacă nu doriți să furnizați aceste informații puteți modifca această permisiune din setările generale Bookly."
+
+#: 
+msgid "Image"
+msgstr "Imagine"
+
+#: 
+msgid "Company name"
+msgstr "Nume organizație"
+
+#: 
+msgid "Address"
+msgstr "Adresă"
+
+#: 
+msgid "Website"
+msgstr "Site Web"
+
+#: 
+msgid "Create WordPress user account for customers"
+msgstr "Crează cont WordPress pentru clienți"
+
+#: 
+msgid "If this setting is enabled then Bookly will be creating WordPress user accounts for all new customers. If the user is logged in then the new customer will be associated with the existing user account."
+msgstr "Dacă această setare este activată, atunci Bookly va crea conturi de utilizator WordPress pentru toți clienții noi. Dacă utilizatorul este conectat, noul client va fi asociat cu contul de utilizator existent."
+
+#: 
+msgid "New user account role"
+msgstr "Rol pentru utilizatorul nou"
+
+#: 
+msgid "Select what role will be assigned to newly created WordPress user accounts for customers."
+msgstr "Selectați rolul ce va fi asignat unui Client Nou în contul WordPress."
+
+#: 
+msgid "Phone field default country"
+msgstr "Codul implicit de țară în telefonie"
+
+#: 
+msgid "Select default country for the phone field in the 'Details' step of booking. You can also let Bookly determine the country based on the IP address of the client."
+msgstr "Selectați codul de țară implicit pentru telefonie, ce va fi folosit în ultimul pas, 'Detailii', al rezervării. Puteți lăsa Bookly să determine țara pe baza adresei de IP a clientului."
+
+#: 
+msgid "Guess country by user's IP address"
+msgstr "Identifică codul de țară după adresa IP"
+
+#: 
+msgid "Default country code"
+msgstr "Cod implicit de țară"
+
+#: 
+msgid "Your clients must have their phone numbers in international format in order to receive text messages. However you can specify a default country code that will be used as a prefix for all phone numbers that do not start with \"+\" or \"00\". E.g. if you enter \"1\" as the default country code and a client enters their phone as \"(600) 555-2222\" the resulting phone number to send the SMS to will be \"+1600555222\"."
+msgstr "Clienții trebuie să dețină un număr de telefon (mobil) în format intenațional pentru a puta primi mesaje text (SMS). Puteți stabili un cod de țară implicit ce va fi utilizat ca prefix pentru toate numerele de telefon care nu încep cu \"+\" sau \"00\". Eexmplu: dacă introduceți \"1\" ca și cod de țară implicit și clientul introduce numarul de telefon \"(600) 555-2222\", aplicația va converti numărul introdus astfel: \"+1600555222\", pentru a putea fi folosit la expedierea de SMS-uri."
+
+#: 
+msgid "Cancel appointment action"
+msgstr "Ce se întâmplă la anularea unei rezervări"
+
+#: 
+msgid "Select what happens when customer clicks cancel appointment link. With \"Delete\" the appointment will be deleted from the calendar. With \"Cancel\" only appointment status will be changed to \"Cancelled\"."
+msgstr "Selectați o opțiune pentru cazul în care clientul apasă link-ul de anulare din eMail. Cu „Ștergere” rezervarea va fi ștearsă din calendar. Cu „Anulare” se va schimba doar statusul rezervării în „Anulată”."
+
+#: 
+msgid "Combined notifications"
+msgstr "Notificări combinate"
+
+#: 
+msgid "If combined notifications are enabled then your clients will receive single notification for entire booking instead of separate notification per each booked appointment (e.g. when cart is enabled). You will need to edit corresponding templates in Email and SMS Notifications."
+msgstr "Dacă notificările combinate sunt active atunci clienții vor primi o singură notificare pentru toate rezervările, în loc să primească câte o notificare pentru fiecare rezervare (de exemplu, atunci când coșul de cumpărături este activat). Este nevoie de ajustarea mesajelor din șabloane în secțiunea Notificări eMail și Notificări SMS."
+
+#: 
+msgid "Remember personal information in cookies"
+msgstr "Reține informațiile personale în cookie-uri"
+
+#: 
+msgid "If this setting is enabled then returning customers will have their personal information fields filled in at the Details step with the data previously saved in cookies."
+msgstr "Dacă această setare este activată, clienții returnați vor avea câmpurile de informații personale completate la pasul „Detalii” cu datele salvate anterior în modulele cookie."
+
+#: 
+msgid "Time slot length"
+msgstr "Lungimea intervalului de timp ce poate fi rezervat"
+
+#: 
+msgid "Select a time interval which will be used as a step when building all time slots in the system."
+msgstr "Selectați un interval de timp ce va fi utilizat ca unitate incrementală la construirea agendei în sistem."
+
+#: 
+msgid "Service duration as slot length"
+msgstr "Durata prestării serviciului va fi pe întreaga durată a intervalului de timp ce poate fi rezervat"
+
+#: 
+msgid "Enable this option to make slot length equal to service duration at the Time step of booking form."
+msgstr "Activați această opțiune pentru a face durata intervalului de timp sistem egală cu durata serviciului."
+
+#: 
+msgid "Default appointment status"
+msgstr "Status implicit al rezervării"
+
+#: 
+msgid "Select status for newly booked appointments."
+msgstr "Setare status implicit pentru rezervările noi."
+
+#: 
+msgid "Pending"
+msgstr "În așteptare"
+
+#: 
+msgid "Approved"
+msgstr "Aprobat"
+
+#: 
+msgid "Minimum time requirement prior to booking"
+msgstr "Timp minim necesar înainte de rezervare"
+
+#: 
+msgid "Set how late appointments can be booked (for example, require customers to book at least 1 hour before the appointment time)."
+msgstr "Setați cu cât timp înainte se pot face rezervări (de exemplu, nu se mai pot face rezervări mai devreme de 1 oră înainte de ora pentru care se solicită prestarea serviciului)."
+
+#: 
+msgid "Minimum time requirement prior to canceling"
+msgstr "Timp minim necesar înainte de anulare"
+
+#: 
+msgid "Set how late appointments can be cancelled (for example, require customers to cancel at least 1 hour before the appointment time)."
+msgstr "Setați cu cât timp înainte se pot face anulări (de exemplu, nu se pot face anulări mai devreme de 1 oră înainte de ora pentru care se solicită prestarea serviciului)."
+
+#: 
+msgid "Approve appointment URL (success)"
+msgstr "URL pentru aprobare (în caz de succes)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully approved the appointment."
+msgstr "Setarea URL-ului către o pagină ce va fi afișată finalizarea cu succes a aprobării rezervării."
+
+#: 
+msgid "Approve appointment URL (denied)"
+msgstr "URL pentru aprobare (în caz de eșec)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the approval of appointment cannot be done (due to capacity, changed status, etc.)."
+msgstr "Setarea URL-ului către o pagină ce va fi afișată finalizarea FĂRĂ SUCCES a aprobării rezervării."
+
+#: 
+msgid "Cancel appointment URL (success)"
+msgstr "URL la anularea rezervării (cu succes)"
+
+#: 
+msgid "Set the URL of a page that is shown to clients after they successfully cancelled their appointment."
+msgstr "Setați un URL a unei pagini ce va fi afișată Clientului după ce și-a anulat o rezervare."
+
+#: 
+msgid "Cancel appointment URL (denied)"
+msgstr "URL pentru interzicere anulare rezervare"
+
+#: 
+msgid "Set the URL of a page that is shown to clients when the cancellation of appointment is not available anymore."
+msgstr "Setați un URL a unei pagini ce va fi afișată Clientului atunci când anularea unei rezervări nu mai este posibilă."
+
+#: 
+msgid "Number of days available for booking"
+msgstr "Număr de zile disponibile pentru rezervări online"
+
+#: 
+msgid "Set how far in the future the clients can book appointments."
+msgstr "Setarea intervalului maxim, în zile, în care se pot face rezervări."
+
+#: 
+msgid "Display available time slots in client's time zone"
+msgstr "Afișează, intervalele de timp disponibile, în ora locală a clientului"
+
+#: 
+msgid "Final step URL"
+msgstr "URL pentru finalizare rezervare"
+
+#: 
+msgid "Set the URL of a page that the user will be forwarded to after successful booking. If disabled then the default Done step is displayed."
+msgstr "Setați un URL a unei pagini unde va fi redirecționat utilizatorul la finalizarea cu succes a unei rezervări. Dacă este dezactivat atunci va fi utilizat modulul final (ultimul pas) din „Aspect”."
+
+#: 
+msgid "Enter a URL"
+msgstr "Introduceți un URL"
+
+#: 
+msgid "Allow staff members to edit their profiles"
+msgstr "Permite Departamentelor să-și gestioneze propriul profil"
+
+#: 
+msgid "If this option is enabled then all staff members who are associated with WordPress users will be able to edit their own profiles, services, schedule and days off."
+msgstr "Dacă această opțiune este activă atunci Departamentele ce au asociat un cont WordPress vor putea să-și gestioneze singure profilul, serviciile, agenda și zilele nelucrătoare."
+
+#: 
+msgid "Method to include Bookly JavaScript and CSS files on the page"
+msgstr "Metoda permite includerea în Bookly de coduri JavaScript și CSS în pagină"
+
+#: 
+msgid "With \"Enqueue\" method the JavaScript and CSS files of Bookly will be included on all pages of your website. This method should work with all themes. With \"Print\" method the files will be included only on the pages which contain Bookly booking form. This method may not work with all themes."
+msgstr "Cu metoda \"Enqueue\"  fișierele JavaScript și CSS din Bookly vor fi incluse în toate paginile siteului. Această metodă ar trebui să funcționeze cu toate temele WordPress. Prin metoda \"Print\" fișierele vor fi incluse doar în paginile ce conțin formulare Bookly. Această metodă nu funcționează cu toate temele WordPress."
+
+#: 
+msgid "Help us improve Bookly by sending anonymous usage stats"
+msgstr "Ajutați-ne să îmbunătățim Bookly prin permiterea expedierii de mesaje anonime cu statistici de utilizare"
+
+#: 
+msgid "Please enter a valid purchase code to change this setting."
+msgstr "Vă rugăm furnizați un cod valid de achiziție pentru a putea face această setare."
+
+#: 
+msgid "Instructions"
+msgstr "Instrucțiuni"
+
+#: 
+msgid "To find your client ID and client secret, do the following:"
+msgstr "Pentru a găsi ID-ul client și cheia secretă, procedați în felul următor:"
+
+#: 
+msgid "Go to the <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a>."
+msgstr "Navigați la <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a>."
+
+#: 
+msgid "Select a project, or create a new one."
+msgstr "Selectați un proiect ori creați unul nou."
+
+#: 
+msgid "Click in the upper left part to see a sliding sidebar. Next, click <b>API Manager</b>. In the list of APIs look for <b>Calendar API</b> and make sure it is enabled."
+msgstr "Dați clic în stânga-sus pentru a vedea bara glisantă. Apoi apăsați pe <b>API Manager</b>. În lista cu API-uri căutați <b>Calendar API</b> și asigurați-vă că opțiunea este activată."
+
+#: 
+msgid "In the sidebar on the left, select <b>Credentials</b>."
+msgstr "În bara din stânga selectați <b>Credentials</b>."
+
+#: 
+msgid "Go to <b>OAuth consent screen</b> tab and give a name to the product, then click <b>Save</b>."
+msgstr "Mergeți la <b>OAuth consent screen</b> apăsați tab și dați numele produsului, apoi apăsați <b>Save</b>."
+
+#: 
+msgid "Go to <b>Credentials</b> tab and in <b>New credentials</b> drop-down menu select <b>OAuth client ID</b>."
+msgstr "Mergeți la <b>Credentials</b> apăsați tab ași în <b>New credentials</b> selectați meniul derulant <b>OAuth client ID</b>."
+
+#: 
+msgid "Select <b>Web application</b> and create your project's OAuth 2.0 credentials by providing the necessary information. For <b>Authorized redirect URIs</b> enter the <b>Redirect URI</b> found below on this page. Click <b>Create</b>."
+msgstr "Selectați <b>Web application</b> și creați propriul proiect cu credențialele OAuth 2.0 furnizând informațiile necesare. Pentru <b>Authorized redirect URIs</b> introduceți <b>Redirect URI</b>, cod ce se găsește în partea de jos a paginii. Clic pe <b>Create</b>."
+
+#: 
+msgid "In the popup window look for the <b>Client ID</b> and <b>Client secret</b>. Use them in the form below on this page."
+msgstr "În fereastra popup căutați <b>Client ID</b> și <b>Client secret</b>. Folosiți-le în formularul de mai jos pe această pagină."
+
+#: 
+msgid "Go to Staff Members, select a staff member and click <b>Connect</b> which is located at the bottom of the page."
+msgstr "Mergeți la Departamente, selectați un departament și apăsați <b>Connect</b> buton ce este amplasat în partea de jos a paginii."
+
+#: 
+msgid "Client ID"
+msgstr "ID Client"
+
+#: 
+msgid "The client ID obtained from the Developers Console"
+msgstr "ID Client obținut din Consola Dezvoltatori (Developers Console)"
+
+#: 
+msgid "Client secret"
+msgstr "Cod secret Client"
+
+#: 
+msgid "The client secret obtained from the Developers Console"
+msgstr "Cod secret Client obținut din Consola Dezvoltatori (Developers Console)"
+
+#: 
+msgid "Redirect URI"
+msgstr "Redirectare URI"
+
+#: 
+msgid "Enter this URL as a redirect URI in the Developers Console"
+msgstr "URL redirectare URI obținut din Consola Dezvoltatori (Developers Console)"
+
+#: 
+msgid "2 way sync"
+msgstr "sincronizare dublu-sens"
+
+#: 
+msgid "By default Bookly pushes new appointments and any further changes to Google Calendar. If you enable this option then Bookly will fetch events from Google Calendar and remove corresponding time slots before displaying the second step of the booking form (this may lead to a delay when users click Next at the first step)."
+msgstr "Implicit Bookly transmite rezervările online și orice alte modificări către Google Calendar. Dacă activați această opțiune, atunci Bookly va prelua evenimentele din Google Calendar și va elimina intervalele de timp corespunzătoare înainte de a afișa al doilea pas al formularului de rezervare (acest lucru poate duce la o întârziere atunci când utilizatorii dau clic pe butonul „Următorul” la primul pas)."
+
+#: 
+msgid "Limit number of fetched events"
+msgstr "Numărul limită de evenimente preluate"
+
+#: 
+msgid "If there is a lot of events in Google Calendar sometimes this leads to a lack of memory in PHP when Bookly tries to fetch all events. You can limit the number of fetched events here. This only works when 2 way sync is enabled."
+msgstr "Dacă există multe evenimente în Google Calendar, uneori acest lucru duce la o lipsă de memorie în PHP atunci când Bookly încearcă să preia toate evenimentele. Aici puteți limita numărul de evenimente preluate. Acest lucru funcționează numai dacă sincronizarea dublu-sens este activată."
+
+#: 
+msgid "Template for event title"
+msgstr "Șablon pentru titlul evenimentului"
+
+#: 
+msgid "Configure what information should be placed in the title of Google Calendar event. Available codes are {service_name}, {staff_name} and {client_names}."
+msgstr "Configurare informații ce ar trebui plasate în titlul evenimentelor Google Calendar. Coduri disponibile {service_name}, {staff_name} și {client_names}."
+
+#: 
+msgid "Please note, the business hours below work as a template for all new staff members. To render a list of available time slots the system takes into account only staff members' schedule, not the company business hours. Be sure to check the schedule of your staff members if you have some unexpected behavior of the booking system."
+msgstr "Rețineți că orele de lucru de mai jos funcționează ca șablon pentru departamente nou create. Pentru a face o listă a intervalelor de timp disponibile, sistemul ia în considerare doar programul membrilor personalului (departamentului), nu orele de lucru ale companiei. Asigurați-vă că ați verificat programul de lucru (agenda) angajaților dvs. din Departamente, dacă observați un comportament neadecvat al sistemului de rezervare Bookly."
+
+#: 
+msgid "Currency"
+msgstr "Moneda"
+
+#: 
+msgid "Price format"
+msgstr "Formatul prețului"
+
+#: 
+msgid "Service paid locally"
+msgstr "Serviciu se va plăti pe loc"
+
+#: 
+msgid "Sandbox Mode"
+msgstr "Mod Sandbox"
+
+#: 
+msgid "No"
+msgstr "Nu"
+
+#: 
+msgid "API Username"
+msgstr "Nume API"
+
+#: 
+msgid "API Password"
+msgstr "Parola API"
+
+#: 
+msgid "API Signature"
+msgstr "Semnătură API"
+
+#: 
+msgid "Client"
+msgstr "Client"
+
+#: 
+msgid "Upon providing the purchase code you will have access to free updates of Bookly. Updates may contain functionality improvements and important security fixes. For more information on where to find your purchase code see this <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-can-I-find-my-Purchase-Code-\" target=\"_blank\">page</a>."
+msgstr "După furnizarea codului de achiziție veți avea acces la actualizările gratuite Bookly. Actualizările pot conține îmbunătățiri de funcționalitate și corecții importante de securitate. Pentru mai multe informații despre locul unde puteți găsi codul dvs. de achiziție, consultați această <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-can-I-find-my-Purchase-Code-\" target=\"_blank\">pagină</a>."
+
+#: 
+msgid "You need to install and activate WooCommerce plugin before using the options below.<br/><br/>Once the plugin is activated do the following steps:"
+msgstr "Trebuie să instalați și să activați modulul WooCommerce înainte de a utiliza opțiunile de mai jos. După ce plugin-ul este activat, parcurgeți pașii următori:"
+
+#: 
+msgid "Create a product in WooCommerce that can be placed in cart."
+msgstr "Creați un produs în WooCommerce care poate fi plasat în coș."
+
+#: 
+msgid "In the form below enable WooCommerce option."
+msgstr "În formularul de mai jos, activați opțiunea WooCommerce."
+
+#: 
+msgid "Select the product that you created at step 1 in the drop down list of products."
+msgstr "Selectați produsul pe care l-ați creat la pasul 1 din lista derulantă a produselor."
+
+#: 
+msgid "If needed, edit item data which will be displayed in the cart."
+msgstr "Dacă este necesar, editați datele despre elemente care vor fi afișate în coș."
+
+#: 
+msgid "Note that once you have enabled WooCommerce option in Bookly the built-in payment methods will no longer work. All your customers will be redirected to WooCommerce cart instead of standard payment step."
+msgstr "Rețineți că odată ce ați activat opțiunea WooCommerce în Bookly, metodele de plată integrate nu vor mai funcționa. Toți clienții dvs. vor fi redirecționați către coșul WooCommerce în loc de pasul standard de plată."
+
+#: 
+msgid "Booking product"
+msgstr "Produs Rezervat"
+
+#: 
+msgid "Cart item data"
+msgstr "Caracteristicile elementului din coș"
+
+#: 
+msgid "General"
+msgstr "General"
+
+#: 
+msgid "Company"
+msgstr "Organizație"
+
+#: 
+msgid "Google Calendar"
+msgstr "Calendar Google"
+
+#: 
+msgid "Business Hours"
+msgstr "Ore de lucru"
+
+#: 
+msgid "Holidays"
+msgstr "Zile libere"
+
+#: 
+msgid "Please accept terms and conditions."
+msgstr "Vă rugăm să acceptați termenii și condițiile."
+
+#: 
+msgid "Your payment has been accepted for processing."
+msgstr "Plata dvs. a fost acceptată pentru procesare."
+
+#: 
+msgid "Your payment has been interrupted."
+msgstr "Plata dvs. a fost întreruptă."
+
+#: 
+msgid "Auto-Recharge enabled."
+msgstr "Auto-Reîncărcare activată."
+
+#: 
+msgid "You declined the Auto-Recharge of your balance."
+msgstr "Ați refuzat reîncărcarea automată a soldului."
+
+#: 
+msgid "Please enter old password."
+msgstr "Introduceți parola veche."
+
+#: 
+msgid "Passwords must be the same."
+msgstr "Parolele trebuie să fie identice."
+
+#: 
+msgid "Sender ID request is sent."
+msgstr "Solicitarea ID-ului de expeditor este trimisă."
+
+#: 
+msgid "Sender ID is reset to default."
+msgstr "ID-ul expeditorului este resetat la valoarea prestabilită."
+
+#: 
+msgid "No records for selected period."
+msgstr "Nu există înregistrări pentru perioada selectată."
+
+#: 
+msgid "No records."
+msgstr "Nu există înregistrări."
+
+#: 
+msgid "Auto-Recharge has failed, please replenish your balance directly."
+msgstr "Reîncărcarea automată a eșuat, vă rugăm să completați soldul direct."
+
+#: 
+msgid "Auto-Recharge disabled"
+msgstr "Reîncărcarea automată este dezactivată"
+
+#: 
+msgid "Error. Can't disable Auto-Recharge, you can perform this action in your PayPal account."
+msgstr "Eroare! Nu puteți dezactiva Auto-Reîncărcare, puteți efectua această acțiune doar în contul dvs. PayPal."
+
+#: 
+msgid "SMS has been sent successfully."
+msgstr "SMS-ul a fost trimis cu succes."
+
+#: 
+msgid "We will only charge your PayPal account when your balance falls below $10."
+msgstr "Vom încărca din contul dvs. PayPal numai când soldul dvs. va scădea sub 10 USD."
+
+#: 
+msgid "Enable Auto-Recharge"
+msgstr "Activare Auto-Reîncărcare"
+
+#: 
+msgid "Disable Auto-Recharge"
+msgstr "Dezactivare Auto-Reîncărcare"
+
+#: 
+msgid "Administrator phone"
+msgstr "Telefon administrator"
+
+#: 
+msgid "Enter a phone number in international format. E.g. for the United States a valid phone number would be +17327572923."
+msgstr "Introduceți un număr de telefon în format internațional. De exemplu. Pentru Statele Unite, un număr de telefon valabil va fi de forma: +17327572923."
+
+#: 
+msgid "Send test SMS"
+msgstr "Trimite SMS de test"
+
+#: 
+msgid "Country"
+msgstr "Țara"
+
+#: 
+msgid "Regular price"
+msgstr "Preț obișnuit"
+
+#: 
+msgid "Price with custom Sender ID"
+msgstr "Prețul valabil pentru un ID expeditor"
+
+#: 
+msgid "If you do not see your country in the list please contact us at <a href=\"mailto:support@ladela.com\">support@ladela.com</a>."
+msgstr "Dacă nu vedeți țara dumneavoastră în listă vă rugăm să ne contactați la <a href=\"mailto:support@ladela.com\">support@ladela.com</a>."
+
+#: 
+msgid "Order"
+msgstr "Ordin"
+
+#: 
+msgid "Please take into account that not all countries by law allow custom SMS sender ID. Please check if particular country supports custom sender ID in our price list. Also please note that prices for messages with custom sender ID are usually 20% - 25% higher than normal message price."
+msgstr "Luați în considerare faptul că, conform legii, nu toate țările permit identificarea expeditorului SMS. Verificați dacă o anumită țară acceptă ID-ul expeditorului personalizat în lista noastră de prețuri. De asemenea, rețineți că prețurile pentru mesajele cu ID de expeditor personalizat sunt de obicei cu 20% - 25% mai mari decât prețul normal al mesajului."
+
+#: 
+msgid "Request Sender ID"
+msgstr "ID Expeditor necesar"
+
+#: 
+msgid "or"
+msgstr "sau"
+
+#: 
+msgid "Reset to default"
+msgstr "Resetare la valorile implicite"
+
+#: 
+msgid "Can only contain letters or digits (up to 11 characters)."
+msgstr "Poate conține doar litere sau cifre (până la 11 caractere)."
+
+#: 
+msgid "Request"
+msgstr "Solicitare"
+
+#: 
+msgid "Cancel request"
+msgstr "Solicitare anulare"
+
+#: 
+msgid "Requested ID"
+msgstr "ID Solicitare"
+
+#: 
+msgid "Status Date"
+msgstr "Data status"
+
+#: 
+msgid "Sender ID"
+msgstr "ID Expeditor"
+
+#: 
+msgid "Cost"
+msgstr "Cost"
+
+#: 
+msgid "Your balance"
+msgstr "Balanța dumneavoastră"
+
+#: 
+msgid "Send email notification to administrators at low balance"
+msgstr "Trimiteți o notificare prin e-mail administratorilor la atingerea unui prag redus al soldului"
+
+#: 
+msgid "Send weekly summary to administrators"
+msgstr "Trimiteți rezumat săptămânal administratorilor"
+
+#: 
+msgid "Change"
+msgstr "Schimbă"
+
+#: 
+msgid "Approved at"
+msgstr "Aprobat la"
+
+#: 
+msgid "Log out"
+msgstr "Ieșire"
+
+#: 
+msgid "Notifications"
+msgstr "Notificări"
+
+#: 
+msgid "Add money"
+msgstr "Adăugare bani"
+
+#: 
+msgid "Auto-Recharge"
+msgstr "Auto-Reîncărcare"
+
+#: 
+msgid "Purchases"
+msgstr "Cumărături"
+
+#: 
+msgid "SMS Details"
+msgstr "Detalii SMS"
+
+#: 
+msgid "Price list"
+msgstr "Lista de prețuri"
+
+#: 
+msgid "SMS Notifications (or \"Bookly SMS\") is a service for notifying your customers via text messages which are sent to mobile phones."
+msgstr "Notificările SMS (sau \"Bookly SMS\") reprezintă un serviciu de notificare a clienților dvs. prin intermediul mesajelor text trimise pe telefoanele mobile."
+
+#: 
+msgid "It is necessary to register in order to start using this service."
+msgstr "Este necesar să vă înregistrați pentru a începe să utilizați acest serviciu."
+
+#: 
+msgid "After registration you will need to configure notification messages and top up your balance in order to start sending SMS."
+msgstr "După înregistrare, va trebui să configurați mesajele de notificare SMS și să adăugați bani în sold pentru a începe trimiterea mesajelor SMS."
+
+#: 
+msgid "Login"
+msgstr "Logare"
+
+#: 
+msgid "Password"
+msgstr "Parola"
+
+#: 
+msgid "Log In"
+msgstr "Intrare"
+
+#: 
+msgid "Registration"
+msgstr "Înregistrare"
+
+#: 
+msgid "Forgot password"
+msgstr "Am uitat parola"
+
+#: 
+msgid "Repeat password"
+msgstr "Reintroduceți parola"
+
+#: 
+msgid "Register"
+msgstr "Înregistrare"
+
+#: 
+msgid "Enter code from email"
+msgstr "Introduceți codul primit prin email"
+
+#: 
+msgid "New password"
+msgstr "Parola nouă"
+
+#: 
+msgid "Repeat new password"
+msgstr "Repetați parola nouă"
+
+#: 
+msgid "Next"
+msgstr "Următorul"
+
+#: 
+msgid "Change password"
+msgstr "Schimbă parola"
+
+#: 
+msgid "Old password"
+msgstr "Parola veche"
+
+#: 
+msgid "Terms & Conditions"
+msgstr "Termeni și Condiții"
+
+#: 
+msgid "All locations"
+msgstr "Toate locațiile"
+
+#: 
+msgid "No locations selected"
+msgstr "Nici o locație selectată"
+
+#: 
+msgid "The start time must be less than the end one"
+msgstr "Ora de început trebuie să fie mai mică decât ora de la sfârșit"
+
+#: 
+msgid "The requested interval is not available"
+msgstr "Intervalul solicitat nu este disponibil"
+
+#: 
+msgid "Error adding the break interval"
+msgstr "Eroare la adăugarea pauzei"
+
+#: 
+msgid "Delete break"
+msgstr "Anulează pauza"
+
+#: 
+msgid "Breaks"
+msgstr "Pauză"
+
+#: 
+msgid "Full name"
+msgstr "Nume complet"
+
+#: 
+msgid "If this staff member requires separate login to access personal calendar, a regular WP user needs to be created for this purpose."
+msgstr "Dacă acest membru al personalului (departament) solicită autentificare separată pentru a accesa calendarul personal, trebuie creat un utilizator WP obișnuit pentru acest scop."
+
+#: 
+msgid "User with \"Administrator\" role will have access to calendars and settings of all staff members, user with another role will have access only to personal calendar and settings."
+msgstr "Utilizatorul cu rol \"Administrator\" va avea acces la calendarele și setările tuturor membrilor personalului, utilizatorul cu un alt rol va avea acces numai la calendarul personalizat și la setările personale."
+
+#: 
+msgid "If you leave this field blank, this staff member will not be able to access personal calendar using WP backend."
+msgstr "Dacă lăsați acest câmp necompletat, acest membru al personalului nu va putea accesa calendarul personal utilizând backend-ul WP."
+
+#: 
+msgid "Select from WP users"
+msgstr "Selectați unul dintre utilizatorii WP"
+
+#: 
+msgid "To make staff member invisible to your customers set the visibility to \"Private\"."
+msgstr "Pentru a face invizibil Departamentul clienților dvs. stabiliți vizibilitatea ca \"privat\"."
+
+#: 
+msgid "Google Calendar integration"
+msgstr "Integrarea cu Google Calendar"
+
+#: 
+msgid "Synchronize staff member appointments with Google Calendar."
+msgstr "Sincronizați rezervările Departamentelor cu Google Calendar."
+
+#: 
+msgid "Connect"
+msgstr "Conectare"
+
+#: 
+msgid "Please configure Google Calendar <a href=\"%s\">settings</a> first"
+msgstr "Vă rugăm configurați prima dată <a href=\"%s\">setările</a> Google Calendar"
+
+#: 
+msgid "Connected"
+msgstr "Conectat"
+
+#: 
+msgid "disconnect"
+msgstr "deconectat"
+
+#: 
+msgid "New Staff Member"
+msgstr "Departament Nou"
+
+#: 
+msgid "Schedule"
+msgstr "Agenda"
+
+#: 
+msgid "Days off"
+msgstr "Zile libere"
+
+#: 
+msgid "add break"
+msgstr "adăugare pauză"
+
+#: 
+msgid "Reset"
+msgstr "Resetare"
+
+#: 
+msgid "All fields marked with an asterisk (*) are required."
+msgstr "Toate câmpurile marcate cu asterisk (*) sunt obligatoriu de completat."
+
+#: 
+msgid "Invalid email."
+msgstr "Email în format neacceptat."
+
+#: 
+msgid "Error sending support request."
+msgstr "Eroare la trimiterea cererii de asistență."
+
+#: 
+msgid "Show all notifications"
+msgstr "Afișarea tuturor notificărilor"
+
+#: 
+msgid "Mark all notifications as read"
+msgstr "Marchează toate notificările ca fiind citite"
+
+#: 
+msgid "Documentation"
+msgstr "Documentare"
+
+#: 
+msgid "Need help? Contact us here."
+msgstr "Aveți nevoie de ajutor? Contactați-ne aici."
+
+#: 
+msgid "Contact Us"
+msgstr "Contactați-ne"
+
+#: 
+msgid "We care about your experience using Bookly!<br/>Leave a review and tell others what you think."
+msgstr "Ne pasă de experiența dvs. la folosirea Bookly! <br/> Lăsați o recenzie și spuneți și altora părerea dumneavoastră."
+
+#: 
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgid "Leave us a message"
+msgstr "Lăsați-ne un mesaj"
+
+#: 
+msgid "Your name"
+msgstr "Numele și prenumele dumneavoastră"
+
+#: 
+msgid "Email address"
+msgstr "Adresa de eMail"
+
+#: 
+msgid "How can we help you?"
+msgstr "Cum vă putem ajuta?"
+
+#: 
+msgid "How likely is it that you would recommend Bookly to a friend or colleague?"
+msgstr "Cât de probabil este să recomandați Bookly unui prieten sau coleg?"
+
+#: 
+msgid "What do you think should be improved?"
+msgstr "Ce credeți că ar trebui îmbunătățit?"
+
+#: 
+msgid "Please enter your email (optional)"
+msgstr "Introduceți adresa dvs. de email (opțional)"
+
+#: 
+msgid "Please leave your feedback <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Vă rugăm să lăsați un feedback <a href=\"%s\" target=\"_blank\"> aici </a>."
+
+#: 
+msgid "Subscribe to monthly emails about Bookly improvements and new releases."
+msgstr "Abonați-vă la e-mailurile lunare Bookly ce vor anunța îmbunătățiri și lansări noi."
+
+#: 
+msgid "Add Bookly booking form"
+msgstr "Adăugați un formular Bookly"
+
+#: 
+msgid "Add Bookly appointments list"
+msgstr "Adăugați o listă a rezervărilor"
+
+#: 
+msgid "Titles"
+msgstr "Cap de tabel"
+
+#: 
+msgid "Staff"
+msgstr "Departament"
+
+#: 
+msgid "Insert"
+msgstr "Inserare"
+
+#: 
+msgid "Default value for category select"
+msgstr "Valoarea implicită pentru categoria selectată"
+
+#: 
+msgid "Select category"
+msgstr "Selectare Categorie"
+
+#: 
+msgid "Hide this field"
+msgstr "Ascunde acest câmp"
+
+#: 
+msgid "Default value for service select"
+msgstr "Valoarea prestabilită la selectarea serviciului"
+
+#: 
+msgid "Select service"
+msgstr "Selectare Serviciu"
+
+#: 
+msgid "Please be aware that a value in this field is required in the frontend. If you choose to hide this field, please be sure to select a default value for it"
+msgstr "Rețineți că este necesară o valoare în acest câmp al interfeței. Dacă alegeți să ascundeți acest câmp, asigurați-vă că selectați o valoare implicită pentru acesta"
+
+#: 
+msgid "Default value for employee select"
+msgstr "Valoarea prestabilită pentru selectarea prestatorului"
+
+#: 
+msgid "Any"
+msgstr "Oricare"
+
+#: 
+msgid "Hide this block"
+msgstr "Ascunde acest bloc"
+
+#: 
+msgid "Week days"
+msgstr "Zilele săptămânii"
+
+#: 
+msgid "Time range"
+msgstr "Interval de timp"
+
+#: 
+msgid "Insert Appointment Booking Form"
+msgstr "Introduceți formularul de rezervare pentru rezervări online"
+
+#: 
+msgid "Show more"
+msgstr "Arată mai mult"
+
+#: 
+msgid "Session error."
+msgstr "Eroare de sesiune."
+
+#: 
+msgid "Form ID error."
+msgstr "ID Formular eroare."
+
+#: 
+msgid "Pay locally is not available."
+msgstr "Plata locală nu este disponibilă."
+
+#: 
+msgid "Invalid gateway."
+msgstr "Poartă (gateway) nevalidă."
+
+#: 
+msgid "No time is available for selected criteria."
+msgstr "Nu este disponibil nici un interval de timp pentru criteriile selectate."
+
+#: 
+msgid "Data already in use"
+msgstr "Datele sunt deja în uz"
+
+#: 
+msgid "Page Redirection"
+msgstr "Redirectare pagină"
+
+#: 
+msgid "If you are not redirected automatically, follow the <a href=\"%s\">link</a>."
+msgstr "Dacă nu sunteți redirecționat automat, urmați <a href=\"%s\">linkul </a>."
+
+#: 
+msgid "Loading..."
+msgstr "Încărcare..."
+
+#: 
+msgid "Not allowed"
+msgstr "Nepermis"
+
+#: 
+msgid "Expired"
+msgstr "Expirat"
+
+#: 
+msgid "No appointments found."
+msgstr "Nu s-a găsit nici o rezervare."
+
+#: 
+msgid "Show past appointments"
+msgstr "Arată rezervările mai vechi"
+
+#: 
+msgid "Invalid token provided"
+msgstr "Tokenul furnizat este invalid"
+
+#: 
+msgid "Error"
+msgstr "Eroare"
+
+#: 
+msgid "Sorry, the time slot %date_time% for %service% has been already occupied."
+msgstr "Îmi pare rău, intervalul de timp %date_time% pentru serviciul %service% este deja ocupat."
+
+#: 
+msgid "Service was not found"
+msgstr "Serviciul nu a fost găsit"
+
+#: 
+msgid "%s is not a valid purchase code for %s."
+msgstr "%s nu este un cod valid de achiziție pentru %s."
+
+#: 
+msgid "Purchase code verification is temporarily unavailable. Please try again later."
+msgstr "Verificarea codului de cumpărare este temporar indisponibilă. Vă rugăm să încercați din nou mai târziu."
+
+#: 
+msgid " and %d more item"
+msgid_plural " and %d more items"
+msgstr[0] " și %d mai mult"
+msgstr[1] " și %d mai multe"
+msgstr[2] " și %d mai multe"
+
+#: 
+msgid "Your appointment information"
+msgstr "Detalii rezervării dumneavoastră"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Acest mesaj reprezintă confirmarea rezervării online pentru serviciul {service_name}.\n"
+"\n"
+"Vă așteptăn la adresa {company_address}, în data {appointment_date}, la ora {appointment_time}.\n"
+"\n"
+"Vă mulțumim că ați ales să colaborați cu noi.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked the following items:\n"
+"\n"
+"{cart_info}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Acest mesaj este confirmarea că ați făcut rezervare pentru următoarele servicii:\n"
+"\n"
+"{cart_info}\n"
+"\n"
+"Vă mulțumim pentru alegerea făcută.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New booking information"
+msgstr "Detalii rezervare nouă"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"\n"
+"Aveți o rezervare nouă.\n"
+"\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Booking cancellation"
+msgstr "Anulare rezervare online"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Ați anulat rezervarea pentru serviciul {service_name}, din data {appointment_date}, la ora {appointment_time}.\n"
+"\n"
+"Vă mulțumim pentru colaborare.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"\n"
+"Următoarea rezervare a fost anulată.\n"
+"\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Booking rejection"
+msgstr "Rezervare respinsă"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Rezervarea dvs. pentru serviciul {service_name}, din data {appointment_date}, de la ora {appointment_time} a fost respinsă.\n"
+"\n"
+"Motiv: {cancellation_reason}\n"
+"\n"
+"Vă mulțumim pentru colaborare.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"\n"
+"Următoarea rezervare a fost respinsă.\n"
+"\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"An account was created for you at {site_address}\n"
+"\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr "Salut.\n"
+"\n"
+"A fost creat un cont nou la site-ul {site_address}\n"
+"\n"
+"Detalii:\n"
+"utilizator: {new_username}\n"
+"parola: {new_password}\n"
+"\n"
+"Mulțumesc."
+
+#: 
+msgid "Your appointment at {company_name}"
+msgstr "Rezervarea dumneavoastră la compania/organizația: {company_name}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} tomorrow at {appointment_time}. We are waiting for you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Dorim să vă reamintim că ați rezervat {service_name} mâine la {appointment_time}. Vă așteptăm la {company_address}.\n"
+"\n"
+"Vă mulțumim că ați ales compania noastră.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} on {appointment_date} at {appointment_time}. We are waiting for you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Dorim să vă reamintim că ați făcut o rezervare la serviciul {service_name}, în data {appointment_date}, la ora {appointment_time}. Vă așteptăm la adresa: {company_address}.\n"
+"\n"
+"Vă mulțumim pentru colaborare.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Your visit to {company_name}"
+msgstr "Vizita dumneavoastră la compania/organizația {company_name}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your {service_name}.\n"
+"\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate {client_name}.\n"
+"\n"
+"Vă mulțumim că ați ales compani/organizația noastră, {company_name}. Sperăm că ați fost mulțumit de serviciile noastre prestate de {service_name}.\n"
+"\n"
+"Vă mulțumim și vă mai așteptăm.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Happy Birthday!"
+msgstr "LA MULȚI ANI!"
+
+#: 
+msgid "Dear {client_name},\n"
+"\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name},\n"
+"\n"
+"La Mulți Ani!\n"
+"Vă dorim toate cele bune.\n"
+"Sperăm ca dumneavoastră și și familia să fiți sănătoși și împliniți.\n"
+"\n"
+"Vă mulțumim pentru colaborare.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Your agenda for {tomorrow_date}"
+msgstr "Agenda dumneavoastră pentru mâine {tomorrow_date}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"Your agenda for tomorrow is:\n"
+"\n"
+"{next_day_agenda}"
+msgstr "Salut.\n"
+"\n"
+"Agenda dumneavoastră pentru mâine este:\n"
+"\n"
+"{next_day_agenda}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Acest mesaj este confirmarea rezervării pentru serviciul: {service_name}.\n"
+"Vă așteptăm la: {company_address}, în data {appointment_date}, la ora {appointment_time}.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked the following items:\n"
+"{cart_info}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Acest mesaj este confirmarea rezervării pentru următoarele servicii: \n"
+"{cart_info}\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"Aveți o rezervare nouă.\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Ați anulat rezervarea la {service_name}, din dada {appointment_date}, de la ora {appointment_time}.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been cancelled.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"Următoarea rezervare a fost anulată.\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Rezervarea dvs. la {service_name}, din data {appointment_date}, de la ora {appointment_time} a fost respinsă.\n"
+"Motiv: {cancellation_reason}\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Salut.\n"
+"Următoarea rezervare a fost respinsă.\n"
+"Serviciu: {service_name}\n"
+"Data: {appointment_date}\n"
+"Ora: {appointment_time}\n"
+"Nume Client: {client_name}\n"
+"Telefon Client: {client_phone}\n"
+"EMail Client: {client_email}"
+
+#: 
+msgid "Hello.\n"
+"An account was created for you at {site_address}\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr "Salut.\n"
+"A fost creat un un cont nou pe site-ul {site_address}\n"
+"Detalii:\n"
+"utilizator: {new_username}\n"
+"parola: {new_password}\n"
+"\n"
+"Mulțumesc."
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow at {appointment_time}. We are waiting for you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Dorim să vă reamintim că ați rezervat {service_name} mâine la {appointment_time}. Vă așteptăm la {company_address}.\n"
+"Vă mulțumim că ați ales compania noastră.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} on {appointment_date} at {appointment_time}. We are waiting for you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Dorim să vă reamintim că ați făcut o rezervare la {service_name}, în data {appointment_date}, la ora {appointment_time}. Vă așteptăm la adresa {company_address}.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your {service_name}.\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Vă mulțumim că ați ales compania/organizația {company_name}. Sperăm că sunteți mulțumiți de serviciile prestare de {service_name}.\n"
+"Vă mulțumim pentru colaborare și vă mai așteptăm.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name},\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "{client_name},\n"
+"La Mulți Ani !\n"
+"Vă dorim toate cele bune.\n"
+"Sperăm c mesajul nostru să vă găsească bucuroși și sănătoși.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"Your agenda for tomorrow is:\n"
+"{next_day_agenda}"
+msgstr "Salut.\n"
+"Agenda pentru mâine este:\n"
+"{next_day_agenda}"
+
+#: 
+msgid "Back"
+msgstr "Înapoi"
+
+#: 
+msgid "Book More"
+msgstr "Mai multe"
+
+#: 
+msgid "Below you can find a list of services selected for booking.\n"
+"Click BOOK MORE if you want to add more services."
+msgstr "Mai jos puteți găsi o listă de servicii ce pot fi selectate pentru a face rezervări.\n"
+"Faceți clic pe MAI MULTE dacă doriți să adăugați mai multe servicii."
+
+#: 
+msgid "Thank you! Your booking is complete. An email with details of your booking has been sent to you."
+msgstr "Mulțumesc! Rezervarea dvs. este finalizată. V-a fost trimis un e-mail cu detaliile rezervării dvs."
+
+#: 
+msgid "You selected a booking for {service_name} by {staff_name} at {service_time} on {service_date}. The price for the service is {service_price}.\n"
+"Please provide your details in the form below to proceed with booking."
+msgstr "Ați selectat serviciul {service_name}, prestat de {staff_name}, la data {service_date}, ora {service_time}. Prețul pentru acest serviciu este {service_price}.\n"
+"Vă rugăm să furnizați datele dvs. în formularul de mai jos pentru a continua rezervarea."
+
+#: 
+msgid "Please tell us how you would like to pay: "
+msgstr "Spuneți-ne cum doriți să plătiți: "
+
+#: 
+msgid "Please select service: "
+msgstr "Selectați serviciul: "
+
+#: 
+msgid "Below you can find a list of available time slots for {service_name} by {staff_name}.\n"
+"Click on a time slot to proceed with booking."
+msgstr "Mai jos puteți găsi o listă de intervale de timp disponibile pentru {service_name} prestat de {staff_name}.\n"
+"Faceți clic pe un interval de timp pentru a continua rezervarea."
+
+#: 
+msgid "Card Security Code"
+msgstr "Codul de securitate al cardului"
+
+#: 
+msgid "Expiration Date"
+msgstr "Data expirării"
+
+#: 
+msgid "Credit Card Number"
+msgstr "Numărul Cardului de Credit"
+
+#: 
+msgid "Coupon"
+msgstr "Cupon"
+
+#: 
+msgid "Employee"
+msgstr "Angajat"
+
+#: 
+msgid "Finish by"
+msgstr "Finalizat de"
+
+#: 
+msgid "I will pay now with Credit Card"
+msgstr "Voi plăti acum cu cardul de credit"
+
+#: 
+msgid "I will pay locally"
+msgstr "Voi plăti la fața locului"
+
+#: 
+msgid "I will pay now with Mollie"
+msgstr "Voi plăti acum cu Mollie"
+
+#: 
+msgid "I will pay now with PayPal"
+msgstr "Voi plăti acum cu PayPal"
+
+#: 
+msgid "I'm available on or after"
+msgstr "Sunt disponibil de la data"
+
+#: 
+msgid "Start from"
+msgstr "Începe de la"
+
+#: 
+msgid "Please tell us your email"
+msgstr "Vă sugăm să ne dați adresa dvs. de eMail"
+
+#: 
+msgid "Please select an employee"
+msgstr "Vă rugăm selectați un angajat"
+
+#: 
+msgid "Please tell us your name"
+msgstr "Vă rugăm să precizați numele și prenumele dumneavoastră"
+
+#: 
+msgid "Please tell us your first name"
+msgstr "Vă rugăm să ne spuneți prenumele dumneavoastră"
+
+#: 
+msgid "Please tell us your last name"
+msgstr "Vă rugăm să ne spuneți numele de familie al dumneavoastră"
+
+#: 
+msgid "Please tell us your phone"
+msgstr "Vă rugăm să ne spuneți numărul dvs. de telefon mobil"
+
+#: 
+msgid "The selected time is not available anymore. Please, choose another time slot."
+msgstr "Intervalul de timp selectat nu mai este disponibil. Alegeți un alt interval de timp."
+
+#: 
+msgid "The highlighted time is not available anymore. Please, choose another time slot."
+msgstr "Intervalul de timp evidențiat nu mai este disponibil. Alegeți un alt interval de timp."
+
+#: 
+msgid "Done"
+msgstr "Gata"
+
+#: 
+msgid "Signed up"
+msgstr "Semnează"
+
+#: 
+msgid "Capacity"
+msgstr "Capacitate"
+
+#: 
+msgid "Appointment"
+msgstr "Rezervare"
+
+#: 
+msgid "A new appointment has been created. To view the details of this appointment, please contact your website administrator in order to verify Bookly license."
+msgstr "A fost creată o nouă rezervare online. Pentru a vedea detaliile acestei rezervări, vă rugăm să contactați administratorul site-ului dvs. pentru a valida licența Bookly."
+
+#: 
+msgid "You have a new appointment. To view it, contact your admin to verify Bookly license."
+msgstr "Aveți o nouă întâlnire. Pentru a o vedea, contactați administratorul pentru a valida licența Bookly."
+
+#: 
+msgid "A new appointment has been created. To view the details of this appointment, please verify Bookly license in the administrative panel."
+msgstr "A fost creată o nouă rezervare online. Pentru a vedea detaliile acestei întâlniri, validați licența Bookly din panoul de administrare."
+
+#: 
+msgid "You have a new appointment. To view it, please verify Bookly license."
+msgstr "Aveți o nouă rezervare online. Pentru a o vizualiza, validați licența Bookly."
+
+#: 
+msgid "Please contact your website administrator to verify Bookly license. If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Contactați administratorul site-ului dvs. Web pentru a valida licența Bookly. Dacă nu validați licența în termen de {zile}, accesul la rezervările dvs. online va fi dezactivat."
+
+#: 
+msgid "Contact your admin to verify Bookly license; {days} remaining."
+msgstr "Contactați administratorul pentru a valida licența Bookly; {days} rămase."
+
+#: 
+msgid "Please verify Bookly license in the administrative panel. If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Verificați licența Bookly în panoul de administrare. Dacă nu validați licența în termen de {days}, accesul la rezervările dvs. va fi dezactivat."
+
+#: 
+msgid "Please verify Bookly license; {days} remaining."
+msgstr "Vă rugăm validați licența Bookly; {days} rămase."
+
+#: 
+msgid "Please contact your website administrator in order to verify the license for Bookly add-ons. If you do not verify the license within {days}, the respective add-ons will be disabled."
+msgstr "Vă rugăm să contactați administratorul site-ului pentru a valida licența pentru modulele Bookly (add-on-uri). Dacă nu validați licența în termen de {days}, respectivele suplimente vor fi dezactivate."
+
+#: 
+msgid "Contact your admin to verify Bookly add-ons license; {days} remaining."
+msgstr "Contactați administratorul dvs. pentru a valida licența suplimentului Bookly; {days} rămase."
+
+#: 
+msgid "Please verify the license for Bookly add-ons in the administrative panel. If you do not verify the license within {days}, the respective add-ons will be disabled."
+msgstr "Verificați licența pentru Suplimente Bookly din panoul de administrare. Dacă nu validați licența în termen de {days}, respectivele suplimente vor fi dezactivate."
+
+#: 
+msgid "Please verify Bookly add-ons license; {days} remaining."
+msgstr "Verificați licența suplimentelor Bookly (add-on-uri); {days} rămase."
+
+#: 
+msgid "Please verify your Bookly license"
+msgstr "Vă rugăm să confirmați licența Bookly"
+
+#: 
+msgid "Bookly will need to verify your license to restore access to your bookings. Please enter the purchase code in the administrative panel."
+msgstr "Bookly va trebui să vă verifice licența pentru a restabili accesul la rezervările dvs. Introduceți codul de achiziție în panoul de administrare."
+
+#: 
+msgid "sent to our system"
+msgstr "trimis către sistemul nostru"
+
+#: 
+msgid "Hope you had a good weekend! Here's a summary of messages we've delivered last week:\n"
+"{notification_list}\n"
+"\n"
+"Your system sent a total of {total} messages last week (that's {delta} {sign} than the week before).\n"
+"Cost of sending {total} messages was {amount}. You current Bookly SMS balance is {balance}.\n"
+"\n"
+"Thank you for using Bookly SMS. We wish you a lucky week!\n"
+"Bookly SMS Team."
+msgstr "Sper că ați avut parte de un weekend bun! \n"
+"Iată un rezumat al mesajelor pe care le-am transmis săptămâna trecută:\n"
+"{Notification_list}\n"
+"\n"
+"Sistemul dvs. a trimis un total de {total} mesaje săptămâna trecută (adică {sign} {delta} față de săptămâna anterioară.\n"
+"Costul de trimitere a {total} mesaje a fost în sumă de {suma}. Soldul curent al SMS Bookly este de {balance}.\n"
+"\n"
+"Vă mulțumim pentru utilizarea SMS Bookly. Vă dorim o săptămână frumoasă!\n"
+"\n"
+"Echipa SMS Bookly."
+
+#: 
+msgid "more"
+msgstr "mai mult"
+
+#: 
+msgid "less"
+msgstr "mai puțin"
+
+#: 
+msgid "Bookly SMS weekly summary"
+msgstr "Rezumat săptămânal SMS"
+
+#: 
+msgid "Your don't have enough Bookly SMS credits to send this message. Please add funds to your balance and try again."
+msgstr "Nu aveți suficiente credite Bookly SMS pentru a trimite mesaje. Vă rugăm adăugați fonduri apoi reîncercați."
+
+#: 
+msgid "Failed to send SMS."
+msgstr "Nu s-a putut trimite SMS-ul."
+
+#: 
+msgid "Phone number is empty."
+msgstr "Numărul de telefon lipsește."
+
+#: 
+msgid "Queued"
+msgstr "În așteptare"
+
+#: 
+msgid "Out of credit"
+msgstr "Nu mai sunt bani în contul de credit"
+
+#: 
+msgid "Country out of service"
+msgstr "Țară în afara serviciului"
+
+#: 
+msgid "Sending"
+msgstr "Trimitere"
+
+#: 
+msgid "Sent"
+msgstr "Trimis"
+
+#: 
+msgid "Delivered"
+msgstr "Livrat"
+
+#: 
+msgid "Failed"
+msgstr "Eșuat"
+
+#: 
+msgid "Undelivered"
+msgstr "Nelivrat"
+
+#: 
+msgid "Default"
+msgstr "Mod implicit"
+
+#: 
+msgid "Declined"
+msgstr "Refuzat"
+
+#: 
+msgid "Cancelled"
+msgstr "Anulat"
+
+#: 
+msgid "Error connecting to server."
+msgstr "Eroare de conectarea la server."
+
+#: 
+msgid "Dear Bookly SMS customer.\n"
+"We would like to notify you that your Bookly SMS balance fell lower than 5 USD. To use our service without interruptions please recharge your balance by visiting Bookly SMS page <a href='%s'>here</a>.\n"
+"\n"
+"If you want to stop receiving these notifications, please update your settings <a href='%s'>here</a>."
+msgstr "Stimate client SMS BOOKLY.\n"
+"Dorim să vă anunțăm că soldul dvs. la contul SMS a scăzut sub 5 USD. Pentru a utiliza serviciul nostru fără întreruperi, vă rugăm să reîncărcați soldul vizitând pagina Bookly SMS <a href='%s'> aici </a>.\n"
+"\n"
+"Dacă doriți să nu mai primiți aceste notificări, vă rugăm să actualizați setările <a href='%s'> aici </a>."
+
+#: 
+msgid "Bookly SMS - Low Balance"
+msgstr "Bookly SMS - Balanța contului este redusă"
+
+#: 
+msgid "Empty password."
+msgstr "Fără parolă."
+
+#: 
+msgid "Incorrect password."
+msgstr "Parolă incorectă."
+
+#: 
+msgid "Incorrect recovery code."
+msgstr "Cod de recuperare incorect."
+
+#: 
+msgid "Incorrect email or password."
+msgstr "Parolă sau eMail incorect."
+
+#: 
+msgid "Incorrect sender ID"
+msgstr "Cod Expeditor incorect"
+
+#: 
+msgid "Pending sender ID already exists."
+msgstr "Codul expeditor în așteptare există deja."
+
+#: 
+msgid "Recovery code expired."
+msgstr "Codul de recuperare a expirat."
+
+#: 
+msgid "Error sending email."
+msgstr "Eroare la trimiterea e-mailului."
+
+#: 
+msgid "User not found."
+msgstr "Utilizator inexistent."
+
+#: 
+msgid "Email already in use."
+msgstr "Email utilizat deja."
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"\n"
+"Acest mesaj reprezintă confirmarea rezervării la serviciul: {service_name}.\n"
+"\n"
+"Vă așteptăm la adresa {company_address}, în data {appointment_date}, la ora {appointment_time}.\n"
+"\n"
+"Vă mulțumim pentru colaborare.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Acest mesaj reprezintă confirmarea rezervării la serviciul: {service_name}.\n"
+"Vă așteptăm la adresa {company_address}, în data {appointment_date}, la ora {appointment_time}.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow on {appointment_time}. We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Stimate(ă) {client_name}.\n"
+"Dorim să vă reamintim că ați făcut o rezervare pentru serviciul {service_name}, mâine la ora {appointment_time}. Vă așteptăm la adresa: {company_address}.\n"
+"Vă mulțumim pentru colaborare.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "The price for the service is {service_price}."
+msgstr "Prețul pentru prestarea serviciului este {service_price}."
+
+#: 
+msgid "Notes (optional)"
+msgstr "Notițe (opțional)"
+
+#: 
+msgid "Invalid email"
+msgstr "Email invalid"
+
+#: 
+msgid "This email is already in use"
+msgstr "Acest email este deja folosit"
+
+#: 
+msgid "\"%s\" is too long (%d characters max)."
+msgstr "\"%s\" este prea lung (%d caractere max)."
+
+#: 
+msgid "Invalid number"
+msgstr "Număr invalid"
+
+#: 
+msgid "Invalid date"
+msgstr "Dată nevalidă"
+
+#: 
+msgid "Invalid time"
+msgstr "Oră nevalidă"
+
+#: 
+msgid "Your %s: %s is already associated with another %s.<br/>Press Update if we should update your user data, or press Cancel to edit entered data."
+msgstr " %s: %s este deja asociat(ă) cu alt %s.<br/>Apăsați pe „Actualizează” dacă doriți să vă actualizați datele sau apăsați pe „Anulează” pentru a introduce alte date."
+
+#: 
+msgid "Check for updates"
+msgstr "Caută actualizări"
+
+#: 
+msgid "This plugin is up to date."
+msgstr "Suplimentul este actualizat."
+
+#: 
+msgid "A new version of this plugin is available."
+msgstr "Este disponibilă o versiune nouă a acestui modul suplimentar."
+
+#: 
+msgid "Unknown update checker status \"%s\""
+msgstr "Situație necunoscută a actualizărilor \"%s\""
+
+#: 
+msgid "To update - enter the <a href=\"%s\">Purchase Code</a>"
+msgstr "Pentru actualizare - introduceți <a href=\"%s\">Codul de achiziție</a>"
+
+#: 
+msgid "Rejected"
+msgstr "Respins"
+
+#: 
+msgid "Notification to customer about approved appointment"
+msgstr "Notificarea Clientului cu privire la Rezervarea Aprobată"
+
+#: 
+msgid "Notification to customer about approved appointments"
+msgstr "Notificarea Clientului cu privire la Rezervările Aprobate"
+
+#: 
+msgid "Notification to customer about cancelled appointment"
+msgstr "Notificarea Clientului despre Rezervarea Anulată"
+
+#: 
+msgid "Notification to customer about rejected appointment"
+msgstr "Notificarea Clientului cu privire la Rezervarea Respinsă"
+
+#: 
+msgid "Follow-up message in the same day after appointment (requires cron setup)"
+msgstr "Mesaj de Mulțumire pentru Client,  în aceeași zi, după întâlnire (necesită configurare cron)"
+
+#: 
+msgid "Notification to customer about their WordPress user login details"
+msgstr "Notificarea Clientului cu privire la detaliile de conectare ca Utilizator WordPress"
+
+#: 
+msgid "Notification to customer about pending appointment"
+msgstr "Notificarea Clientului cu privire la Rezervarea în Așteptare"
+
+#: 
+msgid "Notification to customer about pending appointments"
+msgstr "Notificarea Clientului cu privire la Rezervările în Așteptare"
+
+#: 
+msgid "Evening reminder to customer about next day appointment (requires cron setup)"
+msgstr "Reamintire pentru Client, cu o seară înainte, despre întâlnirea de a doua zi (necesită configurare cron)"
+
+#: 
+msgid "1st reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "Primul memento adresat Clientului înainte de întâlnirea programată (necesită configurare cron)"
+
+#: 
+msgid "2nd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "Al doilea memento către Client înainte de întâlnirea programată (necesită configurare cron)"
+
+#: 
+msgid "3rd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "Al treilea memento către Client înainte de întâlnirea programată (necesită configurare cron)"
+
+#: 
+msgid "Customer birthday greeting (requires cron setup)"
+msgstr "Felicitare de Ziua de Naștere a Clientului (necesită configurare cron)"
+
+#: 
+msgid "Evening notification with the next day agenda to staff member (requires cron setup)"
+msgstr "Publicarea Agendei a Zilei Următoare pentru Departament/Angajat (necesită configurare cron)"
+
+#: 
+msgid "Notification to staff member about approved appointment"
+msgstr "Notificarea Departamentului cu privire la Rezervarea Aprobată"
+
+#: 
+msgid "Notification to staff member about cancelled appointment"
+msgstr "Notificarea Departamentului cu privire la Rezervarea Anulată"
+
+#: 
+msgid "Notification to staff member about rejected appointment"
+msgstr "Notificarea Departamentului cu privire la Rezervarea Respinsă"
+
+#: 
+msgid "Notification to staff member about pending appointment"
+msgstr "Notificarea Departamentului cu privire la Rezervarea în Așteptare"
+
+#: 
+msgid "Test message"
+msgstr "Testare mesaje"
+
+#: 
+msgid "Local"
+msgstr "Local"
+
+#: 
+msgid "Completed"
+msgstr "Complet"
+
+#: 
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d săptămână"
+msgstr[1] "%d săptămâni"
+msgstr[2] "%d săptămâni"
+
+#: 
+msgid "%d h"
+msgstr "%d ore"
+
+#: 
+msgid "%d min"
+msgstr "%d min"
+
+#: 
+msgid "To view the details of this appointments, please contact your website administrator in order to verify Bookly license."
+msgstr "Pentru a vedea detaliile acestor întâlniri/rezervări, contactați administratorul site-ului dvs. pentru a valida licența Bookly."
+
+#: 
+msgid "Form view in case of successful booking"
+msgstr "Formular vizualizat în cazul Rezervării cu Succes"
+
+#: 
+msgid "Form view in case the number of bookings exceeds the limit"
+msgstr "Formular vizualizat în cazul în care numărul rezervărilor depășesc limita"
+
+#: 
+msgid "Form view in case of payment has been accepted for processing"
+msgstr "Formular vizualizat în cazul în care plata este acceptată pentru procesare"
+
+#: 
+msgid "No result found"
+msgstr "Nici un rezultat"
+
+#: 
+msgid "Package"
+msgstr "Pachet"
+
+#: 
+msgid "Package schedule"
+msgstr "Programare pachet"
+
+#: 
+msgid "You may import list of clients in CSV format. You can choose the columns contained in your file. The sequence of columns should coincide with the specified one."
+msgstr "Puteți importa lista de clienți în format CSV. Puteți alege coloanele conținute în fișierul dvs. Secvența coloanelor ar trebui să coincidă cu cea specificată."
+
+#: 
+msgid "messages"
+msgstr "mesaje"
+
+#: 
+msgid "First"
+msgstr "Primul"
+
+#: 
+msgid "Previous"
+msgstr "Anteriorul"
+
+#: 
+msgid "Last"
+msgstr "Ultimul"
+
+#: 
+msgid "URL of reject appointment link (to use inside <a> tag)"
+msgstr "URL pentru o rezervare respinsă (se utilizează în interiorul tag-ului <a> )"
+
+#: 
+msgid "Custom notification"
+msgstr "Personalizare notificare"
+
+#: 
+msgid "Appointment date and time"
+msgstr "Data și ora rezervării"
+
+#: 
+msgid "Customer's birthday"
+msgstr "Ziua de naștere a clientului"
+
+#: 
+msgid "With status"
+msgstr "Cu status"
+
+#: 
+msgid "Instantly"
+msgstr "Instant"
+
+#: 
+msgid "days"
+msgstr "zile"
+
+#: 
+msgid "after"
+msgstr "după"
+
+#: 
+msgid "at"
+msgstr "la"
+
+#: 
+msgid "before"
+msgstr "înainte"
+
+#: 
+msgid "Recipient"
+msgstr "Recipient"
+
+#: 
+msgid "Custom"
+msgstr "Setare"
+
+#: 
+msgid "New Notification"
+msgstr "Notificare Nouă"
+
+#: 
+msgid "Start and end times of the appointment"
+msgstr "Ora începerii și finalizării rezervării"
+
+#: 
+msgid "Allows to set the start and end times for an appointment for services with the duration of 1 day or longer. This time will be displayed in notifications to customers."
+msgstr "Permite setarea timpilor de începere și de încheiere a unei rezervări pentru servicii cu durata de 1 sau mai multe zile. Acest timp va fi afișat în notificările către clienți."
+
+#: 
+msgid "Limit appointments per customer"
+msgstr "Limita rezervărilor per client"
+
+#: 
+msgid "Allows you to limit the frequency of service bookings per customer."
+msgstr "Această setare vă permite să limitați frecvența rezervărilor pentru fiecare client"
+
+#: 
+msgid "per day"
+msgstr "pe zi"
+
+#: 
+msgid "per week"
+msgstr "pe săptămână"
+
+#: 
+msgid "per month"
+msgstr "pe lună"
+
+#: 
+msgid "per year"
+msgstr "pe an"
+
+#: 
+msgid "Show confirmation dialog before updating customer's data"
+msgstr "Arată dialogul de confirmare înainte de actualizarea datelor"
+
+#: 
+msgid "If this option is enabled and customer enters contact info different from the previous order, a warning message will appear asking to update the data."
+msgstr "Dacă această opțiune este activată și clientul introduce informații de contact diferite de comanda anterioară, va apărea un mesaj de avertizare care solicită actualizarea datelor."
+
+#: 
+msgid "Reject appointment URL (success)"
+msgstr "URL utilizat în cazul Rezervărilor Respinse (cu succes)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully rejected the appointment."
+msgstr "Setați adresa URL a unei pagini care este afișată personalului departamentului după ce a respins cu succes rezervarea."
+
+#: 
+msgid "Reject appointment URL (denied)"
+msgstr "URL utilizat în cazul rezervărilor respinse (FĂRĂ SUCCES)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the rejection of appointment cannot be done (due to changed status, etc.)."
+msgstr "Setați adresa URL a unei pagini care este afișată personalului departamentului dacă  respingerea rezervării a fost FĂRĂ SUCCES."
+
+#: 
+msgid "Notification name"
+msgstr "Nume notificare"
+
+#: 
+msgid "You are trying to use the service too often. Please contact us to make a booking."
+msgstr "Utilizați rezervarea serviciilor de rezervare prea des. Vă rugăm să ne contactați."
+
+#: 
+msgid "Notification about last appointment (requires cron setup)"
+msgstr "Notificare asupra celei mai recente rezervări (necesită setare cron)"
+
+#: 
+msgid "%s has reached the limit of bookings for this service"
+msgstr "%s a atins limita de rezervări pentru acest serviciu/departament"
+
+#: 
+msgid "Reminder notification"
+msgstr "Notificare de reamintire"
+
+#: 
+msgid "URL Settings"
+msgstr "Setări URL"
+
+#: 
+msgid "Notification about appointment date and time (requires cron setup)"
+msgstr "Notificări referitoare la data și ora rezervărilor (necesită setare cron)"
+
+#: 
+msgid "on the same day"
+msgstr "în aceeași zi"
+
+#: 
+msgid "Administrators"
+msgstr "Administratori"
+
+#: 
+msgid "Show notes field"
+msgstr "Afișarea notițelor câmpului "
+
+#: 
+msgid "Custom service name"
+msgstr "Nume serviciu personalizat"
+
+#: 
+msgid "Please enter a service name"
+msgstr "Vă rog introduceți un nume pentru serviciu"
+
+#: 
+msgid "Custom service price"
+msgstr "Prețul serviciului personalizat"
+
+#: 
+msgid "customer notes for appointment"
+msgstr "Notificarea clientului referitoare la rezervare"
+
+#: 
+msgid "URL of cancel appointment link with confirmation (to use inside <a> tag)"
+msgstr "Adresa URL pentru anularea rezervării cu confirmare (se folosește în interiorul tag-ului <a> )"
+
+#: 
+msgid "agenda date"
+msgstr "data agendei"
+
+#: 
+msgid "Attach ICS file"
+msgstr "Atașați fișierul ICS (calendar)"
+
+#: 
+msgid "Event notification"
+msgstr "Notificare eveniment"
+
+#: 
+msgid "Status changed"
+msgstr "Status modificat"
+
+#: 
+msgid "New booking"
+msgstr "Rezervare nouă"
+
+#: 
+msgid "Last client's appointment"
+msgstr "Ce mai recentă rezervare a clientului"
+
+#: 
+msgid "Full day agenda"
+msgstr "Agenda completă a zilei"
+
+#: 
+msgid "Notification period"
+msgstr "Perioadă de notificare"
+
+#: 
+msgid "Set period of time when system will attempt to deliver notification to user. Notification will be discarded after period expiration."
+msgstr "Setați perioada de timp în care sistemul va încerca să trimită notificări utilizatorului. Notificarea va fi eliminată după expirarea perioadei."
+
+#: 
+msgid "Save changes"
+msgstr "Salvare modificări"
+
+#: 
+msgid "Continue without saving"
+msgstr "Continuați fără salvare"
+
+#: 
+msgid "Appointment cancellation confirmation URL"
+msgstr "Adresă URL de confirmare a anulării rezervării"
+
+#: 
+msgid "Set the URL of an appointment cancellation confirmation page that is shown to clients when they press cancellation link."
+msgstr "Setați adresa URL a unei pagini de confirmare a anulării rezervării care va fi  afișată clienților atunci când apasă linkul de anulare."
+
+#: 
+msgid "Accept <a href=\"#\" data-toggle=\"modal\" data-target=\"#bookly-tos\">Terms & Conditions</a>"
+msgstr "Acceptați <a href=\"#\" data-toggle=\"modal\" data-target=\"#bookly-tos\">Termenii și Condițiile</a>"
+
+#: 
+msgid "Add appointment cancellation confirmation"
+msgstr "Adăugare confirmare suplimentară pentru anularea rezervării"
+
+#: 
+msgid "Confirm"
+msgstr "Confirmare"
+
+#: 
+msgid "Thank you for being with us"
+msgstr "Vă mulțumim că sunteți alături de noi"
+
+#: 
+msgid "Notification about appointment created (requires cron setup)"
+msgstr "Notificare privind rezervarea creată (necesită setare cron)"
+
+#: 
+msgid "Notification about appointment status changed (requires cron setup)"
+msgstr "Notificare privind modificarea statusului (necesită setare cron)"
+
+#: 
+msgid "Notification about staff agenda (requires cron setup)"
+msgstr "Notificare privind agenda departamentului (necesită setare cron)"
+
+#: 
+msgid "When creating a new notification, the page will be reloaded, and all unsaved changes will be lost."
+msgstr "La crearea unei noi notificări, pagina va fi reîncărcată și toate modificările nesalvate se vor pierde."
+
+#: 
+msgid "Show time zone switcher"
+msgstr ""
+
+#: 
+msgid "Attachments"
+msgstr ""
+
+#: 
+msgid "time zone of client"
+msgstr ""
+
+#: 
+msgid "Reason"
+msgstr ""
+
+#: 
+msgid "Manual adjustment"
+msgstr ""
+
+#: 
+msgid "Are you sure you want to dissociate this purchase code from %s?\n"
+"\n"
+"This will also remove the entered purchase code from this site."
+msgstr ""
+
+#: 
+msgid "Price correction"
+msgstr ""
+
+#: 
+msgid "Increase/Discount (%)"
+msgstr ""
+
+#: 
+msgid "Addition/Deduction"
+msgstr ""
+
+#: 
+msgid "You are going to delete item which is involved in upcoming appointments. All related appointments will be deleted. Please double check and edit appointments before this item deletion if needed."
+msgstr ""
+
+#: 
+msgid "Edit appointments"
+msgstr ""
+
+#: 
+msgid "Error."
+msgstr ""
+
+#: 
+msgid "Waiting list appointments"
+msgstr ""
+
+#: 
+msgid "%s is used on another domain %s.<br/>In order to use the purchase code on this domain, please dissociate it in the admin panel of the other domain.<br/>If you do not have access to the admin area, please contact our technical support at support@ladela.com to transfer the license manually."
+msgstr ""
+
+#: 
+msgid "<a class=\"%s\" href=\"#\">Click here</a> to dissociate this purchase code from the current domain (use to move the plugin to another site)."
+msgstr ""
+
+#: 
+msgid "Internal Notes"
+msgstr ""
+
+#: 
+msgid "Error dissociating purchase code."
+msgstr ""
+
+#: 
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: 
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: 
+msgid "Analytics"
+msgstr ""
+
+#: 
+msgid "The value is taken from clients browser."
+msgstr ""
+
+#: 
+msgid "Set order of the fields in calendar"
+msgstr ""
+
+#: 
+msgid "New Customers"
+msgstr ""
+
+#: 
+msgid "Frontend"
+msgstr ""
+
+#: 
+msgid "No service selected"
+msgstr ""
+
+#: 
+msgid "Sessions"
+msgstr ""
+
+#: 
+msgid "Visits"
+msgstr ""
+
+#: 
+msgid "Sessions  number of completed and/or planned service sessions."
+msgstr ""
+
+#: 
+msgid "Approved  number of visitors of sessions with Approved status during the selected period."
+msgstr ""
+
+#: 
+msgid "Pending  number of visitors of sessions with Pending status during the selected period."
+msgstr ""
+
+#: 
+msgid "Rejected  number of visitors of sessions with Rejected status during the selected period."
+msgstr ""
+
+#: 
+msgid "Cancelled  number of visitors of sessions with Cancelled status during the selected period."
+msgstr ""
+
+#: 
+msgid "Customers  number of unique customers who made bookings during the selected period."
+msgstr ""
+
+#: 
+msgid "New customers  number of new customers added to the database during the selected period."
+msgstr ""
+
+#: 
+msgid "Attach payment"
+msgstr ""
+
+#: 
+msgid "Enter payment ID"
+msgstr ""
+
+#: 
+msgid "Bind payment"
+msgstr ""
+
+#: 
+msgid "Payment is not found."
+msgstr ""
+
+#: 
+msgid "Total  approximate cost of appointments with Approved and Pending statuses, calculated on the basis of the price list. Appointments that are paid through the front-end and have Pending payment status are included in brackets."
+msgstr ""
+

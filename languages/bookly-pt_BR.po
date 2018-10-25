@@ -1,0 +1,3760 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "License verification"
+msgstr "Verificação de licença"
+
+#: 
+msgid "Calendar"
+msgstr "Calendário"
+
+#: 
+msgid "Appointments"
+msgstr "Nomeações"
+
+#: 
+msgid "Staff Members"
+msgstr "Membros do Staff"
+
+#: 
+msgid "Services"
+msgstr "Serviços"
+
+#: 
+msgid "SMS Notifications"
+msgstr "SMS Notificações"
+
+#: 
+msgid "Email Notifications"
+msgstr "Notificações de e-mail"
+
+#: 
+msgid "Customers"
+msgstr "Clientes"
+
+#: 
+msgid "Payments"
+msgstr "Pagamentos"
+
+#: 
+msgid "Appearance"
+msgstr "Aparência"
+
+#: 
+msgid "Settings"
+msgstr "Definições"
+
+#: 
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: 
+msgid "Profile"
+msgstr "Perfil"
+
+#: 
+msgid "Messages"
+msgstr ""
+
+#: 
+msgid "Today"
+msgstr "Hoje"
+
+#: 
+msgid "Next month"
+msgstr "Próximo mês"
+
+#: 
+msgid "Previous month"
+msgstr "Mês anterior"
+
+#: 
+msgid "Settings saved."
+msgstr "Definições guardadas."
+
+#: 
+msgid "Your custom CSS was saved. Please refresh the page to see your changes."
+msgstr "Seu CSS personalizado foi salvo. Atualize a página para ver suas alterações."
+
+#: 
+msgid "Visible when the chosen time slot has been already booked"
+msgstr "Visível quando o intervalo de tempo escolhido já foi reservado"
+
+#: 
+msgid "Date"
+msgstr "Data"
+
+#: 
+msgid "Time"
+msgstr "Horário"
+
+#: 
+msgid "Price"
+msgstr "Preço"
+
+#: 
+msgid "Edit"
+msgstr "Editar"
+
+#: 
+msgid "Remove"
+msgstr "Remover"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "Visible to non-logged in customers only"
+msgstr "Visível apenas para clientes anônimos"
+
+#: 
+msgid "total quantity of appointments in cart"
+msgstr "quantidade total de compromissos no carrinho"
+
+#: 
+msgid "booking number"
+msgstr "número de reserva"
+
+#: 
+msgid "name of category"
+msgstr "nome da categoria"
+
+#: 
+msgid "login form"
+msgstr "forma de login"
+
+#: 
+msgid "number of persons"
+msgstr "número de pessoas"
+
+#: 
+msgid "date of service"
+msgstr "data do serviço"
+
+#: 
+msgid "info of service"
+msgstr "informação do serviço"
+
+#: 
+msgid "name of service"
+msgstr "nome do serviço"
+
+#: 
+msgid "price of service"
+msgstr "preço do serviço"
+
+#: 
+msgid "time of service"
+msgstr "horário do serviço"
+
+#: 
+msgid "info of staff"
+msgstr "informação de pessoal"
+
+#: 
+msgid "name of staff"
+msgstr "nome do staff"
+
+#: 
+msgid "total price of booking"
+msgstr "preço total da reserva"
+
+#: 
+msgid "Edit custom CSS"
+msgstr "Editar CSS personalizado"
+
+#: 
+msgid "Set up your custom CSS styles"
+msgstr "Configure seus estilos CSS personalizados"
+
+#: 
+msgid "Save"
+msgstr "Guardar"
+
+#: 
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: 
+msgid "Show form progress tracker"
+msgstr "Ver processo de progresso no formulário"
+
+#: 
+msgid "Click on the underlined text to edit."
+msgstr "Clique no texto sublinhado para editar."
+
+#: 
+msgid "Make selecting employee required"
+msgstr "Faça a seleção dos funcionários necessários"
+
+#: 
+msgid "Show service price next to employee name"
+msgstr "Mostrar preço do serviço ao lado do nome do empregado"
+
+#: 
+msgid "Show service duration next to service name"
+msgstr "Mostrar a duração do serviço ao lado do nome do serviço"
+
+#: 
+msgid "Show calendar"
+msgstr "Mostrar calendário"
+
+#: 
+msgid "Show blocked timeslots"
+msgstr "Mostrar bloqueado timeslots"
+
+#: 
+msgid "Show each day in one column"
+msgstr "Mostrar a cada dia em uma coluna"
+
+#: 
+msgid "Make phone field required"
+msgstr "Tornar o campo do telefone necessário"
+
+#: 
+msgid "Show Login button"
+msgstr "Botão Mostrar logótipo"
+
+#: 
+msgid "Do not forget to update your email and SMS codes for customer names"
+msgstr ""
+
+#: 
+msgid "Use first and last name instead of full name"
+msgstr ""
+
+#: 
+msgid "The booking form on this step may have different set or states of its elements. It depends on various conditions such as installed/activated add-ons, settings configuration or choices made on previous steps. Select option and click on the underlined text to edit."
+msgstr "O formulário de reserva nesta etapa pode ter diferentes conjuntos ou estados de seus elementos. Depende de várias condições, tais como add-ons instalados/ativados, configuração de configurações ou escolhas feitas nos passos anteriores. Selecione a opção e clique no texto sublinhado para editar."
+
+#: 
+msgid "Form view in case of single booking"
+msgstr "Vista de formulário em caso de reserva única"
+
+#: 
+msgid "Form view in case of multiple booking"
+msgstr "Vista de formulário em caso de reserva múltipla"
+
+#: 
+msgid "Tomorrow"
+msgstr "Amanhã"
+
+#: 
+msgid "Yesterday"
+msgstr "Ontem"
+
+#: 
+msgid "Last 7 Days"
+msgstr "Últimos 7 Dias"
+
+#: 
+msgid "Last 30 Days"
+msgstr "Últimos 30 Dias"
+
+#: 
+msgid "This Month"
+msgstr "Este Mês"
+
+#: 
+msgid "Next Month"
+msgstr "Próximo Mês"
+
+#: 
+msgid "Custom Range"
+msgstr "Intervalo Personalizado"
+
+#: 
+msgid "Apply"
+msgstr "Aplicar"
+
+#: 
+msgid "To"
+msgstr "Para"
+
+#: 
+msgid "From"
+msgstr "De"
+
+#: 
+msgid "Are you sure?"
+msgstr "Tem a certeza?"
+
+#: 
+msgid "No appointments for selected period."
+msgstr "Sem compromissos para período indicado."
+
+#: 
+msgid "Processing..."
+msgstr "Em processamento..."
+
+#: 
+msgid "%s of %s"
+msgstr "%s de %s"
+
+#: 
+msgid "Export to CSV"
+msgstr "Exportar para CSV"
+
+#: 
+msgid "Delimiter"
+msgstr "Delimitador"
+
+#: 
+msgid "Comma (,)"
+msgstr "Vírgula (,)"
+
+#: 
+msgid "Semicolon (;)"
+msgstr "Ponto e vírgula (;)"
+
+#: 
+msgid "No."
+msgstr "Núm."
+
+#: 
+msgid "Booking Time"
+msgstr "Tempo de Booking"
+
+#: 
+msgid "Customer Name"
+msgstr "Nome do cliente"
+
+#: 
+msgid "Customer Phone"
+msgstr "Telefone cliente"
+
+#: 
+msgid "Customer Email"
+msgstr "E-mail do cliente"
+
+#: 
+msgid "Duration"
+msgstr "Duração"
+
+#: 
+msgid "Status"
+msgstr "Estado"
+
+#: 
+msgid "Payment"
+msgstr "Pagamento"
+
+#: 
+msgid "Print"
+msgstr "Imprimir"
+
+#: 
+msgid "Appointment Date"
+msgstr "Data da nomeação"
+
+#: 
+msgid "New appointment"
+msgstr "Nova nomeação"
+
+#: 
+msgid "Customer"
+msgstr "Cliente"
+
+#: 
+msgid "Edit appointment"
+msgstr "Editar nomeação"
+
+#: 
+msgid "Week"
+msgstr "Semana"
+
+#: 
+msgid "Day"
+msgstr "Dia"
+
+#: 
+msgid "Month"
+msgstr "Mês"
+
+#: 
+msgid "All Day"
+msgstr "Dia Inteiro"
+
+#: 
+msgid "Delete"
+msgstr "Eliminar"
+
+#: 
+msgid "No staff selected"
+msgstr "Nenhum staff escolhido"
+
+#: 
+msgid "Recurring appointments"
+msgstr "Nomeações recorrentes"
+
+#: 
+msgid "On waiting list"
+msgstr ""
+
+#: 
+msgid "Start time must not be empty"
+msgstr "Comece tempo não pode estar vazio"
+
+#: 
+msgid "End time must not be empty"
+msgstr "Hora de término não pode estar vazio"
+
+#: 
+msgid "End time must not be equal to start time"
+msgstr "Tempo final não deve ser igual ao tempo de início"
+
+#: 
+msgid "The number of customers should not be more than %d"
+msgstr "Número de clientes deve ser não mais do que %d"
+
+#: 
+msgid "Could not save appointment in database."
+msgstr "Não foi possível salvar compromisso no banco de dados."
+
+#: 
+msgid "Untitled"
+msgstr "Sem título"
+
+#: 
+msgid "Provider"
+msgstr "Fornecedor"
+
+#: 
+msgid "Service"
+msgstr "Serviço"
+
+#: 
+msgid "-- Select a service --"
+msgstr "– Escolher um serviço –"
+
+#: 
+msgid "Please select a service"
+msgstr "Por favor escolha um serviço"
+
+#: 
+msgid "Location"
+msgstr "Localização"
+
+#: 
+msgid "Period"
+msgstr "Período"
+
+#: 
+msgid "to"
+msgstr "para"
+
+#: 
+msgid "Selected period doesn't match service duration"
+msgstr "A duração do período escolhido não coincide com a duração padrão do serviço"
+
+#: 
+msgid "The selected period is occupied by another appointment"
+msgstr "O período escolhido é ocupado por uma outra nomeação"
+
+#: 
+msgid "Selected / maximum"
+msgstr "Selecionado / máximo"
+
+#: 
+msgid "Minimum capacity"
+msgstr "Capacidade mínima"
+
+#: 
+msgid "Edit booking details"
+msgstr "Editar detalhes de reserva"
+
+#: 
+msgid "Remove customer"
+msgstr "Remover cliente"
+
+#: 
+msgid "-- Search customers --"
+msgstr "– Pesquisar clientes –"
+
+#: 
+msgid "New customer"
+msgstr "Novo cliente"
+
+#: 
+msgid "Send notifications"
+msgstr "Enviar notificações"
+
+#: 
+msgid "If email or SMS notifications are enabled and you want customers or staff member to be notified about this appointment after saving, select appropriate option before clicking Save. With \"If status changed\" the notifications are sent to those customers whose status has just been changed. With \"To all customers\" the notifications are sent to everyone in the list."
+msgstr "Se e-mail ou SMS notificações são ativadas e você quer que os clientes ou membro da equipe para ser notificado sobre esta nomeação depois de salvar, selecione a opção apropriada antes de clicar em Salvar. Com \"Se o estado mudou\" as notificações são enviadas para os clientes cujo estado acaba de ser mudado. Com \"Para todos os clientes\" as notificações são enviadas para todos na lista."
+
+#: 
+msgid "If email or SMS notifications are enabled and you want customers or yourself to be notified about this appointment after saving, select appropriate option before clicking Save. With \"If status changed\" the notifications are sent to those customers whose status has just been changed. With \"To all customers\" the notifications are sent to everyone in the list."
+msgstr "Se as notificações de e-mail ou SMS estiverem ativadas e você quiser que os clientes ou você sejam notificados sobre esse compromisso depois de salvar, selecione a opção apropriada antes de clicar em Salvar. Com \"Se o estado mudou\" as notificações são enviadas para os clientes cujo estado acaba de ser mudado. Com \"Para todos os clientes\" as notificações são enviadas para todos na lista."
+
+#: 
+msgid "Don't send"
+msgstr "Não envie"
+
+#: 
+msgid "If status changed"
+msgstr "Se o status alterado"
+
+#: 
+msgid "To all customers"
+msgstr "Para todos os clientes"
+
+#: 
+msgid "Internal note"
+msgstr "Nota interna"
+
+#: 
+msgid "Number of persons"
+msgstr "Número de pessoas"
+
+#: 
+msgid "Extras"
+msgstr "Extras"
+
+#: 
+msgid "Cancellation reason (optional)"
+msgstr "Motivo de cancelamento (opcional)"
+
+#: 
+msgid "All"
+msgstr "Tudo"
+
+#: 
+msgid "All staff"
+msgstr "Todo o staff"
+
+#: 
+msgid "Welcome to Bookly!"
+msgstr "Bem-vindo ao Bookly!"
+
+#: 
+msgid "Thank you for purchasing our product."
+msgstr "Obrigado por adquirir nosso produto."
+
+#: 
+msgid "Bookly offers a simple solution for making appointments. With our plugin you will be able to easily manage your availability time and handle the flow of your clients."
+msgstr "Bookly oferece uma solução única para fazer nomeações. Com o nosso plugin que você será capaz de gerenciar facilmente seu tempo de disponibilidade e lidar com o fluxo de seus clientes."
+
+#: 
+msgid "To start using Bookly, you need to follow these steps which are the minimum requirements to get it running!"
+msgstr "Para começar a usar Bookly, você precisa seguir estas etapas que são os requisitos mínimos para fazê-lo funcionar!"
+
+#: 
+msgid "Add staff members."
+msgstr "Adicionar membros do pessoal"
+
+#: 
+msgid "Add services and assign them to staff members."
+msgstr "Adicionar serviços e atribuí-los aos membros do pessoal."
+
+#: 
+msgid "Add Staff Members"
+msgstr "Adicionar membros do pessoal"
+
+#: 
+msgid "Add Services"
+msgstr "Adicionar serviços"
+
+#: 
+msgid "All services"
+msgstr "Todos os serviços"
+
+#: 
+msgid "Code"
+msgstr "Código"
+
+#: 
+msgid "All Services"
+msgstr "Todos os serviços"
+
+#: 
+msgid "Reorder"
+msgstr "Reordenar"
+
+#: 
+msgid "No customers found."
+msgstr "Nenhum cliente encontrado."
+
+#: 
+msgid "Edit customer"
+msgstr "Editar cliente"
+
+#: 
+msgid "Create customer"
+msgstr "Criar cliente"
+
+#: 
+msgid "Quick search customer"
+msgstr "Pesquisa rápida de cliente"
+
+#: 
+msgid "User"
+msgstr "Utilizador"
+
+#: 
+msgid "Notes"
+msgstr "Notas"
+
+#: 
+msgid "Last appointment"
+msgstr "Última nomeação"
+
+#: 
+msgid "Total appointments"
+msgstr "Total de nomeações"
+
+#: 
+msgid "Date of birth"
+msgstr "Data de nascimento"
+
+#: 
+msgid "New Customer"
+msgstr "Novo Cliente"
+
+#: 
+msgid "First name"
+msgstr ""
+
+#: 
+msgid "Required"
+msgstr "Obrigatório"
+
+#: 
+msgid "Last name"
+msgstr ""
+
+#: 
+msgid "Name"
+msgstr "Nome"
+
+#: 
+msgid "Phone"
+msgstr "Telefone"
+
+#: 
+msgid "Email"
+msgstr "E-mail"
+
+#: 
+msgid "Import"
+msgstr "Importação"
+
+#: 
+msgid "Note"
+msgstr "Aviso"
+
+#: 
+msgid "Select file"
+msgstr "Selecione o arquivo"
+
+#: 
+msgid "Delete customers"
+msgstr "Excluir clientes"
+
+#: 
+msgid "You are about to delete customers which may have WordPress accounts associated to them. Do you want to delete those accounts too (if there are any)?"
+msgstr "Você está prestes a excluir os clientes que podem ter contas WordPress associados a eles. Você quer apagar essas contas também (se houver algum)?"
+
+#: 
+msgid "Remember my choice"
+msgstr "Lembrar da minha escolha"
+
+#: 
+msgid "No, delete just customers"
+msgstr "Não, excluir apenas os clientes"
+
+#: 
+msgid "Yes"
+msgstr "Sim"
+
+#: 
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dia"
+msgstr[1] "%d dias"
+
+#: 
+msgid "Thank you for choosing Bookly as your booking solution."
+msgstr "Obrigado por escolher Bookly como sua solução de reserva."
+
+#: 
+msgid "Please verify your license by providing a valid purchase code. Upon providing the purchase code you will get access to software updates, including feature improvements and important security fixes."
+msgstr "Por favor, verifique a sua licença, fornecendo um código de compra válido. Ao fornecer o código de compra você terá acesso a atualizações de software, incluindo melhorias de recursos e correções de segurança importantes."
+
+#: 
+msgid "If you do not provide a valid purchase code within {days}, access to your bookings will be disabled."
+msgstr "Se você não fornecer um código de compra válida dentro de {days}, o acesso a suas reservas serão desativados."
+
+#: 
+msgid "I have already made the purchase"
+msgstr "Eu já fiz a compra"
+
+#: 
+msgid "I want to make a purchase now"
+msgstr "Eu quero fazer uma compra agora"
+
+#: 
+msgid "I will provide license info later"
+msgstr "I irá fornecer informações de licença depois"
+
+#: 
+msgid "Access to your bookings has been disabled."
+msgstr "Acesso a suas reservas foi desativado."
+
+#: 
+msgid "To enable access to your bookings, please verify your license by providing a valid purchase code."
+msgstr "Para permitir acesso às suas reservas, por favor verifique a sua licença, fornecendo um código de compra válido."
+
+#: 
+msgid "License verification required"
+msgstr "Verificação da licença exigida"
+
+#: 
+msgid "Bookly - License verification required"
+msgstr "Bookly - Verificação da licença exigida"
+
+#: 
+msgid "If you do not provide a valid purchase code within {days}, access to your bookings will be disabled. <a href=\"{url}\">Details</a>"
+msgstr "Se você não fornecer um código de compra válido dentro de {days}, o acesso às suas reservas será desativado. <a href=\"{url}\">Detalhes</a>"
+
+#: 
+msgid "To enable access to your bookings, please verify your license by providing a valid purchase code. <a href=\"{url}\">Details</a>"
+msgstr "Para habilitar o acesso às suas reservas, verifique sua licença fornecendo um código de compra válido. <a href=\"{url}\">Detalhes</a>"
+
+#: 
+msgid "Please contact your website administrator in order to verify the license."
+msgstr "Entre em contato com o administrador do site, a fim de verificar a licença."
+
+#: 
+msgid "If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Se você não verificar a licença dentro de {days}, o acesso a suas reservas serão desativados."
+
+#: 
+msgid "Proceed to Bookly without license verification"
+msgstr "Avance para Bookly sem verificação de licença"
+
+#: 
+msgid "To enable access to your bookings, please contact your website administrator in order to verify the license."
+msgstr "Para permitir acesso às suas reservas, entre em contato com o administrador do site, a fim de verificar a licença."
+
+#: 
+msgid "Cannot find your purchase code? See this <a href=\"%s\" target=\"_blank\">page</a>."
+msgstr "Não consegue encontrar o seu código de compra? Veja este <a href=\"%s\" target=\"_blank\">página</a>."
+
+#: 
+msgid "Purchase Code"
+msgstr "Código de Compra"
+
+#: 
+msgid "Proceed to Bookly without activating Add-ons"
+msgstr "Avance para Bookly sem ativar Add-ons"
+
+#: 
+msgid "License verification succeeded"
+msgstr "Verificação de licença sucedido"
+
+#: 
+msgid "Your license has been verified successfully."
+msgstr "Sua licença foi verificada com êxito."
+
+#: 
+msgid "You have access to software updates, including feature improvements and important security fixes."
+msgstr "Você tem acesso a atualizações de software, incluindo melhorias de recursos e correções de segurança importantes."
+
+#: 
+msgid "Proceed"
+msgstr "Prosseguir"
+
+#: 
+msgid "Sent successfully."
+msgstr "Enviada com sucesso."
+
+#: 
+msgid "Subject"
+msgstr "Assunto"
+
+#: 
+msgid "Message"
+msgstr "Mensagem"
+
+#: 
+msgid "Send copy to administrators"
+msgstr "Enviar uma cópia para os administradores"
+
+#: 
+msgid "Sending time"
+msgstr "Enviando tempo"
+
+#: 
+msgid "Set the time you want the notification to be sent."
+msgstr "Defina o tempo você deseja que a notificação seja enviada."
+
+#: 
+msgid "%s before"
+msgstr "%s antes"
+
+#: 
+msgid "date of appointment"
+msgstr "data da nomeação"
+
+#: 
+msgid "time of appointment"
+msgstr "data da nomeação"
+
+#: 
+msgid "end date of appointment"
+msgstr "data final do compromisso"
+
+#: 
+msgid "end time of appointment"
+msgstr "hora final do compromisso"
+
+#: 
+msgid "URL of approve appointment link (to use inside <a> tag)"
+msgstr "URL de ligação para a aprovação de nomeação (para usar dentro <a> tag)"
+
+#: 
+msgid "cancel appointment link"
+msgstr "link para cancelamento de nomeação"
+
+#: 
+msgid "URL of cancel appointment link (to use inside <a> tag)"
+msgstr "URL de ligação para o cancelamento de nomeação (para usar dentro <a> tag)"
+
+#: 
+msgid "reason you mentioned while deleting appointment"
+msgstr "razão que você mencionou durante a exclusão de nomeação"
+
+#: 
+msgid "email of client"
+msgstr "e-mail do cliente"
+
+#: 
+msgid "full name of client"
+msgstr ""
+
+#: 
+msgid "first name of client"
+msgstr ""
+
+#: 
+msgid "last name of client"
+msgstr ""
+
+#: 
+msgid "phone of client"
+msgstr "telefone de cliente"
+
+#: 
+msgid "name of company"
+msgstr "nome da companhia"
+
+#: 
+msgid "company logo"
+msgstr "logotipo da empresa"
+
+#: 
+msgid "address of company"
+msgstr "endereço da empresa"
+
+#: 
+msgid "company phone"
+msgstr "telefone da empresa "
+
+#: 
+msgid "company web-site address"
+msgstr "endereço do site da empresa"
+
+#: 
+msgid "URL for adding event to client's Google Calendar (to use inside <a> tag)"
+msgstr "URL para a adição de eventos para o Google Agenda do cliente (para usar dentro <a> tag)"
+
+#: 
+msgid "payment type"
+msgstr "tipo de pagamento"
+
+#: 
+msgid "duration of service"
+msgstr "duração do serviço"
+
+#: 
+msgid "email of staff"
+msgstr "e-mail do pessoal"
+
+#: 
+msgid "phone of staff"
+msgstr "telefone de pessoal"
+
+#: 
+msgid "photo of staff"
+msgstr "foto do pessoal"
+
+#: 
+msgid "total price of booking (sum of all cart items after applying coupon)"
+msgstr "preço total da reserva (soma de todos os itens de carrinho após a aplicação de cupão)"
+
+#: 
+msgid "cart information"
+msgstr "informações do carrinho"
+
+#: 
+msgid "cart information with cancel"
+msgstr "informações do carrinho com cancel"
+
+#: 
+msgid "customer new username"
+msgstr "cliente novo nome de usuário"
+
+#: 
+msgid "customer new password"
+msgstr "cliente nova senha"
+
+#: 
+msgid "site address"
+msgstr "endereço do site"
+
+#: 
+msgid "date of next day"
+msgstr "data do dia seguinte"
+
+#: 
+msgid "staff agenda for next day"
+msgstr "agenda de staff para o dia seguinte"
+
+#: 
+msgid "Test Email Notifications"
+msgstr "Notificações de e-mail de teste"
+
+#: 
+msgid "To email"
+msgstr "Para e-mail"
+
+#: 
+msgid "Sender name"
+msgstr "Nome do remetente"
+
+#: 
+msgid "Sender email"
+msgstr "E-mail do remetente"
+
+#: 
+msgid "Reply directly to customers"
+msgstr "Responder diretamente aos clientes"
+
+#: 
+msgid "Disabled"
+msgstr "inválido"
+
+#: 
+msgid "Enabled"
+msgstr "Ativado"
+
+#: 
+msgid "Send emails as"
+msgstr "Enviar e-mails como"
+
+#: 
+msgid "HTML"
+msgstr "HTML"
+
+#: 
+msgid "Text"
+msgstr "Texto"
+
+#: 
+msgid "Notification templates"
+msgstr "Modelos de notificação"
+
+#: 
+msgid "All templates"
+msgstr "Todos os modelos"
+
+#: 
+msgid "Send"
+msgstr "Enviar"
+
+#: 
+msgid "Close"
+msgstr "Fechar"
+
+#: 
+msgid "HTML allows formatting, colors, fonts, positioning, etc. With Text you must use Text mode of rich-text editors below. On some servers only text emails are sent successfully."
+msgstr "HTML permite a formatação, cores, fontes, posicionamento, etc. Com texto você deve usar o modo Texto de editores rich-text abaixo. Em alguns servidores apenas e-mails de texto são enviadas com sucesso."
+
+#: 
+msgid "If this option is enabled then the email address of the customer is used as a sender email address for notifications sent to staff members and administrators."
+msgstr "Se essa opção for ativada, o endereço de e-mail do cliente é usado como um endereço de e-mail do remetente para notificações enviadas para os membros do pessoal e administradores."
+
+#: 
+msgid "Single"
+msgstr "Individuais"
+
+#: 
+msgid "Codes"
+msgstr "Codes"
+
+#: 
+msgid "Combined"
+msgstr "Combinadas"
+
+#: 
+msgid "To send scheduled notifications please refer to <a href=\"%1$s\">Bookly Multisite</a> add-on <a href=\"%2$s\">message</a>."
+msgstr "Para enviar notificações agendadas consulte a <a href=\"%2$s\">mensagem</a> de <a href=\"%1$s\">Bookly Multisite</a> add-on."
+
+#: 
+msgid "To send scheduled notifications please execute the following command hourly with your cron:"
+msgstr "Para enviar notificações programadas, execute o seguinte comando de hora em hora com o seu cron:"
+
+#: 
+msgid "Last Month"
+msgstr "Último Mês"
+
+#: 
+msgid "No payments for selected period and criteria."
+msgstr "Nenhum pagamento para o período e/ou filtro escolhido."
+
+#: 
+msgid "Details"
+msgstr "Detalhes"
+
+#: 
+msgid "See details for more items"
+msgstr "Veja os detalhes para mais itens"
+
+#: 
+msgid "Type"
+msgstr "Tipo"
+
+#: 
+msgid "Deposit"
+msgstr "Depósito"
+
+#: 
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: 
+msgid "Discount"
+msgstr "Desconto"
+
+#: 
+msgid "Paid"
+msgstr "Pago"
+
+#: 
+msgid "Due"
+msgstr "Devido"
+
+#: 
+msgid "Complete payment"
+msgstr "Completar o pagamento"
+
+#: 
+msgid "Amount"
+msgstr "Quantia"
+
+#: 
+msgid "Min capacity should not be greater than max capacity."
+msgstr "A capacidade mínima não deve ser maior que a capacidade máxima."
+
+#: 
+msgid "Specified order"
+msgstr ""
+
+#: 
+msgid "Least occupied that day"
+msgstr ""
+
+#: 
+msgid "Most occupied that day"
+msgstr ""
+
+#: 
+msgid "Least expensive"
+msgstr ""
+
+#: 
+msgid "Most expensive"
+msgstr ""
+
+#: 
+msgid "%d service"
+msgid_plural "%d services"
+msgstr[0] "%d serviço"
+msgstr[1] "%d serviços"
+
+#: 
+msgid "Simple"
+msgstr ""
+
+#: 
+msgid "Title"
+msgstr "Título"
+
+#: 
+msgid "Color"
+msgstr "Cor"
+
+#: 
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: 
+msgid "To make service invisible to your customers set the visibility to \"Private\"."
+msgstr "Para tornar o serviço invisível aos seus clientes definir a visibilidade para \"Privado\"."
+
+#: 
+msgid "Public"
+msgstr "Público"
+
+#: 
+msgid "Private"
+msgstr "Privado"
+
+#: 
+msgid "Padding time (before and after)"
+msgstr "Enchimento tempo (antes e depois)"
+
+#: 
+msgid "Set padding time before and/or after an appointment. For example, if you require 15 minutes to prepare for the next appointment then you should set \"padding before\" to 15 min. If there is an appointment from 8:00 to 9:00 then the next available time slot will be 9:15 rather than 9:00."
+msgstr "Definir o tempo de enchimento antes e / ou depois de uma nomeação. Por exemplo, se você precisar de 15 minutos para se preparar para o próximo compromisso, em seguida, você deve definir \"padding antes\" a 15 min. Se não houver um compromisso 08:00 - 09:00 então o slot próximo tempo disponível será 9:15 em vez de 9:00."
+
+#: 
+msgid "OFF"
+msgstr "Desligar"
+
+#: 
+msgid "Providers preference for ANY"
+msgstr ""
+
+#: 
+msgid "Allows you to define the rule of staff members auto assignment when ANY option is selected"
+msgstr ""
+
+#: 
+msgid "Providers"
+msgstr "Fornecedores"
+
+#: 
+msgid "Category"
+msgstr "Categoria"
+
+#: 
+msgid "Uncategorized"
+msgstr "Não categorizado"
+
+#: 
+msgid "Info"
+msgstr "Informações"
+
+#: 
+msgid "This text can be inserted into notifications with %s code."
+msgstr "Este texto pode ser inserido com notificações %s código."
+
+#: 
+msgid "New Category"
+msgstr "Nova Categoria"
+
+#: 
+msgid "Add Service"
+msgstr "Adicionar Serviço"
+
+#: 
+msgid "No services found. Please add services."
+msgstr "Nenhum serviço encontrado. Por favor adicione serviços."
+
+#: 
+msgid "Update service setting"
+msgstr "Atualizar uma definição de serviço"
+
+#: 
+msgid "You are about to change a service setting which is also configured separately for each staff member. Do you want to update it in staff settings too?"
+msgstr "Você está prestes a mudar uma definição de serviço que também é configurado separadamente para cada membro da equipe. Você quer atualizá-lo nas configurações de pessoal também?"
+
+#: 
+msgid "No, update just here in services"
+msgstr "Não, apenas atualizar aqui em serviços"
+
+#: 
+msgid "To use the cart, disable integration with WooCommerce <a href=\"%s\">here</a>."
+msgstr "Para usar o carrinho, desative a integração com WooCommerce <a href=\"%s\">aqui</a>."
+
+#: 
+msgid "WooCommerce cart is not set up. Follow the <a href=\"%s\">link</a> to correct this problem."
+msgstr "WooCommerce carrinho não está configurado. Siga a <a href=\"%s\">ligação</a> para corrigir esse problema."
+
+#: 
+msgid "Repeat every year"
+msgstr "Repetir todos os anos"
+
+#: 
+msgid "We are not working on this day"
+msgstr "Não estamos a trabalhar neste dia"
+
+#: 
+msgid "Select product"
+msgstr "Escolha um produto"
+
+#: 
+msgid "Appointment with one participant"
+msgstr "Nomeação com um participante"
+
+#: 
+msgid "Appointment with many participants"
+msgstr "Nomeação com muitos participantes"
+
+#: 
+msgid "Enter a value"
+msgstr "Digite um valor"
+
+#: 
+msgid "capacity of service"
+msgstr "capacidade de serviço"
+
+#: 
+msgid "number of persons already in the list"
+msgstr "número de pessoas que já estão na lista"
+
+#: 
+msgid "status of payment"
+msgstr "status do pagamento"
+
+#: 
+msgid "status of appointment"
+msgstr "status de compromisso"
+
+#: 
+msgid "Cart"
+msgstr "Carrinho"
+
+#: 
+msgid "If cart is enabled then your clients will be able to book several appointments at once. Please note that WooCommerce integration must be disabled."
+msgstr "Se carrinho está habilitado, em seguida, seus clientes serão capazes de reservar vários compromissos ao mesmo tempo. Por favor, note que a integração WooCommerce deve ser desativado."
+
+#: 
+msgid "Columns"
+msgstr "Colunas"
+
+#: 
+msgid "In order to improve your Bookly experience, we have started collecting anonymous plugin usage stats. If you don't want to provide this information, you can change permissions in Bookly settings."
+msgstr "Para melhorar a sua experiência Bookly, começamos a coletar estatísticas de uso de plugins anônimos. Se você não quiser fornecer essas informações, você pode alterar as permissões nas configurações Bookly."
+
+#: 
+msgid "Image"
+msgstr "Imagem"
+
+#: 
+msgid "Company name"
+msgstr "Nome da empresa"
+
+#: 
+msgid "Address"
+msgstr "Endereço"
+
+#: 
+msgid "Website"
+msgstr "Site"
+
+#: 
+msgid "Create WordPress user account for customers"
+msgstr "Criar uma conta de usuário WordPress para os clientes"
+
+#: 
+msgid "If this setting is enabled then Bookly will be creating WordPress user accounts for all new customers. If the user is logged in then the new customer will be associated with the existing user account."
+msgstr "Se essa configuração for habilitada, então Bookly estará criando usuário WordPress é responsável por todos os novos clientes. Se o usuário estiver conectado, em seguida, o novo cliente será associado com a conta de usuário existente."
+
+#: 
+msgid "New user account role"
+msgstr "Papel da nova conta de usuário"
+
+#: 
+msgid "Select what role will be assigned to newly created WordPress user accounts for customers."
+msgstr "Escolha qual o papel que será atribuído ao recém-criado contas de usuários do WordPress para os clientes."
+
+#: 
+msgid "Phone field default country"
+msgstr "Telefone país padrão campo"
+
+#: 
+msgid "Select default country for the phone field in the 'Details' step of booking. You can also let Bookly determine the country based on the IP address of the client."
+msgstr "Selecione um país padrão para o campo de telefone no passo 'Detalhes' da reserva. Você também pode deixar Bookly determinar o país com base no endereço IP do cliente."
+
+#: 
+msgid "Guess country by user's IP address"
+msgstr "Adivinha país por endereço IP do usuário"
+
+#: 
+msgid "Default country code"
+msgstr "Indicativo de país"
+
+#: 
+msgid "Your clients must have their phone numbers in international format in order to receive text messages. However you can specify a default country code that will be used as a prefix for all phone numbers that do not start with \"+\" or \"00\". E.g. if you enter \"1\" as the default country code and a client enters their phone as \"(600) 555-2222\" the resulting phone number to send the SMS to will be \"+1600555222\"."
+msgstr "Seus clientes devem ter seus números de telefone em formato internacional, a fim de receber mensagens de texto. No entanto, você pode especificar um código de país padrão que será utilizado como um prefixo para todos os números de telefone que não começam com \"+\" ou \"00\". Por exemplo se você digitar \"1\" como o indicativo de país e um cliente entra em seu telefone como \"(600) 555-2222\" o número de telefone resultante para enviar o SMS para será \"+1600555222\"."
+
+#: 
+msgid "Cancel appointment action"
+msgstr "Acção para cancelar a nomeação"
+
+#: 
+msgid "Select what happens when customer clicks cancel appointment link. With \"Delete\" the appointment will be deleted from the calendar. With \"Cancel\" only appointment status will be changed to \"Cancelled\"."
+msgstr "Selecione o que acontece quando cliente clica cancelar a ligação nomeação. Com \"Apagar\" a nomeação será excluído do calendário. Com \"Cancelar\" apenas o estatuto de nomeação será alterado para \"Cancelado\"."
+
+#: 
+msgid "Combined notifications"
+msgstr "Notificações combinadas"
+
+#: 
+msgid "If combined notifications are enabled then your clients will receive single notification for entire booking instead of separate notification per each booked appointment (e.g. when cart is enabled). You will need to edit corresponding templates in Email and SMS Notifications."
+msgstr "Se as notificações combinadas estiverem ativadas, os clientes receberão notificação única para reserva inteira em vez de notificação separada por cada agendamento reservado (por exemplo, quando o carrinho estiver ativado). Você precisará editar os modelos correspondentes em Notificações de e-mail e SMS."
+
+#: 
+msgid "Remember personal information in cookies"
+msgstr "Lembre-se de informações pessoais em cookies"
+
+#: 
+msgid "If this setting is enabled then returning customers will have their personal information fields filled in at the Details step with the data previously saved in cookies."
+msgstr "Se esta configuração estiver ativada, os clientes retornados terão seus campos de informações pessoais preenchidos na etapa Detalhes com os dados salvos anteriormente nos cookies."
+
+#: 
+msgid "Time slot length"
+msgstr "Comprimento da ranhura de tempo"
+
+#: 
+msgid "Select a time interval which will be used as a step when building all time slots in the system."
+msgstr "Selecione um intervalo de tempo que será usado como uma etapa ao criar todos os intervalos de tempo no sistema."
+
+#: 
+msgid "Service duration as slot length"
+msgstr "Duração do serviço como comprimento da ranhura"
+
+#: 
+msgid "Enable this option to make slot length equal to service duration at the Time step of booking form."
+msgstr "Active esta opção para tornar o comprimento da ranhura igual à duração do serviço no passo Tempo do formulário de reserva."
+
+#: 
+msgid "Default appointment status"
+msgstr "Status padrão de nomeação"
+
+#: 
+msgid "Select status for newly booked appointments."
+msgstr "Escolha um estatuto para as nomeações recém reservado."
+
+#: 
+msgid "Pending"
+msgstr "Pendente"
+
+#: 
+msgid "Approved"
+msgstr "Aprovado"
+
+#: 
+msgid "Minimum time requirement prior to booking"
+msgstr "Requisito mínimo de tempo antes de fazer a reserva"
+
+#: 
+msgid "Set how late appointments can be booked (for example, require customers to book at least 1 hour before the appointment time)."
+msgstr "Definir como nomeações tarde pode ser reservado (por exemplo, exigem que os clientes para reservar pelo menos 1 hora antes da hora marcada)."
+
+#: 
+msgid "Minimum time requirement prior to canceling"
+msgstr "Tempo mínimo antes de cancelar"
+
+#: 
+msgid "Set how late appointments can be cancelled (for example, require customers to cancel at least 1 hour before the appointment time)."
+msgstr "Definir como nomeações tarde pode ser cancelado (por exemplo, exigem que os clientes cancelar pelo menos uma hora antes da hora marcada)."
+
+#: 
+msgid "Approve appointment URL (success)"
+msgstr ""
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully approved the appointment."
+msgstr ""
+
+#: 
+msgid "Approve appointment URL (denied)"
+msgstr ""
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the approval of appointment cannot be done (due to capacity, changed status, etc.)."
+msgstr ""
+
+#: 
+msgid "Cancel appointment URL (success)"
+msgstr ""
+
+#: 
+msgid "Set the URL of a page that is shown to clients after they successfully cancelled their appointment."
+msgstr "Defina o URL de uma página que é mostrado aos clientes depois que eles cancelada com sucesso sua nomeação."
+
+#: 
+msgid "Cancel appointment URL (denied)"
+msgstr "URL para cancelar a nomeação (negado)"
+
+#: 
+msgid "Set the URL of a page that is shown to clients when the cancellation of appointment is not available anymore."
+msgstr "Defina o URL de uma página que é mostrado aos clientes quando o cancelamento do compromisso não está mais disponível."
+
+#: 
+msgid "Number of days available for booking"
+msgstr "Número de dias disponíveis para reservas"
+
+#: 
+msgid "Set how far in the future the clients can book appointments."
+msgstr "Definir o quão longe no futuro os clientes podem reservar compromissos."
+
+#: 
+msgid "Display available time slots in client's time zone"
+msgstr "Slots de exibição de tempo disponível no fuso horário do cliente"
+
+#: 
+msgid "Final step URL"
+msgstr "URL do passo final"
+
+#: 
+msgid "Set the URL of a page that the user will be forwarded to after successful booking. If disabled then the default Done step is displayed."
+msgstr "Defina o URL de uma página que o usuário será encaminhado para após a reserva bem-sucedida. Se desativado, então o passo padrão Concluído é exibido."
+
+#: 
+msgid "Enter a URL"
+msgstr "Digite uma URL"
+
+#: 
+msgid "Allow staff members to edit their profiles"
+msgstr "Permitir que os membros da equipe para editar os seus perfis"
+
+#: 
+msgid "If this option is enabled then all staff members who are associated with WordPress users will be able to edit their own profiles, services, schedule and days off."
+msgstr "Se esta opção estiver activa, então todos os membros da equipe que estão associados com os usuários do WordPress será capaz de editar seus próprios perfis, serviços, cronograma e dias de folga."
+
+#: 
+msgid "Method to include Bookly JavaScript and CSS files on the page"
+msgstr "Método para incluir Bookly JavaScript e CSS na página"
+
+#: 
+msgid "With \"Enqueue\" method the JavaScript and CSS files of Bookly will be included on all pages of your website. This method should work with all themes. With \"Print\" method the files will be included only on the pages which contain Bookly booking form. This method may not work with all themes."
+msgstr "Com método \"Enqueue\" os arquivos de JavaScript e CSS Bookly será incluída em todas as páginas do seu site. Este método deve funcionar com todos os temas. Com método \"Imprimir\" os arquivos serão incluídos somente nas páginas que contêm Bookly formulário de reserva. Este método pode não funcionar com todos os temas."
+
+#: 
+msgid "Help us improve Bookly by sending anonymous usage stats"
+msgstr "Ajude-nos a melhorar Bookly enviando estatísticas de utilização anónimas"
+
+#: 
+msgid "Please enter a valid purchase code to change this setting."
+msgstr "Introduza um código de compra válido para alterar esta definição."
+
+#: 
+msgid "Instructions"
+msgstr "Instruções"
+
+#: 
+msgid "To find your client ID and client secret, do the following:"
+msgstr "Para encontrar o seu ID do cliente eo segredo do cliente, faça o seguinte:"
+
+#: 
+msgid "Go to the <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a>."
+msgstr "Vá para a <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a>."
+
+#: 
+msgid "Select a project, or create a new one."
+msgstr "Selecione um projeto, ou criar um novo."
+
+#: 
+msgid "Click in the upper left part to see a sliding sidebar. Next, click <b>API Manager</b>. In the list of APIs look for <b>Calendar API</b> and make sure it is enabled."
+msgstr "Clique na parte superior à esquerda para ver uma barra lateral deslizante. Em seguida, clique em <b>API Manager</b>. Na lista de APIs procure <b>Calendar API</b> e verifique se ele está habilitado."
+
+#: 
+msgid "In the sidebar on the left, select <b>Credentials</b>."
+msgstr "Na barra lateral à esquerda, selecione <b>Credentials</b>."
+
+#: 
+msgid "Go to <b>OAuth consent screen</b> tab and give a name to the product, then click <b>Save</b>."
+msgstr "Vá para a aba <b>OAuth consent screen</b> e dê um nome para o produto, em seguida, clique em <b>Save</b>."
+
+#: 
+msgid "Go to <b>Credentials</b> tab and in <b>New credentials</b> drop-down menu select <b>OAuth client ID</b>."
+msgstr "Vá para a aba <b>Credentials</b> e em <b>New credentials</b> menu drop-down selecione <b>OAuth client ID</b>."
+
+#: 
+msgid "Select <b>Web application</b> and create your project's OAuth 2.0 credentials by providing the necessary information. For <b>Authorized redirect URIs</b> enter the <b>Redirect URI</b> found below on this page. Click <b>Create</b>."
+msgstr "Selecione <b>Web application</b> e criar credenciais OAuth 2.0 do seu projeto, fornecendo as informações necessárias. Para <b>Authorized redirect URIs</b> digite o <b>Redirect URI</b> encontraram abaixo nesta página. Clique em <b>Create</b>."
+
+#: 
+msgid "In the popup window look for the <b>Client ID</b> and <b>Client secret</b>. Use them in the form below on this page."
+msgstr "Na janela pop-up olhar para o <b>Client ID</b> e <b>Client secret</b>. Use-os no formulário abaixo nesta página."
+
+#: 
+msgid "Go to Staff Members, select a staff member and click <b>Connect</b> which is located at the bottom of the page."
+msgstr "Vá aos membros do pessoal, selecione um membro da equipe e clique em <b>Ligar</b>, que está localizado na parte inferior da página."
+
+#: 
+msgid "Client ID"
+msgstr "Client ID"
+
+#: 
+msgid "The client ID obtained from the Developers Console"
+msgstr "O ID do cliente obtido a partir da Developers Console"
+
+#: 
+msgid "Client secret"
+msgstr "Client secret"
+
+#: 
+msgid "The client secret obtained from the Developers Console"
+msgstr "O segredo do cliente obtido a partir da Developers Console"
+
+#: 
+msgid "Redirect URI"
+msgstr "Redirect URI"
+
+#: 
+msgid "Enter this URL as a redirect URI in the Developers Console"
+msgstr "Digite esta URL como um URI de redirecionamento na Developers Console"
+
+#: 
+msgid "2 way sync"
+msgstr "2 way sync"
+
+#: 
+msgid "By default Bookly pushes new appointments and any further changes to Google Calendar. If you enable this option then Bookly will fetch events from Google Calendar and remove corresponding time slots before displaying the second step of the booking form (this may lead to a delay when users click Next at the first step)."
+msgstr "Por padrão Bookly empurra novas nomeações e de quaisquer outras alterações ao Google Calendar. Se você habilitar essa opção, então Bookly vai buscar eventos do Google Calendar e remover intervalos de tempo correspondentes antes de exibir a segunda etapa do formulário de inscrição (isso pode levar a um atraso quando os usuários clique em Avançar na primeira etapa)."
+
+#: 
+msgid "Limit number of fetched events"
+msgstr "Limitar o número de eventos obtida"
+
+#: 
+msgid "If there is a lot of events in Google Calendar sometimes this leads to a lack of memory in PHP when Bookly tries to fetch all events. You can limit the number of fetched events here. This only works when 2 way sync is enabled."
+msgstr "Se houver uma grande quantidade de eventos no Google Calendar, por vezes, isso leva a uma falta de memória em PHP quando Bookly tenta buscar todos os eventos. Você pode limitar o número de eventos obtida aqui. Isso só funciona quando 2 maneira a sincronização está ativada."
+
+#: 
+msgid "Template for event title"
+msgstr "Molde para o título do evento"
+
+#: 
+msgid "Configure what information should be placed in the title of Google Calendar event. Available codes are {service_name}, {staff_name} and {client_names}."
+msgstr "Configurar as informações que devem ser colocados no título do evento do Calendário Google. Códigos disponíveis são {service_name}, {staff_name} e {client_names}."
+
+#: 
+msgid "Please note, the business hours below work as a template for all new staff members. To render a list of available time slots the system takes into account only staff members' schedule, not the company business hours. Be sure to check the schedule of your staff members if you have some unexpected behavior of the booking system."
+msgstr "Por favor, note que o horário comercial abaixo funciona como um modelo para todos os novos membros da equipe. Para renderizar uma lista de intervalos de tempo disponíveis, o sistema leva em conta apenas a programação dos membros da equipe, não o horário comercial da empresa. Certifique-se de verificar a programação de seus membros da equipe se você tiver algum comportamento inesperado do sistema de reserva."
+
+#: 
+msgid "Currency"
+msgstr "Moeda"
+
+#: 
+msgid "Price format"
+msgstr "Formato de preço"
+
+#: 
+msgid "Service paid locally"
+msgstr "Serviço pago localmente"
+
+#: 
+msgid "Sandbox Mode"
+msgstr "Modo Sandbox"
+
+#: 
+msgid "No"
+msgstr "Não"
+
+#: 
+msgid "API Username"
+msgstr "Utilizador API"
+
+#: 
+msgid "API Password"
+msgstr "Palavra-passe API"
+
+#: 
+msgid "API Signature"
+msgstr "Assinatura API"
+
+#: 
+msgid "Client"
+msgstr "Cliente"
+
+#: 
+msgid "Upon providing the purchase code you will have access to free updates of Bookly. Updates may contain functionality improvements and important security fixes. For more information on where to find your purchase code see this <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-can-I-find-my-Purchase-Code-\" target=\"_blank\">page</a>."
+msgstr "Após fornecer o código que você terá acesso a atualizações gratuitas do Bookly. As atualizações podem conter melhorias de funcionalidade e correções de segurança importantes. Para mais informações sobre onde encontrar o seu código de compra ver esta <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-can-I-find-my-Purchase-Code-\" target=\"_blank\">página</a>."
+
+#: 
+msgid "You need to install and activate WooCommerce plugin before using the options below.<br/><br/>Once the plugin is activated do the following steps:"
+msgstr "Você precisa instalar e ativar o plugin do WooCommerce antes de utilizar as opções abaixo.<br/><br/>Uma vez que o plugin é ativado execute os seguintes passos:"
+
+#: 
+msgid "Create a product in WooCommerce that can be placed in cart."
+msgstr "Criar um produto em WooCommerce que podem ser colocados no carrinho."
+
+#: 
+msgid "In the form below enable WooCommerce option."
+msgstr "No formulário abaixo permitir opção WooCommerce."
+
+#: 
+msgid "Select the product that you created at step 1 in the drop down list of products."
+msgstr "Selecione o produto que você criou no passo 1 na lista suspensa de produtos para baixo."
+
+#: 
+msgid "If needed, edit item data which will be displayed in the cart."
+msgstr "Se necessário, editar dados do item que será exibido no carrinho."
+
+#: 
+msgid "Note that once you have enabled WooCommerce option in Bookly the built-in payment methods will no longer work. All your customers will be redirected to WooCommerce cart instead of standard payment step."
+msgstr "Note-se que uma vez que você tiver habilitado opção WooCommerce em Bookly os métodos de pagamento internos deixarão de funcionar. Todos os seus clientes será redirecionado para WooCommerce carrinho em vez de passo de pagamento padrão."
+
+#: 
+msgid "Booking product"
+msgstr "Produto para reservas"
+
+#: 
+msgid "Cart item data"
+msgstr "Dados de compras item"
+
+#: 
+msgid "General"
+msgstr "Geral"
+
+#: 
+msgid "Company"
+msgstr "Empresa"
+
+#: 
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: 
+msgid "Business Hours"
+msgstr "Horário laboral"
+
+#: 
+msgid "Holidays"
+msgstr "Feriados"
+
+#: 
+msgid "Please accept terms and conditions."
+msgstr "Por favor, aceite os termos e condições."
+
+#: 
+msgid "Your payment has been accepted for processing."
+msgstr "Seu pagamento foi aceito para processamento."
+
+#: 
+msgid "Your payment has been interrupted."
+msgstr "Seu pagamento foi interrompido."
+
+#: 
+msgid "Auto-Recharge enabled."
+msgstr "Auto-Recharge habilitado."
+
+#: 
+msgid "You declined the Auto-Recharge of your balance."
+msgstr "Você recusou o Auto-Recharge do seu saldo."
+
+#: 
+msgid "Please enter old password."
+msgstr "Digite a senha antiga."
+
+#: 
+msgid "Passwords must be the same."
+msgstr "As senhas devem ser o mesmo."
+
+#: 
+msgid "Sender ID request is sent."
+msgstr "Pedido de ID do remetente é enviada."
+
+#: 
+msgid "Sender ID is reset to default."
+msgstr "ID do remetente é redefinido para o padrão."
+
+#: 
+msgid "No records for selected period."
+msgstr "Não há registros para período indicado."
+
+#: 
+msgid "No records."
+msgstr "Não há registros."
+
+#: 
+msgid "Auto-Recharge has failed, please replenish your balance directly."
+msgstr "Auto-Recharge falhou, por favor repor o seu equilíbrio diretamente."
+
+#: 
+msgid "Auto-Recharge disabled"
+msgstr "Auto-Recharge desativado"
+
+#: 
+msgid "Error. Can't disable Auto-Recharge, you can perform this action in your PayPal account."
+msgstr "Erro. Não é possível desativar o Auto-Recharge, você pode executar esta ação em sua conta PayPal."
+
+#: 
+msgid "SMS has been sent successfully."
+msgstr "SMS foi enviada com sucesso."
+
+#: 
+msgid "We will only charge your PayPal account when your balance falls below $10."
+msgstr "Nós só debitamos sua conta PayPal quando o seu saldo cair abaixo de $10."
+
+#: 
+msgid "Enable Auto-Recharge"
+msgstr "Auto-Recharge ativar"
+
+#: 
+msgid "Disable Auto-Recharge"
+msgstr "Auto-Recharge desativar"
+
+#: 
+msgid "Administrator phone"
+msgstr "Telefone de administrador"
+
+#: 
+msgid "Enter a phone number in international format. E.g. for the United States a valid phone number would be +17327572923."
+msgstr "Digite um número de telefone no formato internacional. Por exemplo para Portugal um número de telefone válido seria +351966655222."
+
+#: 
+msgid "Send test SMS"
+msgstr "Enviar SMS de teste"
+
+#: 
+msgid "Country"
+msgstr "País"
+
+#: 
+msgid "Regular price"
+msgstr "Preço regular"
+
+#: 
+msgid "Price with custom Sender ID"
+msgstr "Preço com ID do remetente personalizada"
+
+#: 
+msgid "If you do not see your country in the list please contact us at <a href=\"mailto:support@ladela.com\">support@ladela.com</a>."
+msgstr "Se você não encontrar o seu país na lista entre em contato conosco em <a href=\"mailto:support@ladela.com\">support@ladela.com</a>."
+
+#: 
+msgid "Order"
+msgstr "Ordem"
+
+#: 
+msgid "Please take into account that not all countries by law allow custom SMS sender ID. Please check if particular country supports custom sender ID in our price list. Also please note that prices for messages with custom sender ID are usually 20% - 25% higher than normal message price."
+msgstr "Por favor tenha em conta que nem todos os países, por lei permitirá ID personalizado SMS remetente. Por favor, verifique se determinado país apoia costume remetente ID na nossa lista de preços. Também vale lembrar que os preços de mensagens com costume remetente ID são geralmente 20% - 25% superior ao preço de mensagem normal."
+
+#: 
+msgid "Request Sender ID"
+msgstr "Pedido remetente ID"
+
+#: 
+msgid "or"
+msgstr "ou"
+
+#: 
+msgid "Reset to default"
+msgstr "Restaurar ao padrão"
+
+#: 
+msgid "Can only contain letters or digits (up to 11 characters)."
+msgstr "Só pode conter letras ou dígitos (até 11 caracteres)."
+
+#: 
+msgid "Request"
+msgstr "Solicitar"
+
+#: 
+msgid "Cancel request"
+msgstr "Cancelar pedido"
+
+#: 
+msgid "Requested ID"
+msgstr "ID solicitado"
+
+#: 
+msgid "Status Date"
+msgstr "Data de estatuto"
+
+#: 
+msgid "Sender ID"
+msgstr "ID do remetente"
+
+#: 
+msgid "Cost"
+msgstr "Custo"
+
+#: 
+msgid "Your balance"
+msgstr "Seu saldo"
+
+#: 
+msgid "Send email notification to administrators at low balance"
+msgstr "Enviar notificação por email para os administradores em baixa equilíbrio"
+
+#: 
+msgid "Send weekly summary to administrators"
+msgstr "Enviar resumo semanal para os administradores"
+
+#: 
+msgid "Change"
+msgstr "Alterar"
+
+#: 
+msgid "Approved at"
+msgstr "Aprovado na"
+
+#: 
+msgid "Log out"
+msgstr "Sair"
+
+#: 
+msgid "Notifications"
+msgstr "Notificações"
+
+#: 
+msgid "Add money"
+msgstr "Adicionar dinheiro"
+
+#: 
+msgid "Auto-Recharge"
+msgstr "Auto-Recharge"
+
+#: 
+msgid "Purchases"
+msgstr "Compras"
+
+#: 
+msgid "SMS Details"
+msgstr "Detalhes SMS"
+
+#: 
+msgid "Price list"
+msgstr "Lista de preços"
+
+#: 
+msgid "SMS Notifications (or \"Bookly SMS\") is a service for notifying your customers via text messages which are sent to mobile phones."
+msgstr "Notificações de SMS (ou \"Bookly SMS\") é um serviço para notificar os seus clientes através de mensagens de texto que são enviados para telefones móveis."
+
+#: 
+msgid "It is necessary to register in order to start using this service."
+msgstr "É necessário registar-se para começar a utilizar este serviço."
+
+#: 
+msgid "After registration you will need to configure notification messages and top up your balance in order to start sending SMS."
+msgstr "Após o registro você precisará configurar mensagens de notificação e completar o seu equilíbrio, a fim de iniciar o envio de SMS."
+
+#: 
+msgid "Login"
+msgstr "Entrar"
+
+#: 
+msgid "Password"
+msgstr "Palavra-passe"
+
+#: 
+msgid "Log In"
+msgstr "Entrar"
+
+#: 
+msgid "Registration"
+msgstr "Inscrição"
+
+#: 
+msgid "Forgot password"
+msgstr "Esqueceu sua senha"
+
+#: 
+msgid "Repeat password"
+msgstr "Repita a senha"
+
+#: 
+msgid "Register"
+msgstr "Registrar"
+
+#: 
+msgid "Enter code from email"
+msgstr "Digite o código de e-mail"
+
+#: 
+msgid "New password"
+msgstr "nova senha"
+
+#: 
+msgid "Repeat new password"
+msgstr "Repita a nova senha"
+
+#: 
+msgid "Next"
+msgstr "Seguinte"
+
+#: 
+msgid "Change password"
+msgstr "Alterar a senha"
+
+#: 
+msgid "Old password"
+msgstr "Senha antiga"
+
+#: 
+msgid "Terms & Conditions"
+msgstr "Termos e Condições"
+
+#: 
+msgid "All locations"
+msgstr "Todos os locais"
+
+#: 
+msgid "No locations selected"
+msgstr "Nenhuma localização selecionada"
+
+#: 
+msgid "The start time must be less than the end one"
+msgstr "O horário inicial tem de ser inferior que o horário final"
+
+#: 
+msgid "The requested interval is not available"
+msgstr "O intervalo escolhido não está disponível"
+
+#: 
+msgid "Error adding the break interval"
+msgstr "Erro a adicionar o intervalo de pausa"
+
+#: 
+msgid "Delete break"
+msgstr "Excluir pausa"
+
+#: 
+msgid "Breaks"
+msgstr "Pausas"
+
+#: 
+msgid "Full name"
+msgstr "Nome completo"
+
+#: 
+msgid "If this staff member requires separate login to access personal calendar, a regular WP user needs to be created for this purpose."
+msgstr "Se este membro do staff requer um login separado para aceder ao calendário, um utilizador normal do WP tem de ser criado para este propósito."
+
+#: 
+msgid "User with \"Administrator\" role will have access to calendars and settings of all staff members, user with another role will have access only to personal calendar and settings."
+msgstr "Utilizador com permissões de \"Administrador\" terá acesso aos calendários e definições de todos os membros do staff. Um utilizador com outra permissão terá acesso apenas ao calendário pessoal e suas definições."
+
+#: 
+msgid "If you leave this field blank, this staff member will not be able to access personal calendar using WP backend."
+msgstr "Se deixar este campo vazio, o membro do staff não será capaz de aceder ao calendário pessoal através da área de administração do WP."
+
+#: 
+msgid "Select from WP users"
+msgstr "Escolher utilizadores do WP"
+
+#: 
+msgid "To make staff member invisible to your customers set the visibility to \"Private\"."
+msgstr "Para tornar membro da equipe invisível aos seus clientes definir a visibilidade para \"Privado\"."
+
+#: 
+msgid "Google Calendar integration"
+msgstr "A integração com o Google Calendar"
+
+#: 
+msgid "Synchronize staff member appointments with Google Calendar."
+msgstr "Sincronizar os dados das reservas membro da equipe com o Google Calendar."
+
+#: 
+msgid "Connect"
+msgstr "Conectar"
+
+#: 
+msgid "Please configure Google Calendar <a href=\"%s\">settings</a> first"
+msgstr "Por favor configurar em primeiro lugar as <a href=\"%s\">configurações</a> do Google Agenda"
+
+#: 
+msgid "Connected"
+msgstr "Conectado"
+
+#: 
+msgid "disconnect"
+msgstr "desligar"
+
+#: 
+msgid "New Staff Member"
+msgstr "Novo Membro do Staff"
+
+#: 
+msgid "Schedule"
+msgstr "Agendar"
+
+#: 
+msgid "Days off"
+msgstr "Dias de folga"
+
+#: 
+msgid "add break"
+msgstr "adicionar pausa"
+
+#: 
+msgid "Reset"
+msgstr "Limpar"
+
+#: 
+msgid "All fields marked with an asterisk (*) are required."
+msgstr "Todos os campos marcados com um asterisco (*) são obrigatórios."
+
+#: 
+msgid "Invalid email."
+msgstr "E-mail inválido."
+
+#: 
+msgid "Error sending support request."
+msgstr "Erro ao enviar solicitação de suporte."
+
+#: 
+msgid "Show all notifications"
+msgstr ""
+
+#: 
+msgid "Mark all notifications as read"
+msgstr ""
+
+#: 
+msgid "Documentation"
+msgstr "Documentação"
+
+#: 
+msgid "Need help? Contact us here."
+msgstr "Preciso de ajuda? Contacte-nos aqui."
+
+#: 
+msgid "Contact Us"
+msgstr "Contacte-nos "
+
+#: 
+msgid "We care about your experience using Bookly!<br/>Leave a review and tell others what you think."
+msgstr "Nós nos preocupamos com a sua experiência usando Bookly!<br/>Deixe um comentário e dizer aos outros o que você pensa."
+
+#: 
+msgid "Feedback"
+msgstr "Comentários"
+
+#: 
+msgid "Leave us a message"
+msgstr "Deixe-nos uma mensagem"
+
+#: 
+msgid "Your name"
+msgstr "Seu nome"
+
+#: 
+msgid "Email address"
+msgstr "Endereço de e-mail"
+
+#: 
+msgid "How can we help you?"
+msgstr "Como o podemos?"
+
+#: 
+msgid "How likely is it that you would recommend Bookly to a friend or colleague?"
+msgstr "Quão provável é que você recomendaria Bookly a um amigo ou colega?"
+
+#: 
+msgid "What do you think should be improved?"
+msgstr "O que você acha que deveria ser melhorado?"
+
+#: 
+msgid "Please enter your email (optional)"
+msgstr "Digite seu e-mail (opcional)"
+
+#: 
+msgid "Please leave your feedback <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Por favor, deixe seu feedback <a href=\"%s\" target=\"_blank\">aqui</a>."
+
+#: 
+msgid "Subscribe to monthly emails about Bookly improvements and new releases."
+msgstr "Inscrever-se para e-mails mensais sobre melhorias Bookly e novos lançamentos."
+
+#: 
+msgid "Add Bookly booking form"
+msgstr "Adicionar Bookly formulário de inscrição"
+
+#: 
+msgid "Add Bookly appointments list"
+msgstr "Adicionar Bookly lista nomeações"
+
+#: 
+msgid "Titles"
+msgstr "Títulos"
+
+#: 
+msgid "Staff"
+msgstr "Staff"
+
+#: 
+msgid "Insert"
+msgstr "Inserir"
+
+#: 
+msgid "Default value for category select"
+msgstr "Valor padrão da categoria escolhida"
+
+#: 
+msgid "Select category"
+msgstr "Escolher categoria"
+
+#: 
+msgid "Hide this field"
+msgstr "Ocultar esse campo"
+
+#: 
+msgid "Default value for service select"
+msgstr "Valor padrão do serviço escolhido"
+
+#: 
+msgid "Select service"
+msgstr "Escolher serviço"
+
+#: 
+msgid "Please be aware that a value in this field is required in the frontend. If you choose to hide this field, please be sure to select a default value for it"
+msgstr "Lembre-se que um valor nesse campo é obrigatório no frontend. Se você optar por ocultar esse campo, por favor, certifique-se de selecionar um valor padrão para ele"
+
+#: 
+msgid "Default value for employee select"
+msgstr "Valor padrão do funcionário escolhido"
+
+#: 
+msgid "Any"
+msgstr "Qualquer"
+
+#: 
+msgid "Hide this block"
+msgstr "Esconder este bloco"
+
+#: 
+msgid "Week days"
+msgstr "Dias de semana"
+
+#: 
+msgid "Time range"
+msgstr "Intervalo de tempo"
+
+#: 
+msgid "Insert Appointment Booking Form"
+msgstr "Insira formulário para reserva de nomeação"
+
+#: 
+msgid "Show more"
+msgstr "Mostre mais"
+
+#: 
+msgid "Session error."
+msgstr "Erro de sessão."
+
+#: 
+msgid "Form ID error."
+msgstr "Formulário de erro ID."
+
+#: 
+msgid "Pay locally is not available."
+msgstr "Pay localmente não está disponível."
+
+#: 
+msgid "Invalid gateway."
+msgstr "Porta de entrada inválido."
+
+#: 
+msgid "No time is available for selected criteria."
+msgstr "Nenhum horário está disponível para o critério escolhido."
+
+#: 
+msgid "Data already in use"
+msgstr "Dados já em uso"
+
+#: 
+msgid "Page Redirection"
+msgstr "Redirecionamento página"
+
+#: 
+msgid "If you are not redirected automatically, follow the <a href=\"%s\">link</a>."
+msgstr "Se você não for redirecionado automaticamente, siga o <a href=\"%s\">link</a>."
+
+#: 
+msgid "Loading..."
+msgstr "Carregando ..."
+
+#: 
+msgid "Not allowed"
+msgstr "Não permitido"
+
+#: 
+msgid "Expired"
+msgstr "Expirado"
+
+#: 
+msgid "No appointments found."
+msgstr "Nenhuma nomeação encontrado."
+
+#: 
+msgid "Show past appointments"
+msgstr "Mostrar compromissos passados"
+
+#: 
+msgid "Invalid token provided"
+msgstr "Token inválido fornecidas"
+
+#: 
+msgid "Error"
+msgstr "Erro"
+
+#: 
+msgid "Sorry, the time slot %date_time% for %service% has been already occupied."
+msgstr "Desculpe, mas o intervalo de tempo %date_time% para %service% já foi ocupada."
+
+#: 
+msgid "Service was not found"
+msgstr "Serviço não foi encontrado"
+
+#: 
+msgid "%s is not a valid purchase code for %s."
+msgstr "%s não é um código de compra válido para %s."
+
+#: 
+msgid "Purchase code verification is temporarily unavailable. Please try again later."
+msgstr "Verificação de código de compra está temporariamente indisponível. Por favor, tente novamente mais tarde."
+
+#: 
+msgid " and %d more item"
+msgid_plural " and %d more items"
+msgstr[0] " e %d outros itens"
+msgstr[1] " e %d mais itens"
+
+#: 
+msgid "Your appointment information"
+msgstr "Suas informações nomeação"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Isto é uma confirmação de uma marcação para {service_name}.\n"
+"\n"
+"Aguardamos por si nas nossas instalações situada na {company_address} a {appointment_date} às {appointment_time} .\n"
+"\n"
+"Obrigado por escolher os nossos serviços.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked the following items:\n"
+"\n"
+"{cart_info}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"\n"
+"Esta é uma confirmação de que você tem reservado os seguintes itens:\n"
+"\n"
+"{cart_info}\n"
+"\n"
+"Obrigado por escolher a nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New booking information"
+msgstr "Informação de nova marcação"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"Tem uma nova marcação.\n"
+"\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Horário: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Booking cancellation"
+msgstr "Cancelamento de reserva"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"\n"
+"Você cancelou sua reserva de {service_name} em {appointment_date} às {appointment_time}.\n"
+"\n"
+"Obrigado por escolher a nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"A seguir reserva foi cancelada.\n"
+"\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone Cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Booking rejection"
+msgstr "Reserva de rejeição"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"\n"
+"A sua reserva de {service_name} em {appointment_date} às {appointment_time} foi rejeitada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Obrigado por escolher a nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"A reserva seguinte foi rejeitada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Tempo: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"An account was created for you at {site_address}\n"
+"\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr "Olá.\n"
+"\n"
+"Uma conta foi criada para você no {site_address}\n"
+"\n"
+"Os seus dados de usuário:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Obrigado."
+
+#: 
+msgid "Your appointment at {company_name}"
+msgstr "Sua nomeação em {company_name}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} tomorrow at {appointment_time}. We are waiting for you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Gostariamos de relembrar que agendou uma marcação para {service_name} amanhã às {appointment_time}. Aguardamos por si nas nossas instalações na {company_address}.\n"
+"\n"
+"Obrigado por escolher os nossos serviços.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} on {appointment_date} at {appointment_time}. We are waiting for you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Gostariamos de relembrar que agendou uma marcação para {service_name} no dia {appointment_date} às {appointment_time}. Aguardamos por si nas nossas instalações na {company_address}.\n"
+"\n"
+"Obrigado por escolher os nossos serviços.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Your visit to {company_name}"
+msgstr "A sua visita {company_name}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your {service_name}.\n"
+"\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Obrigado por escolher os nossos serviços da empresa {company_name}. Esperamos que tenhamos estado à altura das suas espectativas com o serviço de {service_name}.\n"
+"\n"
+"Obrigado e aguardamos por uma nova visita e usufruto dos nossos serviços,\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Happy Birthday!"
+msgstr "Feliz Aniversário!"
+
+#: 
+msgid "Dear {client_name},\n"
+"\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name},\n"
+"\n"
+"Feliz Aniversário!\n"
+"Desejamos-lhe tudo de melhor.\n"
+"Que você e sua família sejam felizes e saudáveis.\n"
+"\n"
+"Obrigado por escolher a nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Your agenda for {tomorrow_date}"
+msgstr "A sua agenda para amanhã {tomorrow_date}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"Your agenda for tomorrow is:\n"
+"\n"
+"{next_day_agenda}"
+msgstr "Olá.\n"
+"\n"
+" A sua agenda para amanhã é:\n"
+"\n"
+"{next_day_agenda}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Isto é uma confirmação de uma marcação para {service_name}.\n"
+"\n"
+"Aguardamos por si nas nossas instalações situada na {company_address} a {appointment_date} às {appointment_time} .\n"
+"\n"
+"Obrigado por escolher os nossos serviços.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked the following items:\n"
+"{cart_info}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"Esta é uma confirmação de que você tem reservado os seguintes itens:\n"
+"{cart_info}\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"Tem uma nova marcação.\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Horário: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"Você cancelou sua reserva de {service_name} em {appointment_date} em {appointment_time}.\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been cancelled.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"A seguir reserva foi cancelada.\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone Cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Caro {client_name}.\n"
+"A sua reserva de {service_name} em {appointment_date} às {appointment_time} foi rejeitada.\n"
+"Motivo: {cancellation_reason}\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"A reserva seguinte foi rejeitada.\n"
+"Motivo: {cancellation_reason}\n"
+"Serviço: {service_name}\n"
+"Data: {appointment_date}\n"
+"Tempo: {appointment_time}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Hello.\n"
+"An account was created for you at {site_address}\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr "Olá.\n"
+"Uma conta foi criada para você no {site_address}\n"
+"Os seus dados de usuário:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Obrigado."
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow at {appointment_time}. We are waiting for you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Gostariamos de relembrar que agendou uma marcação para {service_name} amanhã às {appointment_time}. Aguardamos por si nas nossas instalações na {company_address}.\n"
+"Obrigado por escolher os nossos serviços.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} on {appointment_date} at {appointment_time}. We are waiting for you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Gostariamos de relembrar que agendou uma marcação para {service_name} no dia {appointment_date} às {appointment_time}. Aguardamos por si nas nossas instalações na {company_address}.\n"
+"Obrigado por escolher os nossos serviços.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your {service_name}.\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Obrigado por escolher os nossos serviços da empresa {company_name}. Esperamos que tenhamos estado à altura das suas espectativas com o serviço de {service_name}.\n"
+"Obrigado e aguardamos por uma nova visita e usufruto dos nossos serviços,\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name},\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name},\n"
+"Feliz Aniversário!\n"
+"Desejamos-lhe tudo de melhor.\n"
+"Que você e sua família sejam felizes e saudáveis.\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"Your agenda for tomorrow is:\n"
+"{next_day_agenda}"
+msgstr "Olá.\n"
+" A sua agenda para amanhã é:\n"
+"{next_day_agenda}"
+
+#: 
+msgid "Back"
+msgstr "Voltar"
+
+#: 
+msgid "Book More"
+msgstr "Reserva mais"
+
+#: 
+msgid "Below you can find a list of services selected for booking.\n"
+"Click BOOK MORE if you want to add more services."
+msgstr "Abaixo, você pode encontrar uma lista de serviços selecionados para a reserva.\n"
+"Clique RESERVAR MAIS se você quiser adicionar mais serviços."
+
+#: 
+msgid "Thank you! Your booking is complete. An email with details of your booking has been sent to you."
+msgstr "Muito obrigado! O processo de agendamento da marcação está completo. Um e-mail com os seus detalhes da sua marcação foi enviado para si."
+
+#: 
+msgid "You selected a booking for {service_name} by {staff_name} at {service_time} on {service_date}. The price for the service is {service_price}.\n"
+"Please provide your details in the form below to proceed with booking."
+msgstr "Escolheu uma marcação para {service_name} com {staff_name} às {service_time} em {service_date}. O preço para este serviço é de {service_price}.\n"
+"Por favor forneça os seus detalhes no formulário abaixo para proceder com o agendamento da marcação."
+
+#: 
+msgid "Please tell us how you would like to pay: "
+msgstr "Por favor queira informar-nos como deseja efetuar o pagamento:"
+
+#: 
+msgid "Please select service: "
+msgstr "Por favor escolha um serviço:"
+
+#: 
+msgid "Below you can find a list of available time slots for {service_name} by {staff_name}.\n"
+"Click on a time slot to proceed with booking."
+msgstr "Abaixo pode encontrar uma lista dos horários disponíveis para {service_name} com {staff_name}.\n"
+"Clique no horário para prosseguir com a marcação."
+
+#: 
+msgid "Card Security Code"
+msgstr "Código de segurança"
+
+#: 
+msgid "Expiration Date"
+msgstr "Data de validade"
+
+#: 
+msgid "Credit Card Number"
+msgstr "Número do cartão de crédito"
+
+#: 
+msgid "Coupon"
+msgstr "Cupom"
+
+#: 
+msgid "Employee"
+msgstr "Funcionário"
+
+#: 
+msgid "Finish by"
+msgstr "Até"
+
+#: 
+msgid "I will pay now with Credit Card"
+msgstr "Vou pagar agora com cartão de crédito"
+
+#: 
+msgid "I will pay locally"
+msgstr "Pago no local"
+
+#: 
+msgid "I will pay now with Mollie"
+msgstr "Vou pagar agora com Mollie"
+
+#: 
+msgid "I will pay now with PayPal"
+msgstr "Vou pagar agora com PayPal"
+
+#: 
+msgid "I'm available on or after"
+msgstr "Estou disponível a ou depois de"
+
+#: 
+msgid "Start from"
+msgstr "Desde"
+
+#: 
+msgid "Please tell us your email"
+msgstr "Por favor indique o seu e-mail"
+
+#: 
+msgid "Please select an employee"
+msgstr "Por favor seleccione um empregado"
+
+#: 
+msgid "Please tell us your name"
+msgstr "Por favor indique o seu número de telefone"
+
+#: 
+msgid "Please tell us your first name"
+msgstr ""
+
+#: 
+msgid "Please tell us your last name"
+msgstr ""
+
+#: 
+msgid "Please tell us your phone"
+msgstr "Por favor indique o seu número de telefone"
+
+#: 
+msgid "The selected time is not available anymore. Please, choose another time slot."
+msgstr "O horário escolhido já não se encontra disponível. Por favor escolha um outro horário."
+
+#: 
+msgid "The highlighted time is not available anymore. Please, choose another time slot."
+msgstr "O tempo realçado não está mais disponível. Por favor, escolha outro intervalo de tempo."
+
+#: 
+msgid "Done"
+msgstr "Concluir"
+
+#: 
+msgid "Signed up"
+msgstr "Registrado"
+
+#: 
+msgid "Capacity"
+msgstr "Capacidade"
+
+#: 
+msgid "Appointment"
+msgstr "Nomeação"
+
+#: 
+msgid "A new appointment has been created. To view the details of this appointment, please contact your website administrator in order to verify Bookly license."
+msgstr "Um novo compromisso foi criado. Para visualizar os detalhes desta nomeação, por favor, contate o administrador do site a fim de verificar licença Bookly."
+
+#: 
+msgid "You have a new appointment. To view it, contact your admin to verify Bookly license."
+msgstr "Você tem um novo compromisso. Para visualizá-lo, entre em contato com o seu administrador para verificar a licença Bookly."
+
+#: 
+msgid "A new appointment has been created. To view the details of this appointment, please verify Bookly license in the administrative panel."
+msgstr "Um novo compromisso foi criado. Para visualizar os detalhes desta nomeação, por favor, verificar licença Bookly no painel administrativo."
+
+#: 
+msgid "You have a new appointment. To view it, please verify Bookly license."
+msgstr "Você tem um novo compromisso. Para visualizá-lo, por favor, verificar licença Bookly."
+
+#: 
+msgid "Please contact your website administrator to verify Bookly license. If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Entre em contato com o administrador do site para verificar a licença Bookly. Se você não verificar a licença dentro de {days}, o acesso a suas reservas serão desativados."
+
+#: 
+msgid "Contact your admin to verify Bookly license; {days} remaining."
+msgstr "Contacte o seu administrador para verificar a licença Bookly; {days} restantes."
+
+#: 
+msgid "Please verify Bookly license in the administrative panel. If you do not verify the license within {days}, access to your bookings will be disabled."
+msgstr "Por favor, verifique licença Bookly no painel administrativo. Se você não verificar a licença dentro de {days}, o acesso a suas reservas serão desativados."
+
+#: 
+msgid "Please verify Bookly license; {days} remaining."
+msgstr "Por favor, verifique licença Bookly; {days} restantes."
+
+#: 
+msgid "Please contact your website administrator in order to verify the license for Bookly add-ons. If you do not verify the license within {days}, the respective add-ons will be disabled."
+msgstr "Entre em contato com o administrador do site, a fim de verificar a licença para Bookly add-ons. Se você não verificar a licença dentro de {days}, os respectivos complementos será desativado."
+
+#: 
+msgid "Contact your admin to verify Bookly add-ons license; {days} remaining."
+msgstr "Contacte o seu administrador para verificar Bookly licença de complementos; {days} restantes."
+
+#: 
+msgid "Please verify the license for Bookly add-ons in the administrative panel. If you do not verify the license within {days}, the respective add-ons will be disabled."
+msgstr "Por favor, verifique a licença para Bookly add-ons no painel administrativo. Se você não verificar a licença dentro de {days}, os respectivos complementos será desativado."
+
+#: 
+msgid "Please verify Bookly add-ons license; {days} remaining."
+msgstr "Por favor, verifique Bookly licença de complementos; {days} restantes."
+
+#: 
+msgid "Please verify your Bookly license"
+msgstr "Por favor, verifique a sua licença Bookly"
+
+#: 
+msgid "Bookly will need to verify your license to restore access to your bookings. Please enter the purchase code in the administrative panel."
+msgstr "Bookly precisará verificar sua licença para restaurar o acesso às suas reservas. Digite o código da compra no painel administrativo."
+
+#: 
+msgid "sent to our system"
+msgstr "enviado para o nosso sistema"
+
+#: 
+msgid "Hope you had a good weekend! Here's a summary of messages we've delivered last week:\n"
+"{notification_list}\n"
+"\n"
+"Your system sent a total of {total} messages last week (that's {delta} {sign} than the week before).\n"
+"Cost of sending {total} messages was {amount}. You current Bookly SMS balance is {balance}.\n"
+"\n"
+"Thank you for using Bookly SMS. We wish you a lucky week!\n"
+"Bookly SMS Team."
+msgstr "Espero que você teve um bom fim de semana! Aqui está um resumo de mensagens que já entregou na semana passada:\n"
+"{notification_list}\n"
+"\n"
+"Seu sistema enviaram um total de {total} mensagens na semana passada (que é {delta} {sign} que na semana anterior).\n"
+"Custo do envio de {total} mensagens foi de {amount}. Você equilíbrio Bookly SMS atual é de {balance}.\n"
+"\n"
+"Obrigado por usar Bookly SMS. Desejamos-lhe uma semana de sorte!\n"
+"Equipe SMS Bookly."
+
+#: 
+msgid "more"
+msgstr "mais"
+
+#: 
+msgid "less"
+msgstr "menos"
+
+#: 
+msgid "Bookly SMS weekly summary"
+msgstr "Bookly SMS resumo semanal"
+
+#: 
+msgid "Your don't have enough Bookly SMS credits to send this message. Please add funds to your balance and try again."
+msgstr ""
+
+#: 
+msgid "Failed to send SMS."
+msgstr "Não foi possível enviar SMS."
+
+#: 
+msgid "Phone number is empty."
+msgstr "Número de telefone está vazio."
+
+#: 
+msgid "Queued"
+msgstr "Na Fila"
+
+#: 
+msgid "Out of credit"
+msgstr "Fora do crédito"
+
+#: 
+msgid "Country out of service"
+msgstr "País fora de serviço"
+
+#: 
+msgid "Sending"
+msgstr "Transmissão"
+
+#: 
+msgid "Sent"
+msgstr "Enviei"
+
+#: 
+msgid "Delivered"
+msgstr "Entregue"
+
+#: 
+msgid "Failed"
+msgstr "Fracassado"
+
+#: 
+msgid "Undelivered"
+msgstr "Não entregue"
+
+#: 
+msgid "Default"
+msgstr "Padrão"
+
+#: 
+msgid "Declined"
+msgstr "Recusado"
+
+#: 
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: 
+msgid "Error connecting to server."
+msgstr "Erro conectando ao servidor."
+
+#: 
+msgid "Dear Bookly SMS customer.\n"
+"We would like to notify you that your Bookly SMS balance fell lower than 5 USD. To use our service without interruptions please recharge your balance by visiting Bookly SMS page <a href='%s'>here</a>.\n"
+"\n"
+"If you want to stop receiving these notifications, please update your settings <a href='%s'>here</a>."
+msgstr "Prezado cliente Bookly SMS.\n"
+"Nós gostaríamos de informá-lo que o seu saldo Bookly SMS caiu inferior a 5 USD. Para usar nosso serviço sem interrupções recarregue seu saldo, visitando Bookly SMS página <a href='%s'>aqui</a>.\n"
+"\n"
+"Se você quiser parar de receber estas notificações, atualize suas configurações <a href='%s'>aqui</a>."
+
+#: 
+msgid "Bookly SMS - Low Balance"
+msgstr "SMS Bookly - Low Balance"
+
+#: 
+msgid "Empty password."
+msgstr "Senha vazia."
+
+#: 
+msgid "Incorrect password."
+msgstr "Senha incorreta."
+
+#: 
+msgid "Incorrect recovery code."
+msgstr "Código de recuperação incorreto."
+
+#: 
+msgid "Incorrect email or password."
+msgstr "Senha ou e-mail incorretos."
+
+#: 
+msgid "Incorrect sender ID"
+msgstr "Incorreta identificação do remetente"
+
+#: 
+msgid "Pending sender ID already exists."
+msgstr "Enquanto se aguarda a identificação do remetente já existe."
+
+#: 
+msgid "Recovery code expired."
+msgstr "Código de recuperação expirado."
+
+#: 
+msgid "Error sending email."
+msgstr "Erro ao enviar e-mail."
+
+#: 
+msgid "User not found."
+msgstr "Usuário não encontrado."
+
+#: 
+msgid "Email already in use."
+msgstr "Email já está em uso."
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Isto é uma confirmação de uma marcação para {service_name}.\n"
+"\n"
+"Aguardamos por si nas nossas instalações situada na {company_address} a {appointment_date} às {appointment_time} .\n"
+"\n"
+"Obrigado por escolher os nossos serviços.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at {appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Isto é uma confirmação de uma marcação para {service_name}.\n"
+"Aguardamos por si nas nossas instalações situada na {company_address} a {appointment_date} às {appointment_time} .\n"
+"Obrigado por escolher os nossos serviços.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow on {appointment_time}. We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Gostariamos de relembrar que agendou uma marcação para {service_name} amanhã às {appointment_time}. Aguardamos por si nas nossas instalações na {company_address}.\n"
+"Obrigado por escolher os nossos serviços.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "The price for the service is {service_price}."
+msgstr "O preço do serviço é {service_price}."
+
+#: 
+msgid "Notes (optional)"
+msgstr "Notas (opcional)"
+
+#: 
+msgid "Invalid email"
+msgstr "E-mail inválido"
+
+#: 
+msgid "This email is already in use"
+msgstr "Esse email já está em uso"
+
+#: 
+msgid "\"%s\" is too long (%d characters max)."
+msgstr "\"%s\" é muito longo (%d caracteres no máximo)."
+
+#: 
+msgid "Invalid number"
+msgstr "Número inválido"
+
+#: 
+msgid "Invalid date"
+msgstr ""
+
+#: 
+msgid "Invalid time"
+msgstr ""
+
+#: 
+msgid "Your %s: %s is already associated with another %s.<br/>Press Update if we should update your user data, or press Cancel to edit entered data."
+msgstr ""
+
+#: 
+msgid "Check for updates"
+msgstr "Verificar atualizações"
+
+#: 
+msgid "This plugin is up to date."
+msgstr "Este plugin é até à data."
+
+#: 
+msgid "A new version of this plugin is available."
+msgstr "Uma nova versão deste plugin está disponível."
+
+#: 
+msgid "Unknown update checker status \"%s\""
+msgstr "Status desconhecido do verificador de atualização \"%s\""
+
+#: 
+msgid "To update - enter the <a href=\"%s\">Purchase Code</a>"
+msgstr "Para atualizar - digite o <a href=\"%s\">Código Compra</a>"
+
+#: 
+msgid "Rejected"
+msgstr "Rejeitado"
+
+#: 
+msgid "Notification to customer about approved appointment"
+msgstr "Notificação para o cliente acerca nomeação aprovado"
+
+#: 
+msgid "Notification to customer about approved appointments"
+msgstr "Notificação ao cliente sobre os compromissos aprovados"
+
+#: 
+msgid "Notification to customer about cancelled appointment"
+msgstr "Notificação para o cliente acerca nomeação cancelada"
+
+#: 
+msgid "Notification to customer about rejected appointment"
+msgstr "Notificação para o cliente acerca nomeação rejeitado"
+
+#: 
+msgid "Follow-up message in the same day after appointment (requires cron setup)"
+msgstr "Follow-up mensagem no dia após a nomeação (requer configuração cron)"
+
+#: 
+msgid "Notification to customer about their WordPress user login details"
+msgstr "Notificação para o cliente sobre os seus detalhes de login do usuário WordPress"
+
+#: 
+msgid "Notification to customer about pending appointment"
+msgstr "Notificação para o cliente acerca nomeação pendente"
+
+#: 
+msgid "Notification to customer about pending appointments"
+msgstr "Notificação ao cliente sobre as nomeações pendentes"
+
+#: 
+msgid "Evening reminder to customer about next day appointment (requires cron setup)"
+msgstr "Lembrete Evening a cliente sobre nomeação no dia seguinte (requer configuração cron)"
+
+#: 
+msgid "1st reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "1º lembrete para o cliente sobre o próximo compromisso (requer configuração cron)"
+
+#: 
+msgid "2nd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "2º lembrete para o cliente sobre o próximo compromisso (requer configuração cron)"
+
+#: 
+msgid "3rd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr "3º lembrete para o cliente sobre o próximo compromisso (requer configuração cron)"
+
+#: 
+msgid "Customer birthday greeting (requires cron setup)"
+msgstr "Cumprimento do aniversário do cliente (requer configuração do cron)"
+
+#: 
+msgid "Evening notification with the next day agenda to staff member (requires cron setup)"
+msgstr "Notificação à noite com a agenda dia seguinte ao pessoal membro (requer configuração cron)"
+
+#: 
+msgid "Notification to staff member about approved appointment"
+msgstr "Notificação para o membro do staff acerca nomeação aprovado"
+
+#: 
+msgid "Notification to staff member about cancelled appointment"
+msgstr "Notificação para o membro do staff acerca nomeação cancelada"
+
+#: 
+msgid "Notification to staff member about rejected appointment"
+msgstr "Notificação para o membro do staff acerca nomeação rejeitado"
+
+#: 
+msgid "Notification to staff member about pending appointment"
+msgstr "Notificação para o membro do staff acerca nomeação pendente"
+
+#: 
+msgid "Test message"
+msgstr "Mensagem de teste"
+
+#: 
+msgid "Local"
+msgstr "Local"
+
+#: 
+msgid "Completed"
+msgstr "Concluído"
+
+#: 
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d semana"
+msgstr[1] "%d semanas"
+
+#: 
+msgid "%d h"
+msgstr "%d h"
+
+#: 
+msgid "%d min"
+msgstr "%d min"
+
+#: 
+msgid "To view the details of this appointments, please contact your website administrator in order to verify Bookly license."
+msgstr "Para visualizar os detalhes desta compromissos, por favor, contate o administrador do site a fim de verificar licença Bookly."
+
+#: 
+msgid "Form view in case of successful booking"
+msgstr ""
+
+#: 
+msgid "Form view in case the number of bookings exceeds the limit"
+msgstr ""
+
+#: 
+msgid "Form view in case of payment has been accepted for processing"
+msgstr ""
+
+#: 
+msgid "No result found"
+msgstr ""
+
+#: 
+msgid "Package"
+msgstr ""
+
+#: 
+msgid "Package schedule"
+msgstr ""
+
+#: 
+msgid "You may import list of clients in CSV format. You can choose the columns contained in your file. The sequence of columns should coincide with the specified one."
+msgstr ""
+
+#: 
+msgid "messages"
+msgstr ""
+
+#: 
+msgid "First"
+msgstr ""
+
+#: 
+msgid "Previous"
+msgstr ""
+
+#: 
+msgid "Last"
+msgstr ""
+
+#: 
+msgid "URL of reject appointment link (to use inside <a> tag)"
+msgstr ""
+
+#: 
+msgid "Custom notification"
+msgstr ""
+
+#: 
+msgid "Appointment date and time"
+msgstr ""
+
+#: 
+msgid "Customer's birthday"
+msgstr ""
+
+#: 
+msgid "With status"
+msgstr ""
+
+#: 
+msgid "Instantly"
+msgstr ""
+
+#: 
+msgid "days"
+msgstr ""
+
+#: 
+msgid "after"
+msgstr ""
+
+#: 
+msgid "at"
+msgstr ""
+
+#: 
+msgid "before"
+msgstr ""
+
+#: 
+msgid "Recipient"
+msgstr ""
+
+#: 
+msgid "Custom"
+msgstr ""
+
+#: 
+msgid "New Notification"
+msgstr ""
+
+#: 
+msgid "Start and end times of the appointment"
+msgstr ""
+
+#: 
+msgid "Allows to set the start and end times for an appointment for services with the duration of 1 day or longer. This time will be displayed in notifications to customers."
+msgstr ""
+
+#: 
+msgid "Limit appointments per customer"
+msgstr ""
+
+#: 
+msgid "Allows you to limit the frequency of service bookings per customer."
+msgstr ""
+
+#: 
+msgid "per day"
+msgstr ""
+
+#: 
+msgid "per week"
+msgstr ""
+
+#: 
+msgid "per month"
+msgstr ""
+
+#: 
+msgid "per year"
+msgstr ""
+
+#: 
+msgid "Show confirmation dialog before updating customer's data"
+msgstr ""
+
+#: 
+msgid "If this option is enabled and customer enters contact info different from the previous order, a warning message will appear asking to update the data."
+msgstr ""
+
+#: 
+msgid "Reject appointment URL (success)"
+msgstr ""
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully rejected the appointment."
+msgstr ""
+
+#: 
+msgid "Reject appointment URL (denied)"
+msgstr ""
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the rejection of appointment cannot be done (due to changed status, etc.)."
+msgstr ""
+
+#: 
+msgid "Notification name"
+msgstr ""
+
+#: 
+msgid "You are trying to use the service too often. Please contact us to make a booking."
+msgstr ""
+
+#: 
+msgid "Notification about last appointment (requires cron setup)"
+msgstr ""
+
+#: 
+msgid "%s has reached the limit of bookings for this service"
+msgstr ""
+
+#: 
+msgid "Reminder notification"
+msgstr ""
+
+#: 
+msgid "URL Settings"
+msgstr ""
+
+#: 
+msgid "Notification about appointment date and time (requires cron setup)"
+msgstr ""
+
+#: 
+msgid "on the same day"
+msgstr ""
+
+#: 
+msgid "Administrators"
+msgstr ""
+
+#: 
+msgid "Show notes field"
+msgstr ""
+
+#: 
+msgid "Custom service name"
+msgstr ""
+
+#: 
+msgid "Please enter a service name"
+msgstr ""
+
+#: 
+msgid "Custom service price"
+msgstr ""
+
+#: 
+msgid "customer notes for appointment"
+msgstr ""
+
+#: 
+msgid "URL of cancel appointment link with confirmation (to use inside <a> tag)"
+msgstr ""
+
+#: 
+msgid "agenda date"
+msgstr ""
+
+#: 
+msgid "Attach ICS file"
+msgstr ""
+
+#: 
+msgid "Event notification"
+msgstr ""
+
+#: 
+msgid "Status changed"
+msgstr ""
+
+#: 
+msgid "New booking"
+msgstr ""
+
+#: 
+msgid "Last client's appointment"
+msgstr ""
+
+#: 
+msgid "Full day agenda"
+msgstr ""
+
+#: 
+msgid "Notification period"
+msgstr ""
+
+#: 
+msgid "Set period of time when system will attempt to deliver notification to user. Notification will be discarded after period expiration."
+msgstr ""
+
+#: 
+msgid "Save changes"
+msgstr ""
+
+#: 
+msgid "Continue without saving"
+msgstr ""
+
+#: 
+msgid "Appointment cancellation confirmation URL"
+msgstr ""
+
+#: 
+msgid "Set the URL of an appointment cancellation confirmation page that is shown to clients when they press cancellation link."
+msgstr ""
+
+#: 
+msgid "Accept <a href=\"#\" data-toggle=\"modal\" data-target=\"#bookly-tos\">Terms & Conditions</a>"
+msgstr ""
+
+#: 
+msgid "Add appointment cancellation confirmation"
+msgstr ""
+
+#: 
+msgid "Confirm"
+msgstr ""
+
+#: 
+msgid "Thank you for being with us"
+msgstr ""
+
+#: 
+msgid "Notification about appointment created (requires cron setup)"
+msgstr ""
+
+#: 
+msgid "Notification about appointment status changed (requires cron setup)"
+msgstr ""
+
+#: 
+msgid "Notification about staff agenda (requires cron setup)"
+msgstr ""
+
+#: 
+msgid "When creating a new notification, the page will be reloaded, and all unsaved changes will be lost."
+msgstr ""
+
+#: 
+msgid "Show time zone switcher"
+msgstr ""
+
+#: 
+msgid "Attachments"
+msgstr ""
+
+#: 
+msgid "time zone of client"
+msgstr ""
+
+#: 
+msgid "Reason"
+msgstr ""
+
+#: 
+msgid "Manual adjustment"
+msgstr ""
+
+#: 
+msgid "Are you sure you want to dissociate this purchase code from %s?\n"
+"\n"
+"This will also remove the entered purchase code from this site."
+msgstr ""
+
+#: 
+msgid "Price correction"
+msgstr ""
+
+#: 
+msgid "Increase/Discount (%)"
+msgstr ""
+
+#: 
+msgid "Addition/Deduction"
+msgstr ""
+
+#: 
+msgid "You are going to delete item which is involved in upcoming appointments. All related appointments will be deleted. Please double check and edit appointments before this item deletion if needed."
+msgstr ""
+
+#: 
+msgid "Edit appointments"
+msgstr ""
+
+#: 
+msgid "Error."
+msgstr ""
+
+#: 
+msgid "Waiting list appointments"
+msgstr ""
+
+#: 
+msgid "%s is used on another domain %s.<br/>In order to use the purchase code on this domain, please dissociate it in the admin panel of the other domain.<br/>If you do not have access to the admin area, please contact our technical support at support@ladela.com to transfer the license manually."
+msgstr ""
+
+#: 
+msgid "<a class=\"%s\" href=\"#\">Click here</a> to dissociate this purchase code from the current domain (use to move the plugin to another site)."
+msgstr ""
+
+#: 
+msgid "Internal Notes"
+msgstr ""
+
+#: 
+msgid "Error dissociating purchase code."
+msgstr ""
+
+#: 
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 
+msgid "Analytics"
+msgstr ""
+
+#: 
+msgid "The value is taken from clients browser."
+msgstr ""
+
+#: 
+msgid "Set order of the fields in calendar"
+msgstr ""
+
+#: 
+msgid "New Customers"
+msgstr ""
+
+#: 
+msgid "Frontend"
+msgstr ""
+
+#: 
+msgid "No service selected"
+msgstr ""
+
+#: 
+msgid "Sessions"
+msgstr ""
+
+#: 
+msgid "Visits"
+msgstr ""
+
+#: 
+msgid "Sessions  number of completed and/or planned service sessions."
+msgstr ""
+
+#: 
+msgid "Approved  number of visitors of sessions with Approved status during the selected period."
+msgstr ""
+
+#: 
+msgid "Pending  number of visitors of sessions with Pending status during the selected period."
+msgstr ""
+
+#: 
+msgid "Rejected  number of visitors of sessions with Rejected status during the selected period."
+msgstr ""
+
+#: 
+msgid "Cancelled  number of visitors of sessions with Cancelled status during the selected period."
+msgstr ""
+
+#: 
+msgid "Customers  number of unique customers who made bookings during the selected period."
+msgstr ""
+
+#: 
+msgid "New customers  number of new customers added to the database during the selected period."
+msgstr ""
+
+#: 
+msgid "Attach payment"
+msgstr ""
+
+#: 
+msgid "Enter payment ID"
+msgstr ""
+
+#: 
+msgid "Bind payment"
+msgstr ""
+
+#: 
+msgid "Payment is not found."
+msgstr ""
+
+#: 
+msgid "Total  approximate cost of appointments with Approved and Pending statuses, calculated on the basis of the price list. Appointments that are paid through the front-end and have Pending payment status are included in brackets."
+msgstr ""
+

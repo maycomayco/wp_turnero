@@ -1,0 +1,3078 @@
+#, php-format
+msgid " and %d more item"
+msgid_plural " and %d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Extras"
+msgstr ""
+
+msgid "Your appointment information"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at "
+"{appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked the following items:\n"
+"\n"
+"{cart_info}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "New booking information"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "Booking cancellation"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at "
+"{appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "Booking rejection"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} "
+"has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "New customer"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"An account was created for you at {site_address}\n"
+"\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr ""
+
+msgid "Your appointment at {company_name}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} tomorrow at "
+"{appointment_time}. We are waiting for you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"We would like to remind you that you have booked {service_name} on "
+"{appointment_date} at {appointment_time}. We are waiting for you at "
+"{company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "Your visit to {company_name}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your "
+"{service_name}.\n"
+"\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "Happy Birthday!"
+msgstr ""
+
+msgid ""
+"Dear {client_name},\n"
+"\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "Your agenda for {tomorrow_date}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"Your agenda for tomorrow is:\n"
+"\n"
+"{next_day_agenda}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at "
+"{appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"This is a confirmation that you have booked the following items:\n"
+"{cart_info}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"You have cancelled your booking of {service_name} on {appointment_date} at "
+"{appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"The following booking has been cancelled.\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"Your booking of {service_name} on {appointment_date} at {appointment_time} "
+"has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name}\n"
+"Date: {appointment_date}\n"
+"Time: {appointment_time}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"An account was created for you at {site_address}\n"
+"Your user details:\n"
+"user: {new_username}\n"
+"password: {new_password}\n"
+"\n"
+"Thanks."
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow at "
+"{appointment_time}. We are waiting for you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} on "
+"{appointment_date} at {appointment_time}. We are waiting for you at "
+"{company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"Thank you for choosing {company_name}. We hope you were satisfied with your "
+"{service_name}.\n"
+"Thank you and we look forward to seeing you again soon.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name},\n"
+"Happy birthday!\n"
+"We wish you all the best.\n"
+"May you and your family be happy and healthy.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"Your agenda for tomorrow is:\n"
+"{next_day_agenda}"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Book More"
+msgstr ""
+
+msgid ""
+"Below you can find a list of services selected for booking.\n"
+"Click BOOK MORE if you want to add more services."
+msgstr ""
+
+msgid ""
+"Thank you! Your booking is complete. An email with details of your booking "
+"has been sent to you."
+msgstr ""
+
+msgid ""
+"You are trying to use the service too often. Please contact us to make a "
+"booking."
+msgstr ""
+
+msgid "Your payment has been accepted for processing."
+msgstr ""
+
+msgid ""
+"You selected a booking for {service_name} by {staff_name} at {service_time} "
+"on {service_date}. The price for the service is {service_price}.\n"
+"Please provide your details in the form below to proceed with booking."
+msgstr ""
+
+msgid "Please tell us how you would like to pay: "
+msgstr ""
+
+msgid "Please select service: "
+msgstr ""
+
+msgid ""
+"Below you can find a list of available time slots for {service_name} by "
+"{staff_name}.\n"
+"Click on a time slot to proceed with booking."
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Card Security Code"
+msgstr ""
+
+msgid "Expiration Date"
+msgstr ""
+
+msgid "Credit Card Number"
+msgstr ""
+
+msgid "Employee"
+msgstr ""
+
+msgid "Finish by"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "I will pay now with Credit Card"
+msgstr ""
+
+msgid "I will pay locally"
+msgstr ""
+
+msgid "I will pay now with Mollie"
+msgstr ""
+
+msgid "I will pay now with PayPal"
+msgstr ""
+
+msgid "I'm available on or after"
+msgstr ""
+
+msgid "Start from"
+msgstr ""
+
+msgid "Select category"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Select service"
+msgstr ""
+
+msgid "Please tell us your email"
+msgstr ""
+
+msgid "Please select an employee"
+msgstr ""
+
+msgid "Please tell us your name"
+msgstr ""
+
+msgid "Please tell us your first name"
+msgstr ""
+
+msgid "Please tell us your last name"
+msgstr ""
+
+msgid "Please tell us your phone"
+msgstr ""
+
+msgid "Please select a service"
+msgstr ""
+
+msgid ""
+"The selected time is not available anymore. Please, choose another time slot."
+msgstr ""
+
+msgid "Cart"
+msgstr ""
+
+msgid ""
+"The highlighted time is not available anymore. Please, choose another time "
+"slot."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Signed up"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid "Appointment"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"This is confirmation that you have booked {service_name}.\n"
+"\n"
+"We are waiting you at {company_address} on {appointment_date} at "
+"{appointment_time}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"This is confirmation that you have booked {service_name}.\n"
+"We are waiting you at {company_address} on {appointment_date} at "
+"{appointment_time}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"We would like to remind you that you have booked {service_name} tomorrow on "
+"{appointment_time}. We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "Number of persons"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "The price for the service is {service_price}."
+msgstr ""
+
+msgid "Notes (optional)"
+msgstr ""
+
+msgid "Purchase Code"
+msgstr ""
+
+#, php-format
+msgid ""
+"<a class=\"%s\" href=\"#\">Click here</a> to dissociate this purchase code "
+"from the current domain (use to move the plugin to another site)."
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "This plugin is up to date."
+msgstr ""
+
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#, php-format
+msgid "To update - enter the <a href=\"%s\">Purchase Code</a>"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%d h"
+msgstr ""
+
+#, php-format
+msgid "%d min"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Internal Notes"
+msgstr ""
+
+msgid ""
+"To view the details of this appointments, please contact your website "
+"administrator in order to verify Bookly license."
+msgstr ""
+
+msgid ""
+"A new appointment has been created. To view the details of this appointment, "
+"please contact your website administrator in order to verify Bookly license."
+msgstr ""
+
+msgid ""
+"You have a new appointment. To view it, contact your admin to verify Bookly "
+"license."
+msgstr ""
+
+msgid ""
+"A new appointment has been created. To view the details of this appointment, "
+"please verify Bookly license in the administrative panel."
+msgstr ""
+
+msgid "You have a new appointment. To view it, please verify Bookly license."
+msgstr ""
+
+msgid ""
+"Please contact your website administrator to verify Bookly license. If you "
+"do not verify the license within {days}, access to your bookings will be "
+"disabled."
+msgstr ""
+
+msgid "Contact your admin to verify Bookly license; {days} remaining."
+msgstr ""
+
+msgid ""
+"Please verify Bookly license in the administrative panel. If you do not "
+"verify the license within {days}, access to your bookings will be disabled."
+msgstr ""
+
+msgid "Please verify Bookly license; {days} remaining."
+msgstr ""
+
+msgid ""
+"Please contact your website administrator in order to verify the license for "
+"Bookly add-ons. If you do not verify the license within {days}, the "
+"respective add-ons will be disabled."
+msgstr ""
+
+msgid "Contact your admin to verify Bookly add-ons license; {days} remaining."
+msgstr ""
+
+msgid ""
+"Please verify the license for Bookly add-ons in the administrative panel. If "
+"you do not verify the license within {days}, the respective add-ons will be "
+"disabled."
+msgstr ""
+
+msgid "Please verify Bookly add-ons license; {days} remaining."
+msgstr ""
+
+msgid "Please verify your Bookly license"
+msgstr ""
+
+msgid ""
+"Bookly will need to verify your license to restore access to your bookings. "
+"Please enter the purchase code in the administrative panel."
+msgstr ""
+
+msgid "sent to our system"
+msgstr ""
+
+msgid ""
+"Hope you had a good weekend! Here's a summary of messages we've delivered "
+"last week:\n"
+"{notification_list}\n"
+"\n"
+"Your system sent a total of {total} messages last week (that's {delta} "
+"{sign} than the week before).\n"
+"Cost of sending {total} messages was {amount}. You current Bookly SMS "
+"balance is {balance}.\n"
+"\n"
+"Thank you for using Bookly SMS. We wish you a lucky week!\n"
+"Bookly SMS Team."
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "less"
+msgstr ""
+
+msgid "Bookly SMS weekly summary"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "On waiting list"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Uncategorized"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Notification to customer about approved appointment"
+msgstr ""
+
+msgid "Notification to customer about approved appointments"
+msgstr ""
+
+msgid "Notification to customer about cancelled appointment"
+msgstr ""
+
+msgid "Notification to customer about rejected appointment"
+msgstr ""
+
+msgid ""
+"Follow-up message in the same day after appointment (requires cron setup)"
+msgstr ""
+
+msgid "Notification to customer about their WordPress user login details"
+msgstr ""
+
+msgid "Notification to customer about pending appointment"
+msgstr ""
+
+msgid "Notification to customer about pending appointments"
+msgstr ""
+
+msgid ""
+"Evening reminder to customer about next day appointment (requires cron setup)"
+msgstr ""
+
+msgid ""
+"1st reminder to customer about upcoming appointment (requires cron setup)"
+msgstr ""
+
+msgid ""
+"2nd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr ""
+
+msgid ""
+"3rd reminder to customer about upcoming appointment (requires cron setup)"
+msgstr ""
+
+msgid "Customer birthday greeting (requires cron setup)"
+msgstr ""
+
+msgid ""
+"Evening notification with the next day agenda to staff member (requires cron "
+"setup)"
+msgstr ""
+
+msgid "Notification to staff member about approved appointment"
+msgstr ""
+
+msgid "Notification to staff member about cancelled appointment"
+msgstr ""
+
+msgid "Notification to staff member about rejected appointment"
+msgstr ""
+
+msgid "Notification to staff member about pending appointment"
+msgstr ""
+
+msgid "Notification about appointment date and time (requires cron setup)"
+msgstr ""
+
+msgid "Notification about appointment created (requires cron setup)"
+msgstr ""
+
+msgid "Notification about appointment status changed (requires cron setup)"
+msgstr ""
+
+msgid "Notification about last appointment (requires cron setup)"
+msgstr ""
+
+msgid "Notification about staff agenda (requires cron setup)"
+msgstr ""
+
+msgid "Test message"
+msgstr ""
+
+msgid "Invalid email"
+msgstr ""
+
+msgid "This email is already in use"
+msgstr ""
+
+#, php-format
+msgid "\"%s\" is too long (%d characters max)."
+msgstr ""
+
+msgid "Invalid number"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Invalid date"
+msgstr ""
+
+msgid "Invalid time"
+msgstr ""
+
+#, php-format
+msgid ""
+"Your %s: %s is already associated with another %s.<br/>Press Update if we "
+"should update your user data, or press Cancel to edit entered data."
+msgstr ""
+
+#, php-format
+msgid ""
+"%s is used on another domain %s.<br/>In order to use the purchase code on "
+"this domain, please dissociate it in the admin panel of the other domain.<br/"
+">If you do not have access to the admin area, please contact our technical "
+"support at support@ladela.com to transfer the license manually."
+msgstr ""
+
+#, php-format
+msgid "%s is not a valid purchase code for %s."
+msgstr ""
+
+msgid ""
+"Purchase code verification is temporarily unavailable. Please try again "
+"later."
+msgstr ""
+
+msgid "Passwords must be the same."
+msgstr ""
+
+msgid ""
+"Your don't have enough Bookly SMS credits to send this message. Please add "
+"funds to your balance and try again."
+msgstr ""
+
+msgid "Failed to send SMS."
+msgstr ""
+
+msgid "Phone number is empty."
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Out of credit"
+msgstr ""
+
+msgid "Country out of service"
+msgstr ""
+
+msgid "Sending"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Delivered"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Undelivered"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Declined"
+msgstr ""
+
+msgid "Error connecting to server."
+msgstr ""
+
+#, php-format
+msgid ""
+"Dear Bookly SMS customer.\n"
+"We would like to notify you that your Bookly SMS balance fell lower than 5 "
+"USD. To use our service without interruptions please recharge your balance "
+"by visiting Bookly SMS page <a href='%s'>here</a>.\n"
+"\n"
+"If you want to stop receiving these notifications, please update your "
+"settings <a href='%s'>here</a>."
+msgstr ""
+
+msgid "Bookly SMS - Low Balance"
+msgstr ""
+
+msgid "Empty password."
+msgstr ""
+
+msgid "Incorrect password."
+msgstr ""
+
+msgid "Incorrect recovery code."
+msgstr ""
+
+msgid "Incorrect email or password."
+msgstr ""
+
+msgid "Incorrect sender ID"
+msgstr ""
+
+msgid "Invalid email."
+msgstr ""
+
+msgid "Pending sender ID already exists."
+msgstr ""
+
+msgid "Recovery code expired."
+msgstr ""
+
+msgid "Error sending email."
+msgstr ""
+
+msgid "User not found."
+msgstr ""
+
+msgid "Email already in use."
+msgstr ""
+
+msgid "License verification"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Appointments"
+msgstr ""
+
+msgid "Staff Members"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "SMS Notifications"
+msgstr ""
+
+msgid "Email Notifications"
+msgstr ""
+
+msgid "Customers"
+msgstr ""
+
+msgid "Payments"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Analytics"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "No."
+msgstr ""
+
+msgid "Appointment Date"
+msgstr ""
+
+msgid "Customer Name"
+msgstr ""
+
+msgid "Customer Phone"
+msgstr ""
+
+msgid "Customer Email"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Export to CSV"
+msgstr ""
+
+msgid "New appointment"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Delimiter"
+msgstr ""
+
+msgid "Comma (,)"
+msgstr ""
+
+msgid "Semicolon (;)"
+msgstr ""
+
+msgid "Booking Time"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Last 7 Days"
+msgstr ""
+
+msgid "Last 30 Days"
+msgstr ""
+
+msgid "This Month"
+msgstr ""
+
+msgid "Next Month"
+msgstr ""
+
+msgid "Custom Range"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "No appointments for selected period."
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "No result found"
+msgstr ""
+
+#, php-format
+msgid "%s of %s"
+msgstr ""
+
+msgid "Your balance"
+msgstr ""
+
+msgid "Send email notification to administrators at low balance"
+msgstr ""
+
+msgid "Send weekly summary to administrators"
+msgstr ""
+
+msgid "Sender ID"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Approved at"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Add money"
+msgstr ""
+
+msgid "Auto-Recharge"
+msgstr ""
+
+msgid "Purchases"
+msgstr ""
+
+msgid "SMS Details"
+msgstr ""
+
+msgid "Price list"
+msgstr ""
+
+msgid ""
+"SMS Notifications (or \"Bookly SMS\") is a service for notifying your "
+"customers via text messages which are sent to mobile phones."
+msgstr ""
+
+msgid "It is necessary to register in order to start using this service."
+msgstr ""
+
+msgid ""
+"After registration you will need to configure notification messages and top "
+"up your balance in order to start sending SMS."
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Log In"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Forgot password"
+msgstr ""
+
+msgid "Repeat password"
+msgstr ""
+
+msgid ""
+"Accept <a href=\"#\" data-toggle=\"modal\" data-target=\"#bookly-tos\">Terms "
+"& Conditions</a>"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Enter code from email"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "Repeat new password"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Old password"
+msgstr ""
+
+msgid "Terms & Conditions"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Custom notification"
+msgstr ""
+
+msgid "Event notification"
+msgstr ""
+
+msgid "Status changed"
+msgstr ""
+
+msgid "New booking"
+msgstr ""
+
+msgid "Reminder notification"
+msgstr ""
+
+msgid "Appointment date and time"
+msgstr ""
+
+msgid "Customer's birthday"
+msgstr ""
+
+msgid "Last client's appointment"
+msgstr ""
+
+msgid "Full day agenda"
+msgstr ""
+
+msgid "With status"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "before"
+msgstr ""
+
+msgid "after"
+msgstr ""
+
+msgid "on the same day"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "Instantly"
+msgstr ""
+
+msgid "Notification name"
+msgstr ""
+
+msgid "Recipient"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "Administrators"
+msgstr ""
+
+msgid "Codes"
+msgstr ""
+
+msgid ""
+"We will only charge your PayPal account when your balance falls below $10."
+msgstr ""
+
+msgid "Enable Auto-Recharge"
+msgstr ""
+
+msgid "Disable Auto-Recharge"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Regular price"
+msgstr ""
+
+msgid "Price with custom Sender ID"
+msgstr ""
+
+msgid ""
+"If you do not see your country in the list please contact us at <a href="
+"\"mailto:support@ladela.com\">support@ladela.com</a>."
+msgstr ""
+
+msgid "Administrator phone"
+msgstr ""
+
+msgid ""
+"Enter a phone number in international format. E.g. for the United States a "
+"valid phone number would be +17327572923."
+msgstr ""
+
+msgid "Send test SMS"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Combined"
+msgstr ""
+
+msgid "New Notification"
+msgstr ""
+
+#, php-format
+msgid ""
+"To send scheduled notifications please refer to <a href=\"%1$s\">Bookly "
+"Multisite</a> add-on <a href=\"%2$s\">message</a>."
+msgstr ""
+
+msgid ""
+"To send scheduled notifications please execute the following command hourly "
+"with your cron:"
+msgstr ""
+
+msgid "Notification period"
+msgstr ""
+
+msgid ""
+"Set period of time when system will attempt to deliver notification to user. "
+"Notification will be discarded after period expiration."
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid ""
+"Please take into account that not all countries by law allow custom SMS "
+"sender ID. Please check if particular country supports custom sender ID in "
+"our price list. Also please note that prices for messages with custom sender "
+"ID are usually 20% - 25% higher than normal message price."
+msgstr ""
+
+msgid "Request Sender ID"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Can only contain letters or digits (up to 11 characters)."
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Cancel request"
+msgstr ""
+
+msgid "Requested ID"
+msgstr ""
+
+msgid "Status Date"
+msgstr ""
+
+msgid "Please accept terms and conditions."
+msgstr ""
+
+msgid "Your payment has been interrupted."
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Auto-Recharge enabled."
+msgstr ""
+
+msgid "You declined the Auto-Recharge of your balance."
+msgstr ""
+
+msgid "Last Month"
+msgstr ""
+
+msgid "Please enter old password."
+msgstr ""
+
+msgid "Sender ID request is sent."
+msgstr ""
+
+msgid "Sender ID is reset to default."
+msgstr ""
+
+msgid "No records for selected period."
+msgstr ""
+
+msgid "No records."
+msgstr ""
+
+msgid "Auto-Recharge has failed, please replenish your balance directly."
+msgstr ""
+
+msgid "Auto-Recharge disabled"
+msgstr ""
+
+msgid ""
+"Error. Can't disable Auto-Recharge, you can perform this action in your "
+"PayPal account."
+msgstr ""
+
+msgid "SMS has been sent successfully."
+msgstr ""
+
+msgid "Default value for category select"
+msgstr ""
+
+msgid "Hide this field"
+msgstr ""
+
+msgid "Default value for service select"
+msgstr ""
+
+msgid ""
+"Please be aware that a value in this field is required in the frontend. If "
+"you choose to hide this field, please be sure to select a default value for "
+"it"
+msgstr ""
+
+msgid "Default value for employee select"
+msgstr ""
+
+msgid "Hide this block"
+msgstr ""
+
+msgid "Week days"
+msgstr ""
+
+msgid "Time range"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Insert Appointment Booking Form"
+msgstr ""
+
+msgid "Titles"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Add Bookly appointments list"
+msgstr ""
+
+msgid "Add Bookly booking form"
+msgstr ""
+
+msgid "Add appointment cancellation confirmation"
+msgstr ""
+
+msgid "Delete break"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "All services"
+msgstr ""
+
+msgid "No services found. Please add services."
+msgstr ""
+
+msgid "Add Service"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Days off"
+msgstr ""
+
+msgid "Breaks"
+msgstr ""
+
+msgid "New Staff Member"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid ""
+"If this staff member requires separate login to access personal calendar, a "
+"regular WP user needs to be created for this purpose."
+msgstr ""
+
+msgid ""
+"User with \"Administrator\" role will have access to calendars and settings "
+"of all staff members, user with another role will have access only to "
+"personal calendar and settings."
+msgstr ""
+
+msgid ""
+"If you leave this field blank, this staff member will not be able to access "
+"personal calendar using WP backend."
+msgstr ""
+
+msgid "Select from WP users"
+msgstr ""
+
+msgid "Full name"
+msgstr ""
+
+msgid ""
+"You are going to delete item which is involved in upcoming appointments. All "
+"related appointments will be deleted. Please double check and edit "
+"appointments before this item deletion if needed."
+msgstr ""
+
+msgid "Edit appointments"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "add break"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+#, php-format
+msgid "This text can be inserted into notifications with %s code."
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid ""
+"To make staff member invisible to your customers set the visibility to "
+"\"Private\"."
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Google Calendar integration"
+msgstr ""
+
+msgid "Synchronize staff member appointments with Google Calendar."
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+#, php-format
+msgid "Please configure Google Calendar <a href=\"%s\">settings</a> first"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "disconnect"
+msgstr ""
+
+msgid "Reorder"
+msgstr ""
+
+msgid "Min capacity should not be greater than max capacity."
+msgstr ""
+
+msgid "All locations"
+msgstr ""
+
+msgid "No locations selected"
+msgstr ""
+
+msgid "The start time must be less than the end one"
+msgstr ""
+
+msgid "The requested interval is not available"
+msgstr ""
+
+msgid "Error adding the break interval"
+msgstr ""
+
+msgid "Repeat every year"
+msgstr ""
+
+msgid "We are not working on this day"
+msgstr ""
+
+msgid "Company name"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid ""
+"If cart is enabled then your clients will be able to book several "
+"appointments at once. Please note that WooCommerce integration must be "
+"disabled."
+msgstr ""
+
+msgid "Time slot length"
+msgstr ""
+
+msgid ""
+"Select a time interval which will be used as a step when building all time "
+"slots in the system."
+msgstr ""
+
+msgid "Service duration as slot length"
+msgstr ""
+
+msgid ""
+"Enable this option to make slot length equal to service duration at the Time "
+"step of booking form."
+msgstr ""
+
+msgid "Default appointment status"
+msgstr ""
+
+msgid "Select status for newly booked appointments."
+msgstr ""
+
+msgid "Minimum time requirement prior to booking"
+msgstr ""
+
+msgid ""
+"Set how late appointments can be booked (for example, require customers to "
+"book at least 1 hour before the appointment time)."
+msgstr ""
+
+msgid "Minimum time requirement prior to canceling"
+msgstr ""
+
+msgid ""
+"Set how late appointments can be cancelled (for example, require customers "
+"to cancel at least 1 hour before the appointment time)."
+msgstr ""
+
+msgid "Number of days available for booking"
+msgstr ""
+
+msgid "Set how far in the future the clients can book appointments."
+msgstr ""
+
+msgid "Display available time slots in client's time zone"
+msgstr ""
+
+msgid "The value is taken from clients browser."
+msgstr ""
+
+msgid "Allow staff members to edit their profiles"
+msgstr ""
+
+msgid ""
+"If this option is enabled then all staff members who are associated with "
+"WordPress users will be able to edit their own profiles, services, schedule "
+"and days off."
+msgstr ""
+
+msgid "Method to include Bookly JavaScript and CSS files on the page"
+msgstr ""
+
+msgid ""
+"With \"Enqueue\" method the JavaScript and CSS files of Bookly will be "
+"included on all pages of your website. This method should work with all "
+"themes. With \"Print\" method the files will be included only on the pages "
+"which contain Bookly booking form. This method may not work with all themes."
+msgstr ""
+
+msgid "Help us improve Bookly by sending anonymous usage stats"
+msgstr ""
+
+msgid "Please enter a valid purchase code to change this setting."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "URL Settings"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Google Calendar"
+msgstr ""
+
+msgid "Business Hours"
+msgstr ""
+
+msgid "Holidays"
+msgstr ""
+
+msgid "Price correction"
+msgstr ""
+
+msgid "Increase/Discount (%)"
+msgstr ""
+
+msgid "Addition/Deduction"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "To find your client ID and client secret, do the following:"
+msgstr ""
+
+msgid ""
+"Go to the <a href=\"https://console.developers.google.com/\" target=\"_blank"
+"\">Google Developers Console</a>."
+msgstr ""
+
+msgid "Select a project, or create a new one."
+msgstr ""
+
+msgid ""
+"Click in the upper left part to see a sliding sidebar. Next, click <b>API "
+"Manager</b>. In the list of APIs look for <b>Calendar API</b> and make sure "
+"it is enabled."
+msgstr ""
+
+msgid "In the sidebar on the left, select <b>Credentials</b>."
+msgstr ""
+
+msgid ""
+"Go to <b>OAuth consent screen</b> tab and give a name to the product, then "
+"click <b>Save</b>."
+msgstr ""
+
+msgid ""
+"Go to <b>Credentials</b> tab and in <b>New credentials</b> drop-down menu "
+"select <b>OAuth client ID</b>."
+msgstr ""
+
+msgid ""
+"Select <b>Web application</b> and create your project's OAuth 2.0 "
+"credentials by providing the necessary information. For <b>Authorized "
+"redirect URIs</b> enter the <b>Redirect URI</b> found below on this page. "
+"Click <b>Create</b>."
+msgstr ""
+
+msgid ""
+"In the popup window look for the <b>Client ID</b> and <b>Client secret</b>. "
+"Use them in the form below on this page."
+msgstr ""
+
+msgid ""
+"Go to Staff Members, select a staff member and click <b>Connect</b> which is "
+"located at the bottom of the page."
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "The client ID obtained from the Developers Console"
+msgstr ""
+
+msgid "Client secret"
+msgstr ""
+
+msgid "The client secret obtained from the Developers Console"
+msgstr ""
+
+msgid "Redirect URI"
+msgstr ""
+
+msgid "Enter this URL as a redirect URI in the Developers Console"
+msgstr ""
+
+msgid "2 way sync"
+msgstr ""
+
+msgid ""
+"By default Bookly pushes new appointments and any further changes to Google "
+"Calendar. If you enable this option then Bookly will fetch events from "
+"Google Calendar and remove corresponding time slots before displaying the "
+"second step of the booking form (this may lead to a delay when users click "
+"Next at the first step)."
+msgstr ""
+
+msgid "Limit number of fetched events"
+msgstr ""
+
+msgid ""
+"If there is a lot of events in Google Calendar sometimes this leads to a "
+"lack of memory in PHP when Bookly tries to fetch all events. You can limit "
+"the number of fetched events here. This only works when 2 way sync is "
+"enabled."
+msgstr ""
+
+msgid "Template for event title"
+msgstr ""
+
+msgid ""
+"Configure what information should be placed in the title of Google Calendar "
+"event. Available codes are {service_name}, {staff_name} and {client_names}."
+msgstr ""
+
+msgid "date of appointment"
+msgstr ""
+
+msgid "time of appointment"
+msgstr ""
+
+msgid "name of category"
+msgstr ""
+
+msgid "number of persons"
+msgstr ""
+
+msgid "info of service"
+msgstr ""
+
+msgid "name of service"
+msgstr ""
+
+msgid "price of service"
+msgstr ""
+
+msgid "info of staff"
+msgstr ""
+
+msgid "name of staff"
+msgstr ""
+
+msgid ""
+"You need to install and activate WooCommerce plugin before using the options "
+"below.<br/><br/>Once the plugin is activated do the following steps:"
+msgstr ""
+
+msgid "Create a product in WooCommerce that can be placed in cart."
+msgstr ""
+
+msgid "In the form below enable WooCommerce option."
+msgstr ""
+
+msgid ""
+"Select the product that you created at step 1 in the drop down list of "
+"products."
+msgstr ""
+
+msgid "If needed, edit item data which will be displayed in the cart."
+msgstr ""
+
+msgid ""
+"Note that once you have enabled WooCommerce option in Bookly the built-in "
+"payment methods will no longer work. All your customers will be redirected "
+"to WooCommerce cart instead of standard payment step."
+msgstr ""
+
+msgid "Booking product"
+msgstr ""
+
+msgid "Cart item data"
+msgstr ""
+
+msgid "Enter a value"
+msgstr ""
+
+msgid "Approve appointment URL (success)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff after they successfully "
+"approved the appointment."
+msgstr ""
+
+msgid "Approve appointment URL (denied)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff when the approval of "
+"appointment cannot be done (due to capacity, changed status, etc.)."
+msgstr ""
+
+msgid "Cancel appointment URL (success)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to clients after they successfully "
+"cancelled their appointment."
+msgstr ""
+
+msgid "Cancel appointment URL (denied)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to clients when the cancellation of "
+"appointment is not available anymore."
+msgstr ""
+
+msgid "Appointment cancellation confirmation URL"
+msgstr ""
+
+msgid ""
+"Set the URL of an appointment cancellation confirmation page that is shown "
+"to clients when they press cancellation link."
+msgstr ""
+
+msgid "Reject appointment URL (success)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff after they successfully "
+"rejected the appointment."
+msgstr ""
+
+msgid "Reject appointment URL (denied)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff when the rejection of "
+"appointment cannot be done (due to changed status, etc.)."
+msgstr ""
+
+msgid "Final step URL"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that the user will be forwarded to after successful "
+"booking. If disabled then the default Done step is displayed."
+msgstr ""
+
+msgid "Enter a URL"
+msgstr ""
+
+msgid ""
+"In order to improve your Bookly experience, we have started collecting "
+"anonymous plugin usage stats. If you don't want to provide this information, "
+"you can change permissions in Bookly settings."
+msgstr ""
+
+msgid ""
+"Upon providing the purchase code you will have access to free updates of "
+"Bookly. Updates may contain functionality improvements and important "
+"security fixes. For more information on where to find your purchase code see "
+"this <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-"
+"Where-can-I-find-my-Purchase-Code-\" target=\"_blank\">page</a>."
+msgstr ""
+
+msgid ""
+"If you do not provide a valid purchase code within {days}, access to your "
+"bookings will be disabled."
+msgstr ""
+
+msgid ""
+"Please note, the business hours below work as a template for all new staff "
+"members. To render a list of available time slots the system takes into "
+"account only staff members' schedule, not the company business hours. Be "
+"sure to check the schedule of your staff members if you have some unexpected "
+"behavior of the booking system."
+msgstr ""
+
+msgid "booking number"
+msgstr ""
+
+msgid "address of company"
+msgstr ""
+
+msgid "name of company"
+msgstr ""
+
+msgid "company phone"
+msgstr ""
+
+msgid "company web-site address"
+msgstr ""
+
+msgid "capacity of service"
+msgstr ""
+
+msgid "number of persons already in the list"
+msgstr ""
+
+msgid "email of staff"
+msgstr ""
+
+msgid "phone of staff"
+msgstr ""
+
+msgid "email of client"
+msgstr ""
+
+msgid "full name of client"
+msgstr ""
+
+msgid "first name of client"
+msgstr ""
+
+msgid "last name of client"
+msgstr ""
+
+msgid "phone of client"
+msgstr ""
+
+msgid "status of payment"
+msgstr ""
+
+msgid "payment type"
+msgstr ""
+
+msgid "status of appointment"
+msgstr ""
+
+msgid "total price of booking (sum of all cart items after applying coupon)"
+msgstr ""
+
+msgid "Set order of the fields in calendar"
+msgstr ""
+
+msgid "Appointment with one participant"
+msgstr ""
+
+msgid "Appointment with many participants"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Price format"
+msgstr ""
+
+msgid "Service paid locally"
+msgstr ""
+
+msgid "API Username"
+msgstr ""
+
+msgid "API Password"
+msgstr ""
+
+msgid "API Signature"
+msgstr ""
+
+msgid "Sandbox Mode"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Create WordPress user account for customers"
+msgstr ""
+
+msgid ""
+"If this setting is enabled then Bookly will be creating WordPress user "
+"accounts for all new customers. If the user is logged in then the new "
+"customer will be associated with the existing user account."
+msgstr ""
+
+msgid "New user account role"
+msgstr ""
+
+msgid ""
+"Select what role will be assigned to newly created WordPress user accounts "
+"for customers."
+msgstr ""
+
+msgid "Phone field default country"
+msgstr ""
+
+msgid ""
+"Select default country for the phone field in the 'Details' step of booking. "
+"You can also let Bookly determine the country based on the IP address of the "
+"client."
+msgstr ""
+
+msgid "Guess country by user's IP address"
+msgstr ""
+
+msgid "Default country code"
+msgstr ""
+
+msgid ""
+"Your clients must have their phone numbers in international format in order "
+"to receive text messages. However you can specify a default country code "
+"that will be used as a prefix for all phone numbers that do not start with "
+"\"+\" or \"00\". E.g. if you enter \"1\" as the default country code and a "
+"client enters their phone as \"(600) 555-2222\" the resulting phone number "
+"to send the SMS to will be \"+1600555222\"."
+msgstr ""
+
+msgid "Cancel appointment action"
+msgstr ""
+
+msgid ""
+"Select what happens when customer clicks cancel appointment link. With "
+"\"Delete\" the appointment will be deleted from the calendar. With \"Cancel"
+"\" only appointment status will be changed to \"Cancelled\"."
+msgstr ""
+
+msgid "Combined notifications"
+msgstr ""
+
+msgid ""
+"If combined notifications are enabled then your clients will receive single "
+"notification for entire booking instead of separate notification per each "
+"booked appointment (e.g. when cart is enabled). You will need to edit "
+"corresponding templates in Email and SMS Notifications."
+msgstr ""
+
+msgid "Remember personal information in cookies"
+msgstr ""
+
+msgid ""
+"If this setting is enabled then returning customers will have their personal "
+"information fields filled in at the Details step with the data previously "
+"saved in cookies."
+msgstr ""
+
+msgid "Show confirmation dialog before updating customer's data"
+msgstr ""
+
+msgid ""
+"If this option is enabled and customer enters contact info different from "
+"the previous order, a warning message will appear asking to update the data."
+msgstr ""
+
+#, php-format
+msgid ""
+"To use the cart, disable integration with WooCommerce <a href=\"%s\">here</"
+"a>."
+msgstr ""
+
+#, php-format
+msgid ""
+"WooCommerce cart is not set up. Follow the <a href=\"%s\">link</a> to "
+"correct this problem."
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+#, php-format
+msgid ""
+"Are you sure you want to dissociate this purchase code from %s?\n"
+"\n"
+"This will also remove the entered purchase code from this site."
+msgstr ""
+
+msgid "Error dissociating purchase code."
+msgstr ""
+
+msgid "Select product"
+msgstr ""
+
+msgid "All Services"
+msgstr ""
+
+msgid "New Category"
+msgstr ""
+
+msgid "Update service setting"
+msgstr ""
+
+msgid ""
+"You are about to change a service setting which is also configured "
+"separately for each staff member. Do you want to update it in staff settings "
+"too?"
+msgstr ""
+
+msgid "Remember my choice"
+msgstr ""
+
+msgid "No, update just here in services"
+msgstr ""
+
+#, php-format
+msgid "%d service"
+msgid_plural "%d services"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid ""
+"To make service invisible to your customers set the visibility to \"Private"
+"\"."
+msgstr ""
+
+msgid "Padding time (before and after)"
+msgstr ""
+
+msgid ""
+"Set padding time before and/or after an appointment. For example, if you "
+"require 15 minutes to prepare for the next appointment then you should set "
+"\"padding before\" to 15 min. If there is an appointment from 8:00 to 9:00 "
+"then the next available time slot will be 9:15 rather than 9:00."
+msgstr ""
+
+msgid "Start and end times of the appointment"
+msgstr ""
+
+msgid ""
+"Allows to set the start and end times for an appointment for services with "
+"the duration of 1 day or longer. This time will be displayed in "
+"notifications to customers."
+msgstr ""
+
+msgid "Providers preference for ANY"
+msgstr ""
+
+msgid ""
+"Allows you to define the rule of staff members auto assignment when ANY "
+"option is selected"
+msgstr ""
+
+msgid "Providers"
+msgstr ""
+
+msgid "All staff"
+msgstr ""
+
+msgid "No staff selected"
+msgstr ""
+
+msgid "Limit appointments per customer"
+msgstr ""
+
+msgid "Allows you to limit the frequency of service bookings per customer."
+msgstr ""
+
+msgid "per day"
+msgstr ""
+
+msgid "per week"
+msgstr ""
+
+msgid "per month"
+msgstr ""
+
+msgid "per year"
+msgstr ""
+
+msgid "Specified order"
+msgstr ""
+
+msgid "Least occupied that day"
+msgstr ""
+
+msgid "Most occupied that day"
+msgstr ""
+
+msgid "Least expensive"
+msgstr ""
+
+msgid "Most expensive"
+msgstr ""
+
+msgid "Sessions"
+msgstr ""
+
+msgid "New Customers"
+msgstr ""
+
+msgid "Frontend"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Visits"
+msgstr ""
+
+msgid "Sessions  number of completed and/or planned service sessions."
+msgstr ""
+
+msgid ""
+"Approved  number of visitors of sessions with Approved status during the "
+"selected period."
+msgstr ""
+
+msgid ""
+"Pending  number of visitors of sessions with Pending status during the "
+"selected period."
+msgstr ""
+
+msgid ""
+"Rejected  number of visitors of sessions with Rejected status during the "
+"selected period."
+msgstr ""
+
+msgid ""
+"Cancelled  number of visitors of sessions with Cancelled status during the "
+"selected period."
+msgstr ""
+
+msgid ""
+"Customers  number of unique customers who made bookings during the selected "
+"period."
+msgstr ""
+
+msgid ""
+"New customers  number of new customers added to the database during the "
+"selected period."
+msgstr ""
+
+msgid ""
+"Total  approximate cost of appointments with Approved and Pending statuses, "
+"calculated on the basis of the price list. Appointments that are paid "
+"through the front-end and have Pending payment status are included in "
+"brackets."
+msgstr ""
+
+msgid "No service selected"
+msgstr ""
+
+msgid "Edit appointment"
+msgstr ""
+
+msgid "Edit booking details"
+msgstr ""
+
+msgid "Attach payment"
+msgstr ""
+
+msgid "Enter payment ID"
+msgstr ""
+
+msgid "Send notifications"
+msgstr ""
+
+msgid "Cancellation reason (optional)"
+msgstr ""
+
+msgid "Provider"
+msgstr ""
+
+msgid "-- Select a service --"
+msgstr ""
+
+msgid "Custom service name"
+msgstr ""
+
+msgid "Please enter a service name"
+msgstr ""
+
+msgid "Custom service price"
+msgstr ""
+
+msgid "Period"
+msgstr ""
+
+msgid "Selected period doesn't match service duration"
+msgstr ""
+
+msgid "The selected period is occupied by another appointment"
+msgstr ""
+
+msgid "Selected / maximum"
+msgstr ""
+
+msgid "Minimum capacity"
+msgstr ""
+
+msgid "Package schedule"
+msgstr ""
+
+msgid "Remove customer"
+msgstr ""
+
+msgid "-- Search customers --"
+msgstr ""
+
+msgid ""
+"If email or SMS notifications are enabled and you want customers or staff "
+"member to be notified about this appointment after saving, select "
+"appropriate option before clicking Save. With \"If status changed\" the "
+"notifications are sent to those customers whose status has just been "
+"changed. With \"To all customers\" the notifications are sent to everyone in "
+"the list."
+msgstr ""
+
+msgid ""
+"If email or SMS notifications are enabled and you want customers or yourself "
+"to be notified about this appointment after saving, select appropriate "
+"option before clicking Save. With \"If status changed\" the notifications "
+"are sent to those customers whose status has just been changed. With \"To "
+"all customers\" the notifications are sent to everyone in the list."
+msgstr ""
+
+msgid "Don't send"
+msgstr ""
+
+msgid "If status changed"
+msgstr ""
+
+msgid "To all customers"
+msgstr ""
+
+msgid "Internal note"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Welcome to Bookly!"
+msgstr ""
+
+msgid "Thank you for purchasing our product."
+msgstr ""
+
+msgid ""
+"Bookly offers a simple solution for making appointments. With our plugin you "
+"will be able to easily manage your availability time and handle the flow of "
+"your clients."
+msgstr ""
+
+msgid ""
+"To start using Bookly, you need to follow these steps which are the minimum "
+"requirements to get it running!"
+msgstr ""
+
+msgid "Add staff members."
+msgstr ""
+
+msgid "Add services and assign them to staff members."
+msgstr ""
+
+msgid "Add Staff Members"
+msgstr ""
+
+msgid "Add Services"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "All Day"
+msgstr ""
+
+msgid "Recurring appointments"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Start time must not be empty"
+msgstr ""
+
+msgid "End time must not be empty"
+msgstr ""
+
+msgid "End time must not be equal to start time"
+msgstr ""
+
+#, php-format
+msgid "The number of customers should not be more than %d"
+msgstr ""
+
+msgid "Could not save appointment in database."
+msgstr ""
+
+#, php-format
+msgid "%s has reached the limit of bookings for this service"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Due"
+msgstr ""
+
+msgid "Manual adjustment"
+msgstr ""
+
+msgid "Complete payment"
+msgstr ""
+
+msgid "Bind payment"
+msgstr ""
+
+msgid "No payments for selected period and criteria."
+msgstr ""
+
+msgid "See details for more items"
+msgstr ""
+
+msgid "Payment is not found."
+msgstr ""
+
+msgid "Edit custom CSS"
+msgstr ""
+
+msgid "Set up your custom CSS styles"
+msgstr ""
+
+msgid "Show form progress tracker"
+msgstr ""
+
+msgid "Click on the underlined text to edit."
+msgstr ""
+
+msgid "Make selecting employee required"
+msgstr ""
+
+msgid "Show service price next to employee name"
+msgstr ""
+
+msgid "Show service duration next to service name"
+msgstr ""
+
+msgid "Show calendar"
+msgstr ""
+
+msgid "Show blocked timeslots"
+msgstr ""
+
+msgid "Show each day in one column"
+msgstr ""
+
+msgid "Show time zone switcher"
+msgstr ""
+
+msgid "Make phone field required"
+msgstr ""
+
+msgid "Show Login button"
+msgstr ""
+
+msgid "Do not forget to update your email and SMS codes for customer names"
+msgstr ""
+
+msgid "Use first and last name instead of full name"
+msgstr ""
+
+msgid "Show notes field"
+msgstr ""
+
+msgid ""
+"The booking form on this step may have different set or states of its "
+"elements. It depends on various conditions such as installed/activated add-"
+"ons, settings configuration or choices made on previous steps. Select option "
+"and click on the underlined text to edit."
+msgstr ""
+
+msgid "Form view in case of single booking"
+msgstr ""
+
+msgid "Form view in case of multiple booking"
+msgstr ""
+
+msgid "Form view in case of successful booking"
+msgstr ""
+
+msgid "Form view in case the number of bookings exceeds the limit"
+msgstr ""
+
+msgid "Form view in case of payment has been accepted for processing"
+msgstr ""
+
+msgid "Visible when the chosen time slot has been already booked"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Visible to non-logged in customers only"
+msgstr ""
+
+msgid "total quantity of appointments in cart"
+msgstr ""
+
+msgid "login form"
+msgstr ""
+
+msgid "date of service"
+msgstr ""
+
+msgid "time of service"
+msgstr ""
+
+msgid "total price of booking"
+msgstr ""
+
+msgid "Next month"
+msgstr ""
+
+msgid "Previous month"
+msgstr ""
+
+msgid "Your custom CSS was saved. Please refresh the page to see your changes."
+msgstr ""
+
+msgid "Last appointment"
+msgstr ""
+
+msgid "Total appointments"
+msgstr ""
+
+msgid "Date of birth"
+msgstr ""
+
+msgid "Quick search customer"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Delete customers"
+msgstr ""
+
+msgid ""
+"You are about to delete customers which may have WordPress accounts "
+"associated to them. Do you want to delete those accounts too (if there are "
+"any)?"
+msgstr ""
+
+msgid "No, delete just customers"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid ""
+"You may import list of clients in CSV format. You can choose the columns "
+"contained in your file. The sequence of columns should coincide with the "
+"specified one."
+msgstr ""
+
+msgid "Select file"
+msgstr ""
+
+msgid "New Customer"
+msgstr ""
+
+msgid "No customers found."
+msgstr ""
+
+msgid "Edit customer"
+msgstr ""
+
+msgid "Create customer"
+msgstr ""
+
+msgid "Bookly - License verification required"
+msgstr ""
+
+msgid ""
+"Please verify your license by providing a valid purchase code. Upon "
+"providing the purchase code you will get access to software updates, "
+"including feature improvements and important security fixes."
+msgstr ""
+
+msgid ""
+"If you do not provide a valid purchase code within {days}, access to your "
+"bookings will be disabled. <a href=\"{url}\">Details</a>"
+msgstr ""
+
+msgid "License verification required"
+msgstr ""
+
+msgid "License verification succeeded"
+msgstr ""
+
+msgid "Your license has been verified successfully."
+msgstr ""
+
+msgid ""
+"You have access to software updates, including feature improvements and "
+"important security fixes."
+msgstr ""
+
+msgid "Thank you for choosing Bookly as your booking solution."
+msgstr ""
+
+msgid "Proceed"
+msgstr ""
+
+msgid "Access to your bookings has been disabled."
+msgstr ""
+
+msgid ""
+"To enable access to your bookings, please contact your website administrator "
+"in order to verify the license."
+msgstr ""
+
+msgid ""
+"To enable access to your bookings, please verify your license by providing a "
+"valid purchase code."
+msgstr ""
+
+msgid "I have already made the purchase"
+msgstr ""
+
+msgid "I want to make a purchase now"
+msgstr ""
+
+msgid ""
+"Please contact your website administrator in order to verify the license."
+msgstr ""
+
+msgid ""
+"If you do not verify the license within {days}, access to your bookings will "
+"be disabled."
+msgstr ""
+
+msgid "Proceed to Bookly without license verification"
+msgstr ""
+
+#, php-format
+msgid ""
+"Cannot find your purchase code? See this <a href=\"%s\" target=\"_blank"
+"\">page</a>."
+msgstr ""
+
+msgid "Proceed to Bookly without activating Add-ons"
+msgstr ""
+
+msgid "I will provide license info later"
+msgstr ""
+
+msgid ""
+"To enable access to your bookings, please verify your license by providing a "
+"valid purchase code. <a href=\"{url}\">Details</a>"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "messages"
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Subscribe to monthly emails about Bookly improvements and new releases."
+msgstr ""
+
+msgid "Show all notifications"
+msgstr ""
+
+msgid "Mark all notifications as read"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Need help? Contact us here."
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid ""
+"We care about your experience using Bookly!<br/>Leave a review and tell "
+"others what you think."
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Leave us a message"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "How can we help you?"
+msgstr ""
+
+msgid ""
+"How likely is it that you would recommend Bookly to a friend or colleague?"
+msgstr ""
+
+msgid "What do you think should be improved?"
+msgstr ""
+
+msgid "Please enter your email (optional)"
+msgstr ""
+
+#, php-format
+msgid "Please leave your feedback <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+msgid "All fields marked with an asterisk (*) are required."
+msgstr ""
+
+msgid "Sent successfully."
+msgstr ""
+
+msgid "Error sending support request."
+msgstr ""
+
+msgid "end date of appointment"
+msgstr ""
+
+msgid "end time of appointment"
+msgstr ""
+
+msgid "customer notes for appointment"
+msgstr ""
+
+msgid "cart information"
+msgstr ""
+
+msgid "cart information with cancel"
+msgstr ""
+
+msgid "time zone of client"
+msgstr ""
+
+msgid "URL of approve appointment link (to use inside <a> tag)"
+msgstr ""
+
+msgid ""
+"URL of cancel appointment link with confirmation (to use inside <a> tag)"
+msgstr ""
+
+msgid "URL of cancel appointment link (to use inside <a> tag)"
+msgstr ""
+
+msgid "reason you mentioned while deleting appointment"
+msgstr ""
+
+msgid ""
+"URL for adding event to client's Google Calendar (to use inside <a> tag)"
+msgstr ""
+
+msgid "URL of reject appointment link (to use inside <a> tag)"
+msgstr ""
+
+msgid "duration of service"
+msgstr ""
+
+msgid "agenda date"
+msgstr ""
+
+msgid "staff agenda for next day"
+msgstr ""
+
+msgid "date of next day"
+msgstr ""
+
+msgid "customer new password"
+msgstr ""
+
+msgid "customer new username"
+msgstr ""
+
+msgid "site address"
+msgstr ""
+
+msgid "company logo"
+msgstr ""
+
+msgid "cancel appointment link"
+msgstr ""
+
+msgid "photo of staff"
+msgstr ""
+
+msgid "Test Email Notifications"
+msgstr ""
+
+msgid "To email"
+msgstr ""
+
+msgid "Sender name"
+msgstr ""
+
+msgid "Sender email"
+msgstr ""
+
+msgid "Reply directly to customers"
+msgstr ""
+
+msgid "Send emails as"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "Notification templates"
+msgstr ""
+
+msgid "All templates"
+msgstr ""
+
+msgid ""
+"HTML allows formatting, colors, fonts, positioning, etc. With Text you must "
+"use Text mode of rich-text editors below. On some servers only text emails "
+"are sent successfully."
+msgstr ""
+
+msgid ""
+"If this option is enabled then the email address of the customer is used as "
+"a sender email address for notifications sent to staff members and "
+"administrators."
+msgstr ""
+
+msgid ""
+"When creating a new notification, the page will be reloaded, and all unsaved "
+"changes will be lost."
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Continue without saving"
+msgstr ""
+
+msgid "Attach ICS file"
+msgstr ""
+
+msgid "Send copy to administrators"
+msgstr ""
+
+msgid "Sending time"
+msgstr ""
+
+msgid "Set the time you want the notification to be sent."
+msgstr ""
+
+#, php-format
+msgid "%s before"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Thank you for being with us"
+msgstr ""
+
+msgid "Invalid token provided"
+msgstr ""
+
+msgid ""
+"Sorry, the time slot %date_time% for %service% has been already occupied."
+msgstr ""
+
+msgid "Service was not found"
+msgstr ""
+
+msgid "Not allowed"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "No appointments found."
+msgstr ""
+
+msgid "Show past appointments"
+msgstr ""
+
+msgid "Waiting list appointments"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "No time is available for selected criteria."
+msgstr ""
+
+msgid "Data already in use"
+msgstr ""
+
+msgid "Page Redirection"
+msgstr ""
+
+#, php-format
+msgid ""
+"If you are not redirected automatically, follow the <a href=\"%s\">link</a>."
+msgstr ""
+
+msgid "Session error."
+msgstr ""
+
+msgid "Form ID error."
+msgstr ""
+
+msgid "Pay locally is not available."
+msgstr ""
+
+msgid "Invalid gateway."
+msgstr ""
+
+msgid "Error."
+msgstr ""
+
+msgid "Show more"
+msgstr ""
